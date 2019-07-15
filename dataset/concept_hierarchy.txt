@@ -1,0 +1,337 @@
+0.Instant food products
+PATH=Home/Groceries/Food Cupboard/Tins & Packets/Instant food products
+1.UHT-milk
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/Milks/UHT-milk
+2.abrasive cleaner
+PATH=Home/Groceries/Household/Cleaning/abrasive cleaner
+3.artif. sweetener
+PATH=Home/Groceries/Food Cupboard/Sugar & Sweetners/artif. sweetener
+4.baby cosmetics
+PATH=Home/Groceries/Baby/baby cosmetics
+5.baby food
+PATH=Home/Groceries/Baby/baby food
+6.bags
+PATH=Home/Groceries/Household/Food Storage/Bags/bags
+7.baking powder
+PATH=Home/Groceries/Food Cupboard/Baking, Desserts & Spreads/baking powder
+8.bathroom cleaner
+PATH=Home/Groceries/Household/Cleaning/bathroom cleaner
+9.beef
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/beef
+10.berries
+PATH=Home/Groceries/Fresh Food/Fresh Fruit/berries
+11.beverages
+PATH=Home/Groceries/Drinks/Others/beverages
+12.bottled beer
+PATH=Home/Groceries/Drinks/Beers, Ciders & Alcopops/bottled beer
+13.bottled water
+PATH=Home/Groceries/Drinks/Water/bottled water
+14.brandy
+PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/brandy
+15.brown bread
+PATH=Home/Groceries/Bakery/Breads/brown bread
+16.butter
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/butter
+17.butter milk
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/Milks/butter milk
+18.cake bar
+PATH=Home/Groceries/Bakery/Cakes & Pies/cake bar
+19.candles
+PATH=Home/Groceries/Home & Ents/For the Home/candles
+20.candy
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/candy
+21.canned beer
+PATH=Home/Groceries/Drinks/Beers, Ciders & Alcopops/canned beer
+22.canned fish
+PATH=Home/Groceries/Food Cupboard/Tins & Packets/Tinned Fish & Seafood/canned fish
+23.canned fruit
+PATH=Home/Groceries/Food Cupboard/Tins & Packets/Tinned Fruits/canned fruit
+24.canned vegetables
+PATH=Home/Groceries/Food Cupboard/Tins & Packets/Tinned Vegetables/canned vegetables
+25.cat food
+PATH=Home/Groceries/Pets/cat food
+26.cereals
+PATH=Home/Groceries/Food Cupboard/cereals
+27.chewing gum
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/chewing gum
+28.chicken
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/Chicken & Turkey/chicken
+29.chocolate
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/chocolate
+30.chocolate marshmallow
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/chocolate marshmallow
+31.citrus fruit
+PATH=Home/Groceries/Fresh Food/Fresh Fruit/citrus fruit
+32.cleaner
+PATH=Home/Groceries/Household/Cleaning/cleaner
+33.cling film-bags
+PATH=Home/Groceries/Household/Food Storage/Bags/cling film
+34.cocoa drinks
+PATH=Home/Groceries/Drinks/Others/cocoa drinks
+35.coffee
+PATH=Home/Groceries/Drinks/Coffee/coffee
+36.condensed milk
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/Milks/condensed milk
+37.cooking chocolate
+PATH=Home/Groceries/Food Cupboard/Baking, Desserts & Spreads/cooking chocolate
+38.cookware
+PATH=Home/Groceries/Home & Ents/Cooking & Dining/cookware
+39.cream
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/cream
+40.cream cheese 
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/cream cheese
+41.curd
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/curd
+42.curd cheese
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/curd cheese
+43.decalcifier
+PATH=Home/Groceries/Health & Beauty/Health/decalcifier
+44.dental care
+PATH=Home/Groceries/Health & Beauty/Oral Care/dental care
+45.dessert
+PATH=Home/Groceries/Food Cupboard/Baking, Desserts & Spreads/dessert
+46.detergent
+PATH=Home/Groceries/Household/Laundry/detergent
+47.dish cleaner
+PATH=Home/Groceries/Household/Dishwashers & Washing Up/dish cleaner
+48.dishes
+PATH=Home/Groceries/Home & Ents/For the Home/dishes
+49.dog food
+PATH=Home/Groceries/Pets/dog food
+50.domestic eggs
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/domestic eggs
+51.female sanitary products
+PATH=Home/Groceries/Health & Beauty/Feminine Care/female sanitary products
+53.fish
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/Fish & Seafood/fish
+54.flour
+PATH=Home/Groceries/Food Cupboard/Baking, Desserts & Spreads/flour
+55.flower seeds
+PATH=Home/Groceries/Home & Ents/Plant & Garden/flower seeds
+56.flower soil-fertilizer
+PATH=Home/Groceries/Home & Ents/Plant & Garden/flower soil-fertilizer
+57.frankfurter
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/Sausages/frankfurter
+58.frozen chicken
+PATH=Home/Groceries/Frozen Food/Frozen Meat, Fish & Poultry/Chicken &Turkey/frozen Chicken
+59.frozen dessert
+PATH=Home/Groceries/Frozen Food/Frozen Ice Cream & Desserts/Dessert/frozen dessert
+60.frozen fish
+PATH=Home/Groceries/Frozen Food/Frozen Meat, Fish & Poultry/Fish & Seafood/frozen fish
+61.frozen fruits
+PATH=Home/Groceries/Frozen Food/Frozen Vegs, Chips & Rice/Vegetables & Fruits/frozen fruits
+62.frozen meals
+PATH=Home/Groceries/Frozen Food/Prepared Meals/frozen meals
+63.frozen potato products
+PATH=Home/Groceries/Frozen Food/Frozen Vegs, Chips & Rice/Potatoes & Chips/frozen potato products
+64.frozen vegetables
+PATH=Home/Groceries/Frozen Food/Frozen Vegs, Chips & Rice/Vegetables & Fruits/frozen vegetables
+65.fruit-vegetable juice
+PATH=Home/Groceries/Drinks/Smoothies, Juice & Yoghurt Drinks/fruitvegetable juice
+66.grapes
+PATH=Home/Groceries/Fresh Food/Fresh Fruit/grapes
+67.hair spray
+PATH=Home/Groceries/Health & Beauty/Haircare/hair spray
+68.ham
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/ham
+69.hamburger meat
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/hamburger meat
+70.hard cheese
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/hard cheese
+71.herbs
+PATH=Home/Groceries/Food Cupboard/Cooking Ingredients/Herbs, Spices & Salt/herbs
+72.honey
+PATH=Home/Groceries/Food Cupboard/Baking, Desserts & Spreads/Jams, Spreads & Honey/honey
+73.house keeping products
+PATH=Home/Groceries/Household/house keeping products
+74.hygiene articles
+PATH=Home/Groceries/Household/hygiene articles
+75.ice cream
+PATH=Home/Groceries/Frozen Food/Frozen Ice Cream & Desserts/ice cream
+76.instant coffee
+PATH=Home/Groceries/Drinks/Coffee/instant coffee
+77.jam
+PATH=Home/Groceries/Food Cupboard/Baking, Desserts & Spreads/Jams, Spreads & Honey/jam
+78.ketchup
+PATH=Home/Groceries/Food Cupboard/Condiments & Table Sauces/ketchup
+79.kitchen towels
+PATH=Home/Groceries/Home & Ents/For the Home/Kitchen - Accessories/kitchen towels
+80.kitchen utensil
+PATH=Home/Groceries/Home & Ents/For the Home/Kitchen - Cutlery/kitchen utensil
+81.light bulbs
+PATH=Home/Groceries/Household/light bulbs
+82.liqueur
+PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/liqueur
+83.liquor
+PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/liquor
+84.liquor appetizer
+PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/liquor appetizer
+85.liver loaf
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/liver loaf
+86.long life bakery product
+PATH=Home/Groceries/Bakery/long life bakery product
+87.make up remover
+PATH=Home/Groceries/Health & Beauty/Beauty & Skincare/make up remover
+88.male cosmetics
+PATH=Home/Groceries/Health & Beauty/Beauty & Skincare/male cosmetics
+89.margarine
+PATH:Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/Butter/margarine
+90.mayonnaise
+PATH=Home/Groceries/Food Cupboard/Condiments & Table Sauces/Mayonnaise & Salad Cream/mayonnaise
+91.meat
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/meat
+92.meat spreads
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/meat spreads
+93.misc. beverages
+PATH=Home/Groceries/Drinks/Others/misc. beverages
+94.mustard
+PATH=Home/Groceries/Food Cupboard/Cooking Ingredients/Herbs, Spices & Salt/mustard
+95.napkins
+PATH=Home/Groceries/Household/Toilet Roll, Kitchen Rolls & Tissues/napkins
+96.newspapers
+PATH=Home/Groceries/Home & Ents/Magazines, Newspapers & Tobacconis/newspapers
+97.nut snack
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/Nuts & Popcorn/nuts-snack
+98.nuts/prunes
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/Nuts & Popcorn/nuts-prunes
+99.oil
+PATH=Home/Groceries/Food Cupboard/Cooking Ingredients/oil
+100.onions
+PATH=Home/Groceries/Fresh Food/Vegetables/onions
+101.organic products
+PATH=Home/Groceries/Food Cupboard/Organic/organic products
+102.organic sausage
+PATH=Home/Groceries/Food Cupboard/Organic/organic sausage
+103.other vegetables
+PATH=Home/Groceries/Fresh Food/Vegetables/other vegetables
+104.packaged fruit/vegetables
+PATH=Home/Groceries/Fresh Food/Fresh Fruit/packaged fruit
+105.pasta
+PATH=Home/Groceries/Food Cupboard/Pasta, Rice & Noodles/pasta
+106.pastry
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/pastry
+107.pet care
+PATH=Home/Groceries/Pets/pet care
+108.photo-film
+PATH= Home/Groceries/Home & Ents/Audio Visual & Computing/photo-film
+109.pickled vegetables
+PATH=Home/Groceries/Fresh Food/Vegetables/pickled vegetables
+110.pip fruit
+PATH=Home/Groceries/Fresh Food/Fresh Fruit/pip fruit
+111.popcorn
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/Nuts & Popcorn/popcorn
+112.pork
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/pork
+113.pot plants
+PATH=Home/Groceries/Home & Ents/Plant & Garden/pot plants
+114.potato products
+PATH=Home/Groceries/Food Cupboard/Others/potato products
+115.preservation products
+PATH=Home/Groceries/Food Cupboard/Others/preservation products
+116.processed cheese
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/processed cheese
+117.prosecco
+PATH=Home/Groceries/Drinks/Wine/prosecco
+118.pudding powder
+PATH=Home/Groceries/Food Cupboard/Baking, Desserts & Spreads/pudding powder
+119.ready soups
+PATH=Home/Groceries/Food Cupboard/Tins & Packets/ready soups
+120.red-blush wine
+PATH=Home/Groceries/Drinks/Wine/red-blush wine
+121.rice
+PATH=Home/Groceries/Food Cupboard/Pasta, Rice & Noodles/rice
+122.roll products 
+PATH=Home/Groceries/Bakery/Wraps, Pitta & Naan/roll products
+123.rolls-buns
+PATH=Home/Groceries/Bakery/Wraps, Pitta & Naan/rolls-buns
+124.root vegetables
+PATH=Home/Groceries/Fresh Food/Vegetables/root vegetables
+125.rubbing alcohol
+PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/rubbing alcohol
+126.rum
+PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/rum
+127.salad dressing
+PATH=Home/Groceries/Food Cupboard/Condiments & Table Sauces/salad dressing
+128.salt
+PATH=Home/Groceries/Food Cupboard/Cooking Ingredients/Herbs, Spices & Salt/salt
+129.salty snack
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/Nuts & Popcorn/salty snack
+130.sauces
+PATH=Home/Groceries/Food Cupboard/Condiments & Table Sauces/sauces
+131.sausage
+PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/sausage
+132.seasonal products
+PATH=Home/Groceries/Fresh Food/seasonal products
+133.semi-finished bread
+PATH=Home/Groceries/Bakery/Breads/semi-finished bread
+134.shopping bags
+PATH=Home/Groceries/Household/Food Storage/Bags/shopping bags
+135.skin care
+PATH=Home/Groceries/Health & Beauty/Beauty & Skincare/skin care
+136.sliced cheese
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/sliced cheese
+137.snack products
+PATH=Home/Groceries/Food Cupboard/Snacks/snack products
+138.soap
+PATH=Home/Groceries/Health & Beauty/Toiletries/soap
+139.soda
+PATH=Home/Groceries/Drinks/Soft Drinks/soda
+140.soft cheese
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/soft cheese
+141.softener
+PATH=Home/Groceries/Health & Beauty/Toiletries/softener
+142.sound storage medium
+PATH=Home/Groceries/Household/Sound/sound storage medium
+143.soups
+PATH=Home/Groceries/Food Cupboard/Tins & Packets/soups
+144.sparkling wine
+PATH=Home/Groceries/Drinks/Wine/sparkling wine
+145.specialty bar
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/specialty bar
+146.specialty cheese
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/specialty cheese
+147.specialty chocolate
+PATH=Home/Groceries/Food Cupboard/Crisps, Biscuits & Sweets/specialty chocolate
+148.specialty fat
+PATH=Home/Groceries/Food Cupboard/Others/specialty fat
+149.specialty vegetables
+PATH=Home/Groceries/Fresh Food/Vegetables/specialty vegetables
+150.spices
+PATH=Home/Groceries/Food Cupboard/Cooking Ingredients/Herbs, Spices & Salt/spices
+151.spread cheese
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/spread cheese
+152.sugar
+PATH=Home/Groceries/Food Cupboard/Sugar & Sweetners/sugar
+153.sweet spreads
+PATH=Home/Groceries/Food Cupboard/Sugar & Sweetners/sweet spreads
+154.syrup
+PATH=Home/Groceries/Food Cupboard/Sugar & Sweetners/syrup
+155.tea
+PATH=Home/Groceries/Drinks/tea/tea
+156.tidbits
+PATH=Home/Groceries/Home & Ents/Magazines, Newspapers & Tobacconis/newspapers/tidbits
+157.toilet cleaner
+PATH=Home/Groceries/Household/Cleaning/Toilet Cleaner & Blocks/toilet cleaner
+158.tropical fruit
+PATH=Home/Groceries/Fresh Food/Fresh Fruit/tropical fruit
+159.turkey
+PATH:Home/Groceries/Fresh Food/Meat, Fish & Poultry/Chicken & Turkey/turkey
+160.vinegar
+PATH=Home/Groceries/Food Cupboard/Condiments & Table Sauces/vinegar
+161.waffles
+PATH=Home/Groceries/Bakery/Cakes & Pies/waffles
+162.whipped/sour cream
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/whipped sour cream
+163.whisky
+PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/whisky
+164.white bread
+PATH:Home/Groceries/Bakery/Breads/white bread
+165.white wine
+PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/white wine
+166.whole milk
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/Milks/whole milk
+167.yogurt
+PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/yogurt
+168.zwieback
+PATH=Home/Groceries/Bakery/Breads/zwieback
+
