@@ -4,8 +4,8 @@ PATH=Home/Groceries/Food Cupboard/Tins & Packets/Instant food products
 PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/Milks/UHT-milk
 2.abrasive cleaner
 PATH=Home/Groceries/Household/Cleaning/abrasive cleaner
-3.artif. sweetener
-PATH=Home/Groceries/Food Cupboard/Sugar & Sweetners/artif. sweetener
+3.artificial sweetener
+PATH=Home/Groceries/Food Cupboard/Sugar & Sweetners/artificial sweetener
 4.baby cosmetics
 PATH=Home/Groceries/Baby/baby cosmetics
 5.baby food
@@ -182,8 +182,8 @@ PATH=Home/Groceries/Food Cupboard/Condiments & Table Sauces/Mayonnaise & Salad C
 PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/meat
 92.meat spreads
 PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/meat spreads
-93.misc. beverages
-PATH=Home/Groceries/Drinks/Others/misc. beverages
+93.misc beverages
+PATH=Home/Groceries/Drinks/Others/misc beverages
 94.mustard
 PATH=Home/Groceries/Food Cupboard/Cooking Ingredients/Herbs, Spices & Salt/mustard
 95.napkins
@@ -334,4 +334,3 @@ PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/Milks/whole milk
 PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/yogurt
 168.zwieback
 PATH=Home/Groceries/Bakery/Breads/zwieback
-
