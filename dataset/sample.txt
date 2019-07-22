@@ -1,0 +1,26 @@
+Instant_food_products
+Home Groceries Food_Cupboard Tins_&_Packets Instant_food_products 
+
+UHT-milk
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese Milks UHT-milk 
+
+abrasive_cleaner
+Home Groceries Household Cleaning abrasive_cleaner 
+
+artificial_sweetener
+Home Groceries Food_Cupboard Sugar_&_Sweetners artificial_sweetener 
+
+baby_cosmetics
+Home Groceries Baby baby_cosmetics 
+
+baby_food
+Home Groceries Baby baby_food 
+
+bags
+Home Groceries Household Food_Storage Bags bags 
+
+baking_powder
+Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads baking_powder 
+
+bathroom_cleaner
+Home Groceries Household Cleaning bathroom_cleaner

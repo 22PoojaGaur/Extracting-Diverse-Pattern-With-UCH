@@ -1,0 +1,504 @@
+Instant_food_products
+Home Groceries Food_Cupboard Tins_&_Packets Instant_food_products 
+
+UHT-milk
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese Milks UHT-milk 
+
+abrasive_cleaner
+Home Groceries Household Cleaning abrasive_cleaner 
+
+artificial_sweetener
+Home Groceries Food_Cupboard Sugar_&_Sweetners artificial_sweetener 
+
+baby_cosmetics
+Home Groceries Baby baby_cosmetics 
+
+baby_food
+Home Groceries Baby baby_food 
+
+bags
+Home Groceries Household Food_Storage Bags bags 
+
+baking_powder
+Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads baking_powder 
+
+bathroom_cleaner
+Home Groceries Household Cleaning bathroom_cleaner 
+
+beef
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry beef 
+
+berries
+Home Groceries Fresh_Food Fresh_Fruit berries 
+
+beverages
+Home Groceries Drinks Others beverages 
+
+bottled_beer
+Home Groceries Drinks Beers,_Ciders_&_Alcopops bottled_beer 
+
+bottled_water
+Home Groceries Drinks Water bottled_water 
+
+brandy
+Home Groceries Drinks Spirits,_Liqueurs_&_Fortified_Wines brandy 
+
+brown_bread
+Home Groceries Bakery Breads brown_bread 
+
+butter
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese butter 
+
+butter_milk
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese Milks butter_milk 
+
+cake_bar
+Home Groceries Bakery Cakes_&_Pies cake_bar 
+
+candles
+Home Groceries Home_&_Ents For_the_Home candles 
+
+candy
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets candy 
+
+canned_beer
+Home Groceries Drinks Beers,_Ciders_&_Alcopops canned_beer 
+
+canned_fish
+Home Groceries Food_Cupboard Tins_&_Packets Tinned_Fish_&_Seafood canned_fish 
+
+canned_fruit
+Home Groceries Food_Cupboard Tins_&_Packets Tinned_Fruits canned_fruit 
+
+canned_vegetables
+Home Groceries Food_Cupboard Tins_&_Packets Tinned_Vegetables canned_vegetables 
+
+cat_food
+Home Groceries Pets cat_food 
+
+cereals
+Home Groceries Food_Cupboard cereals 
+
+chewing_gum
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets chewing_gum 
+
+chicken
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry Chicken_&_Turkey chicken 
+
+chocolate
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets chocolate 
+
+chocolate_marshmallow
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets chocolate_marshmallow 
+
+citrus_fruit
+Home Groceries Fresh_Food Fresh_Fruit citrus_fruit 
+
+cleaner
+Home Groceries Household Cleaning cleaner 
+
+cling_film-bags
+Home Groceries Household Food_Storage Bags cling_film 
+
+cocoa_drinks
+Home Groceries Drinks Others cocoa_drinks 
+
+coffee
+Home Groceries Drinks Coffee coffee 
+
+condensed_milk
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese Milks condensed_milk 
+
+cooking_chocolate
+Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads cooking_chocolate 
+
+cookware
+Home Groceries Home_&_Ents Cooking_&_Dining cookware 
+
+cream
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese cream 
+
+cream_cheese
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese cream_cheese 
+
+curd
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese curd 
+
+curd_cheese
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese curd_cheese 
+
+decalcifier
+Home Groceries Health_&_Beauty Health decalcifier 
+
+dental_care
+Home Groceries Health_&_Beauty Oral_Care dental_care 
+
+dessert
+Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads dessert 
+
+detergent
+Home Groceries Household Laundry detergent 
+
+dish_cleaner
+Home Groceries Household Dishwashers_&_Washing_Up dish_cleaner 
+
+dishes
+Home Groceries Home_&_Ents For_the_Home dishes 
+
+dog_food
+Home Groceries Pets dog_food 
+
+domestic_eggs
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese domestic_eggs 
+
+female_sanitary_products
+Home Groceries Health_&_Beauty Feminine_Care female_sanitary_products 
+
+fish
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry Fish_&_Seafood fish 
+
+flour
+Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads flour 
+
+flower_seeds
+Home Groceries Home_&_Ents Plant_&_Garden flower_seeds 
+
+flower_soil-fertilizer
+Home Groceries Home_&_Ents Plant_&_Garden flower_soil-fertilizer 
+
+frankfurter
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry Sausages frankfurter 
+
+frozen_chicken
+Home Groceries Frozen_Food Frozen_Meat,_Fish_&_Poultry Chicken_&Turkey frozen_Chicken 
+
+frozen_dessert
+Home Groceries Frozen_Food Frozen_Ice_Cream_&_Desserts Dessert frozen_dessert 
+
+frozen_fish
+Home Groceries Frozen_Food Frozen_Meat,_Fish_&_Poultry Fish_&_Seafood frozen_fish 
+
+frozen_fruits
+Home Groceries Frozen_Food Frozen_Vegs,_Chips_&_Rice Vegetables_&_Fruits frozen_fruits 
+
+frozen_meals
+Home Groceries Frozen_Food Prepared_Meals frozen_meals 
+
+frozen_potato_products
+Home Groceries Frozen_Food Frozen_Vegs,_Chips_&_Rice Potatoes_&_Chips frozen_potato_products 
+
+frozen_vegetables
+Home Groceries Frozen_Food Frozen_Vegs,_Chips_&_Rice Vegetables_&_Fruits frozen_vegetables 
+
+fruit-vegetable_juice
+Home Groceries Drinks Smoothies,_Juice_&_Yoghurt_Drinks fruitvegetable_juice 
+
+grapes
+Home Groceries Fresh_Food Fresh_Fruit grapes 
+
+hair_spray
+Home Groceries Health_&_Beauty Haircare hair_spray 
+
+ham
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry ham 
+
+hamburger_meat
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry hamburger_meat 
+
+hard_cheese
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese hard_cheese 
+
+herbs
+Home Groceries Food_Cupboard Cooking_Ingredients Herbs,_Spices_&_Salt herbs 
+
+honey
+Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads Jams,_Spreads_&_Honey honey 
+
+house_keeping_products
+Home Groceries Household house_keeping_products 
+
+hygiene_articles
+Home Groceries Household hygiene_articles 
+
+ice_cream
+Home Groceries Frozen_Food Frozen_Ice_Cream_&_Desserts ice_cream 
+
+instant_coffee
+Home Groceries Drinks Coffee instant_coffee 
+
+jam
+Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads Jams,_Spreads_&_Honey jam 
+
+ketchup
+Home Groceries Food_Cupboard Condiments_&_Table_Sauces ketchup 
+
+kitchen_towels
+Home Groceries Home_&_Ents For_the_Home Kitchen_-_Accessories kitchen_towels 
+
+kitchen_utensil
+Home Groceries Home_&_Ents For_the_Home Kitchen_-_Cutlery kitchen_utensil 
+
+light_bulbs
+Home Groceries Household light_bulbs 
+
+liqueur
+Home Groceries Drinks Spirits,_Liqueurs_&_Fortified_Wines liqueur 
+
+liquor
+Home Groceries Drinks Spirits,_Liqueurs_&_Fortified_Wines liquor 
+
+liquor_appetizer
+Home Groceries Drinks Spirits,_Liqueurs_&_Fortified_Wines liquor_appetizer 
+
+liver_loaf
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry liver_loaf 
+
+long_life_bakery_product
+Home Groceries Bakery long_life_bakery_product 
+
+make_up_remover
+Home Groceries Health_&_Beauty Beauty_&_Skincare make_up_remover 
+
+male_cosmetics
+Home Groceries Health_&_Beauty Beauty_&_Skincare male_cosmetics 
+
+margarine
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese Butter margarine 
+
+mayonnaise
+Home Groceries Food_Cupboard Condiments_&_Table_Sauces Mayonnaise_&_Salad_Cream mayonnaise 
+
+meat
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry meat 
+
+meat_spreads
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese meat_spreads 
+
+misc_beverages
+Home Groceries Drinks Others misc_beverages 
+
+mustard
+Home Groceries Food_Cupboard Cooking_Ingredients Herbs,_Spices_&_Salt mustard 
+
+napkins
+Home Groceries Household Toilet_Roll,_Kitchen_Rolls_&_Tissues napkins 
+
+newspapers
+Home Groceries Home_&_Ents Magazines,_Newspapers_&_Tobacconis newspapers 
+
+nut_snack
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets Nuts_&_Popcorn nuts-snack 
+
+nuts/prunes
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets Nuts_&_Popcorn nuts-prunes 
+
+oil
+Home Groceries Food_Cupboard Cooking_Ingredients oil 
+
+onions
+Home Groceries Fresh_Food Vegetables onions 
+
+organic_products
+Home Groceries Food_Cupboard Organic organic_products 
+
+organic_sausage
+Home Groceries Food_Cupboard Organic organic_sausage 
+
+other_vegetables
+Home Groceries Fresh_Food Vegetables other_vegetables 
+
+packaged_fruit/vegetables
+Home Groceries Fresh_Food Fresh_Fruit packaged_fruit 
+
+pasta
+Home Groceries Food_Cupboard Pasta,_Rice_&_Noodles pasta 
+
+pastry
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese pastry 
+
+pet_care
+Home Groceries Pets pet_care 
+
+photo-film
+Home Groceries Home_&_Ents Audio_Visual_&_Computing photo-film 
+
+pickled_vegetables
+Home Groceries Fresh_Food Vegetables pickled_vegetables 
+
+pip_fruit
+Home Groceries Fresh_Food Fresh_Fruit pip_fruit 
+
+popcorn
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets Nuts_&_Popcorn popcorn 
+
+pork
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry pork 
+
+pot_plants
+Home Groceries Home_&_Ents Plant_&_Garden pot_plants 
+
+potato_products
+Home Groceries Food_Cupboard Others potato_products 
+
+preservation_products
+Home Groceries Food_Cupboard Others preservation_products 
+
+processed_cheese
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese processed_cheese 
+
+prosecco
+Home Groceries Drinks Wine prosecco 
+
+pudding_powder
+Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads pudding_powder 
+
+ready_soups
+Home Groceries Food_Cupboard Tins_&_Packets ready_soups 
+
+red-blush_wine
+Home Groceries Drinks Wine red-blush_wine 
+
+rice
+Home Groceries Food_Cupboard Pasta,_Rice_&_Noodles rice 
+
+roll_products
+Home Groceries Bakery Wraps,_Pitta_&_Naan roll_products 
+
+rolls-buns
+Home Groceries Bakery Wraps,_Pitta_&_Naan rolls-buns 
+
+root_vegetables
+Home Groceries Fresh_Food Vegetables root_vegetables 
+
+rubbing_alcohol
+Home Groceries Drinks Spirits,_Liqueurs_&_Fortified_Wines rubbing_alcohol 
+
+rum
+Home Groceries Drinks Spirits,_Liqueurs_&_Fortified_Wines rum 
+
+salad_dressing
+Home Groceries Food_Cupboard Condiments_&_Table_Sauces salad_dressing 
+
+salt
+Home Groceries Food_Cupboard Cooking_Ingredients Herbs,_Spices_&_Salt salt 
+
+salty_snack
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets Nuts_&_Popcorn salty_snack 
+
+sauces
+Home Groceries Food_Cupboard Condiments_&_Table_Sauces sauces 
+
+sausage
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry sausage 
+
+seasonal_products
+Home Groceries Fresh_Food seasonal_products 
+
+semi-finished_bread
+Home Groceries Bakery Breads semi-finished_bread 
+
+shopping_bags
+Home Groceries Household Food_Storage Bags shopping_bags 
+
+skin_care
+Home Groceries Health_&_Beauty Beauty_&_Skincare skin_care 
+
+sliced_cheese
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese sliced_cheese 
+
+snack_products
+Home Groceries Food_Cupboard Snacks snack_products 
+
+soap
+Home Groceries Health_&_Beauty Toiletries soap 
+
+soda
+Home Groceries Drinks Soft_Drinks soda 
+
+soft_cheese
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese soft_cheese 
+
+softener
+Home Groceries Health_&_Beauty Toiletries softener 
+
+sound_storage_medium
+Home Groceries Household Sound sound_storage_medium 
+
+soups
+Home Groceries Food_Cupboard Tins_&_Packets soups 
+
+sparkling_wine
+Home Groceries Drinks Wine sparkling_wine 
+
+specialty_bar
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets specialty_bar 
+
+specialty_cheese
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese specialty_cheese 
+
+specialty_chocolate
+Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets specialty_chocolate 
+
+specialty_fat
+Home Groceries Food_Cupboard Others specialty_fat 
+
+specialty_vegetables
+Home Groceries Fresh_Food Vegetables specialty_vegetables 
+
+spices
+Home Groceries Food_Cupboard Cooking_Ingredients Herbs,_Spices_&_Salt spices 
+
+spread_cheese
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese spread_cheese 
+
+sugar
+Home Groceries Food_Cupboard Sugar_&_Sweetners sugar 
+
+sweet_spreads
+Home Groceries Food_Cupboard Sugar_&_Sweetners sweet_spreads 
+
+syrup
+Home Groceries Food_Cupboard Sugar_&_Sweetners syrup 
+
+tea
+Home Groceries Drinks tea tea 
+
+tidbits
+Home Groceries Home_&_Ents Magazines,_Newspapers_&_Tobacconis newspapers tidbits 
+
+toilet_cleaner
+Home Groceries Household Cleaning Toilet_Cleaner_&_Blocks toilet_cleaner 
+
+tropical_fruit
+Home Groceries Fresh_Food Fresh_Fruit tropical_fruit 
+
+turkey
+Home Groceries Fresh_Food Meat,_Fish_&_Poultry Chicken_&_Turkey turkey 
+
+vinegar
+Home Groceries Food_Cupboard Condiments_&_Table_Sauces vinegar 
+
+waffles
+Home Groceries Bakery Cakes_&_Pies waffles 
+
+whipped/sour_cream
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese whipped_sour_cream 
+
+whisky
+Home Groceries Drinks Spirits,_Liqueurs_&_Fortified_Wines whisky 
+
+white_bread
+Home Groceries Bakery Breads white_bread 
+
+white_wine
+Home Groceries Drinks Spirits,_Liqueurs_&_Fortified_Wines white_wine 
+
+whole_milk
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese Milks whole_milk 
+
+yogurt
+Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese yogurt 
+
+zwieback
+Home Groceries Bakery Breads zwieback 
+
