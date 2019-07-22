@@ -20,7 +20,7 @@ def main():
 	file_name = sys.argv[1]
 	out_file_name = sys.argv[2]
 	line = ''
-
+	
 	try:
 		fin = open(file_name, 'r')
 	except:
@@ -48,6 +48,7 @@ def main():
 	
 	fin.close()
 	fout.close()
+
 
 
 if __name__ == '__main__':
