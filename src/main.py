@@ -33,7 +33,7 @@ class Tree(object):
                 continue
 
             child_vals = [c.value for c in current.children]
-            print("node" + str(node))
+            # print("node" + str(node))
             if node not in child_vals:
                 self.node_count == 1
 
@@ -58,16 +58,14 @@ class Tree(object):
             current = queue[0]
             has_child = 0
             for child in current.children:
-                print(child.value + '_')
+                print(child.value + ' - ', end='')
                 queue.append(child)
-            has_child = 1
+                has_child = 1
             if has_child:
                 print("\n")
-                has_child = 1
+                has_child = 0
             if len(queue) >= 1:
                 queue = queue[1:]
-            print(" length of queue" + str(len(queue)))
-            print("\n")
 
         return
 
@@ -88,8 +86,8 @@ def read_input():
     line = ''
     path = []
     CH = Tree()
-    for line in file.readline():
-        if line.split(' ') == '':
+    for line in file.readlines():
+        if line.strip() == '':
             continue
 
         if is_item:
@@ -100,7 +98,7 @@ def read_input():
             # line is path
             path = line.strip().split(' ')
 
-            CH = CH.Insert_nodes(path)
+            CH.Insert_nodes(path)
             is_item = 1
 
     return CH
