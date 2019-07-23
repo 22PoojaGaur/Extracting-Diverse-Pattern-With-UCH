@@ -3,6 +3,7 @@
 import sys
 import copy
 
+
 class Node(object):
     #tree node
     def __init__(self,id, value, children = []):
@@ -13,17 +14,17 @@ class Node(object):
 
 class Tree(object):
             
-    def __init__(self, root, node_count):
+    def __init__(self):
         super(Tree, self).__init__()
         self.root = None
         self.node_count =0
 
-    def Insert_nodes(self):
+    def Insert_nodes(self, nodes):
     
         # if root empty insert root
         if self.root == None:
             self.node_count == 1
-            self.root = Nodes(self, node_count, nodes[0])
+            self.root = Node(self, node_count, nodes[0])
 
         #insert remaining nodes in tree
         current = self.root
@@ -102,7 +103,7 @@ def read_input():
         else:
             #line is path
             path = line.strip().split(' ')
-            CH = Tree.Insert_nodes(path)
+            CH = CH.Insert_nodes(path)
             is_item = 1
 
     return CH
@@ -110,7 +111,7 @@ def read_input():
 
     
 def main():
-	CH = read_input()
+    CH = read_input()
 
 if __name__ == '__main__':
-	main()
+    main()
