@@ -2,6 +2,7 @@
 
 import sys
 import copy
+import patterns
 
 
 class Node(object):
@@ -71,18 +72,22 @@ class Tree(object):
 
 
 def read_input():
-    if len(sys.argv) < 2:
+    if len(sys.argv) < 3:
         print("file expect name of input file")
         sys.exit(1)
 
     try:
         in_filename = sys.argv[1]
+        pat_filename = sys.argv[2]
         file = open(in_filename, 'r')
+        fpat = open(pat_filename, 'r')
     except IOError:
         print("file not exist")
         sys.exit(1)
 
     is_item = 1
+    # pattern threshold = 4
+    freq_patterns = patterns.extract_frequent_patterns(fpat, 4)
     line = ''
     path = []
     CH = Tree()
