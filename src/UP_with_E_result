@@ -1,0 +1,282 @@
+pattern  0 - 
+pastry
+drank - 
+0.8999999999999999
+
+
+pattern  1 - 
+bottled_beer
+drank - 
+0.8999999999999999
+
+
+pattern  2 - 
+beverages
+drank - 
+0.8999999999999999
+
+
+pattern  3 - 
+UHT-milk
+drank - 
+0.9333333333333333
+
+
+pattern  4 - 
+jam
+drank - 
+0.9333333333333333
+
+
+pattern  5 - 
+salty_snack
+drank - 
+0.9333333333333333
+
+
+pattern  6 - 
+butter
+drank - 
+0.8999999999999999
+
+
+pattern  7 - 
+butter_milk
+drank - 
+0.9333333333333333
+
+
+pattern  8 - 
+onions
+drank - 
+0.8999999999999999
+
+
+pattern  9 - 
+frozen_vegetables
+drank - 
+0.9333333333333333
+
+
+pattern  10 - 
+whipped_sour_cream
+drank - 
+0.8999999999999999
+
+
+pattern  11 - 
+margarine
+drank - 
+0.9333333333333333
+
+
+pattern  12 - 
+napkins
+drank - 
+0.8999999999999999
+
+
+pattern  13 - 
+root_vegetables
+drank - 
+0.8999999999999999
+
+
+pattern  14 - 
+rolls-buns root_vegetables
+drank - 
+0.6000000000000001
+
+
+pattern  15 - 
+coffee
+drank - 
+0.8999999999999999
+
+
+pattern  16 - 
+sausage
+drank - 
+0.8999999999999999
+
+
+pattern  17 - 
+rolls-buns sausage
+drank - 
+0.6000000000000001
+
+
+pattern  18 - 
+shopping_bags
+drank - 
+0.9333333333333333
+
+
+pattern  19 - 
+canned_beer
+drank - 
+0.8999999999999999
+
+
+pattern  20 - 
+fruitvegetable_juice
+drank - 
+0.8999999999999999
+
+
+pattern  21 - 
+fruitvegetable_juice rolls-buns
+drank - 
+0.6000000000000001
+
+
+pattern  22 - 
+fruitvegetable_juice other_vegetables
+drank - 
+0.6000000000000001
+
+
+pattern  23 - 
+fruitvegetable_juice other_vegetables rolls-buns
+drank - 
+0.6000000000000001
+
+
+pattern  24 - 
+bottled_water rolls-buns
+drank - 
+0.6000000000000001
+
+
+pattern  25 - 
+bottled_water newspapers
+drank - 
+0.6000000000000001
+
+
+pattern  26 - 
+bottled_water whole_milk
+drank - 
+0.6666666666666666
+
+
+pattern  27 - 
+brown_bread citrus_fruit
+drank - 
+0.6000000000000001
+
+
+pattern  28 - 
+brown_bread other_vegetables
+drank - 
+0.6000000000000001
+
+
+pattern  29 - 
+citrus_fruit whole_milk
+drank - 
+0.7333333333333333
+
+
+pattern  30 - 
+citrus_fruit rolls-buns whole_milk
+drank - 
+0.5666666666666667
+
+
+pattern  31 - 
+citrus_fruit rolls-buns
+drank - 
+0.6000000000000001
+
+
+pattern  32 - 
+tropical_fruit whole_milk
+drank - 
+0.7333333333333333
+
+
+pattern  33 - 
+citrus_fruit tropical_fruit
+drank - 
+0.8999999999999999
+
+
+pattern  34 - 
+rolls-buns tropical_fruit
+drank - 
+0.6000000000000001
+
+
+pattern  35 - 
+citrus_fruit rolls-buns tropical_fruit
+drank - 
+0.6000000000000001
+
+
+pattern  36 - 
+newspapers
+drank - 
+0.8999999999999999
+
+
+pattern  37 - 
+newspapers whole_milk
+drank - 
+0.6666666666666666
+
+
+pattern  38 - 
+soda
+drank - 
+0.8999999999999999
+
+
+pattern  39 - 
+rolls-buns soda
+drank - 
+0.6000000000000001
+
+
+pattern  40 - 
+yogurt
+drank - 
+0.8999999999999999
+
+
+pattern  41 - 
+rolls-buns yogurt
+drank - 
+0.6000000000000001
+
+
+pattern  42 - 
+other_vegetables whole_milk
+drank - 
+0.7333333333333333
+
+
+pattern  43 - 
+other_vegetables rolls-buns
+drank - 
+0.6000000000000001
+
+
+pattern  44 - 
+whole_milk
+drank - 
+0.9333333333333333
+
+
+pattern  45 - 
+rolls-buns whole_milk
+drank - 
+0.6666666666666666
+
+
+pattern  46 - 
+rolls-buns
+drank - 
+0.8999999999999999
+
+

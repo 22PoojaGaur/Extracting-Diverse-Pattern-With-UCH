@@ -1,0 +1,174 @@
+pattern  0 - 
+specialty_bar
+drank - 
+0.8999999999999999
+
+
+pattern  1 - 
+detergent
+drank - 
+0.8999999999999999
+
+
+pattern  2 - 
+whipped_sour_cream
+drank - 
+0.8999999999999999
+
+
+pattern  3 - 
+beef
+drank - 
+0.8999999999999999
+
+
+pattern  4 - 
+curd
+drank - 
+0.8999999999999999
+
+
+pattern  5 - 
+sugar
+drank - 
+0.8999999999999999
+
+
+pattern  6 - 
+fruitvegetable_juice
+drank - 
+0.8999999999999999
+
+
+pattern  7 - 
+tropical_fruit
+drank - 
+0.8999999999999999
+
+
+pattern  8 - 
+root_vegetables whole_milk
+drank - 
+0.6666666666666666
+
+
+pattern  9 - 
+other_vegetables root_vegetables
+drank - 
+0.8999999999999999
+
+
+pattern  10 - 
+sausage
+drank - 
+0.8999999999999999
+
+
+pattern  11 - 
+rolls-buns sausage
+drank - 
+0.6000000000000001
+
+
+pattern  12 - 
+brown_bread
+drank - 
+0.8999999999999999
+
+
+pattern  13 - 
+brown_bread tropical_fruit
+drank - 
+0.6000000000000001
+
+
+pattern  14 - 
+newspapers
+drank - 
+0.8999999999999999
+
+
+pattern  15 - 
+bottled_water
+drank - 
+0.8999999999999999
+
+
+pattern  16 - 
+bottled_water rolls-buns
+drank - 
+0.6000000000000001
+
+
+pattern  17 - 
+canned_beer
+drank - 
+0.8999999999999999
+
+
+pattern  18 - 
+soda yogurt
+drank - 
+0.6000000000000001
+
+
+pattern  19 - 
+whole_milk yogurt
+drank - 
+0.8
+
+
+pattern  20 - 
+pastry
+drank - 
+0.8999999999999999
+
+
+pattern  21 - 
+pastry soda
+drank - 
+0.6000000000000001
+
+
+pattern  22 - 
+soda whole_milk
+drank - 
+0.6
+
+
+pattern  23 - 
+rolls-buns soda
+drank - 
+0.6000000000000001
+
+
+pattern  24 - 
+whole_milk
+drank - 
+0.9333333333333333
+
+
+pattern  25 - 
+other_vegetables whole_milk
+drank - 
+0.6666666666666666
+
+
+pattern  26 - 
+other_vegetables
+drank - 
+0.8999999999999999
+
+
+pattern  27 - 
+other_vegetables rolls-buns
+drank - 
+0.6000000000000001
+
+
+pattern  28 - 
+rolls-buns
+drank - 
+0.8999999999999999
+
+

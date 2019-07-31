@@ -1,0 +1,2159 @@
+INFO:root:processing pattern pastry
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern bottled_beer
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Beers,_Ciders_&_Alcopops
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern beverages
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Others
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern UHT-milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.9333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.9333333333333333
+INFO:root:processing pattern jam
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Food_Cupboard
+DEBUG:root:processing for node Baking,_Desserts_&_Spreads
+DEBUG:root:processing for node Jams,_Spreads_&_Honey
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.9333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.9333333333333333
+INFO:root:processing pattern salty_snack
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Food_Cupboard
+DEBUG:root:processing for node Crisps,_Biscuits_&_Sweets
+DEBUG:root:processing for node Nuts_&_Popcorn
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.9333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.9333333333333333
+INFO:root:processing pattern butter
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern butter_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.9333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.9333333333333333
+INFO:root:processing pattern onions
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Vegetables
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern frozen_vegetables
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Frozen_Food
+DEBUG:root:processing for node Frozen_Vegs,_Chips_&_Rice
+DEBUG:root:processing for node Vegetables_&_Fruits
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.9333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.9333333333333333
+INFO:root:processing pattern whipped_sour_cream
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern margarine
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node Butter
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.9333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.9333333333333333
+INFO:root:processing pattern napkins
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Household
+DEBUG:root:processing for node Toilet_Roll,_Kitchen_Rolls_&_Tissues
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern root_vegetables
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Vegetables
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern rolls-buns root_vegetables
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:processing for node Vegetables
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern coffee
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Coffee
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern sausage
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Meat,_Fish_&_Poultry
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern rolls-buns sausage
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:processing for node Meat,_Fish_&_Poultry
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern shopping_bags
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Household
+DEBUG:root:processing for node Food_Storage
+DEBUG:root:processing for node Bags
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.9333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.9333333333333333
+INFO:root:processing pattern canned_beer
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Beers,_Ciders_&_Alcopops
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern fruitvegetable_juice
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Smoothies,_Juice_&_Yoghurt_Drinks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern fruitvegetable_juice rolls-buns
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Smoothies,_Juice_&_Yoghurt_Drinks
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern fruitvegetable_juice other_vegetables
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Smoothies,_Juice_&_Yoghurt_Drinks
+DEBUG:root:processing for node Vegetables
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern fruitvegetable_juice other_vegetables rolls-buns
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Smoothies,_Juice_&_Yoghurt_Drinks
+DEBUG:root:processing for node Vegetables
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:3
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 3
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:3
+DEBUG:root:3
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:3
+DEBUG:root:3
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern bottled_water rolls-buns
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Water
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern bottled_water newspapers
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Home_&_Ents
+DEBUG:root:processing for node Water
+DEBUG:root:processing for node Magazines,_Newspapers_&_Tobacconis
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern bottled_water whole_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Water
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node dummy
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.3333333333333333
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.5333333333333333
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 0.5
+DEBUG:root:drank till level 4 is 0.6666666666666666
+DEBUG:root:nodes info at level 5
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.6666666666666666
+INFO:root:processing pattern brown_bread citrus_fruit
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Breads
+DEBUG:root:processing for node Fresh_Fruit
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern brown_bread other_vegetables
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Breads
+DEBUG:root:processing for node Vegetables
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern citrus_fruit whole_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Fresh_Fruit
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node dummy
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 3
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 0.5
+DEBUG:root:drank till level 4 is 0.7333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.7333333333333333
+INFO:root:processing pattern citrus_fruit rolls-buns whole_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Fruit
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:processing for node dummy
+DEBUG:root:processing for node Milks
+DEBUG:root:processing for node dummy
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.3333333333333333
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:3
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 3
+DEBUG:root:nodes at level depth 2
+DEBUG:root:nodes at level depth + 1 3
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 0.5
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.43333333333333335
+DEBUG:root:nodes info at level 4
+DEBUG:root:3
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 0.3333333333333333
+DEBUG:root:drank till level 4 is 0.5666666666666667
+DEBUG:root:nodes info at level 5
+DEBUG:root:3
+DEBUG:root:3
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.5666666666666667
+INFO:root:processing pattern citrus_fruit rolls-buns
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Fruit
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern tropical_fruit whole_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Fresh_Fruit
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node dummy
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 3
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 0.5
+DEBUG:root:drank till level 4 is 0.7333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.7333333333333333
+INFO:root:processing pattern citrus_fruit tropical_fruit
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Fresh_Fruit
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern rolls-buns tropical_fruit
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:processing for node Fresh_Fruit
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern citrus_fruit rolls-buns tropical_fruit
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Fruit
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:3
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern newspapers
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Home_&_Ents
+DEBUG:root:processing for node Magazines,_Newspapers_&_Tobacconis
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern newspapers whole_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Home_&_Ents
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Magazines,_Newspapers_&_Tobacconis
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node dummy
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.3333333333333333
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.5333333333333333
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 0.5
+DEBUG:root:drank till level 4 is 0.6666666666666666
+DEBUG:root:nodes info at level 5
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.6666666666666666
+INFO:root:processing pattern soda
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Soft_Drinks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern rolls-buns soda
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Drinks
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:processing for node Soft_Drinks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern yogurt
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
+INFO:root:processing pattern rolls-buns yogurt
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern other_vegetables whole_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Vegetables
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node dummy
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 3
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 0.5
+DEBUG:root:drank till level 4 is 0.7333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.7333333333333333
+INFO:root:processing pattern other_vegetables rolls-buns
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Vegetables
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.4
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.6000000000000001
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.6000000000000001
+INFO:root:processing pattern whole_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.6
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.9333333333333333
+DEBUG:root:nodes info at level 5
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.9333333333333333
+INFO:root:processing pattern rolls-buns whole_milk
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Fresh_Food
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:processing for node Dairy_,_Eggs_&_Cheese
+DEBUG:root:processing for node dummy
+DEBUG:root:processing for node Milks
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.3333333333333333
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:In get_merge_factor factor
+DEBUG:root:depth 2
+DEBUG:root:nodes at level depth 1
+DEBUG:root:nodes at level depth + 1 2
+DEBUG:root:level factor 0.26666666666666666
+DEBUG:root:merge_factor 0.0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.3333333333333333
+DEBUG:root:nodes info at level 3
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.5333333333333333
+DEBUG:root:nodes info at level 4
+DEBUG:root:2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:level factor 0.13333333333333333
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 0.5
+DEBUG:root:drank till level 4 is 0.6666666666666666
+DEBUG:root:nodes info at level 5
+DEBUG:root:2
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:level factor 0.06666666666666667
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 5 is 0.6666666666666666
+INFO:root:processing pattern rolls-buns
+INFO:root:projection is created
+DEBUG:root:In calculate_nodes_at_each_level
+DEBUG:root:processing for node Home
+DEBUG:root:processing for node Groceries
+DEBUG:root:processing for node Bakery
+DEBUG:root:processing for node Wraps,_Pitta_&_Naan
+DEBUG:root:balanced CH
+DEBUG:root:nodes info at level 1
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.4
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 1 is 0.4
+DEBUG:root:nodes info at level 2
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.3
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 2 is 0.7
+DEBUG:root:nodes info at level 3
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.2
+DEBUG:root:merge_factor 1
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 3 is 0.8999999999999999
+DEBUG:root:nodes info at level 4
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:level factor 0.1
+DEBUG:root:merge_factor 0
+DEBUG:root:adjustment_factor 1.0
+DEBUG:root:drank till level 4 is 0.8999999999999999
