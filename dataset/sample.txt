@@ -1,26 +1,70 @@
-Instant_food_products
-Home Groceries Food_Cupboard Tins_&_Packets Instant_food_products 
-
+newspapers
+brandy
+pastry;sugar;bottled beer;long life bakery product;shopping bags
+beverages;soda;chocolate
 UHT-milk
-Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese Milks UHT-milk 
-
-abrasive_cleaner
-Home Groceries Household Cleaning abrasive_cleaner 
-
-artificial_sweetener
-Home Groceries Food_Cupboard Sugar_&_Sweetners artificial_sweetener 
-
-baby_cosmetics
-Home Groceries Baby baby_cosmetics 
-
-baby_food
-Home Groceries Baby baby_food 
-
-bags
-Home Groceries Household Food_Storage Bags bags 
-
-baking_powder
-Home Groceries Food_Cupboard Baking,_Desserts_&_Spreads baking_powder 
-
-bathroom_cleaner
-Home Groceries Household Cleaning bathroom_cleaner
+cream cheese;pasta;jam;sweet spreads;coffee;soda;chocolate
+rolls-buns;liquor;red-blush wine
+rolls-buns
+rolls-buns;bottled water
+sausage;whole milk;brown bread;pastry
+hard cheese;rolls-buns;soda;shopping bags
+canned beer
+canned beer
+citrus fruit;tropical fruit;berries;yogurt;cream cheese;brown bread;meat spreads
+yogurt
+yogurt;beverages;rolls-buns;fruitvegetable juice;pot plants
+salty snack
+tropical fruit;frozen vegetables
+citrus fruit;other vegetables;whole milk;butter;frozen vegetables;rolls-buns;brown bread;fruitvegetable juice;cleaner
+rolls-buns
+whipped sour cream;salty snack
+citrus fruit;whole milk;butter milk;whipped sour cream
+butter milk
+other vegetables;whole milk;soups;bottled water;bottled beer
+canned beer
+soda;fruitvegetable juice
+tropical fruit;whole milk
+coffee;soda;bottled beer;liquor_appetizer;bathroom cleaner
+ham;other vegetables;whole milk;frozen vegetables
+whipped sour cream
+citrus fruit;tropical fruit;whole milk;rolls-buns;bottled water;long life bakery product;decalcifier;newspapers
+dessert;fruitvegetable juice;newspapers
+whole milk;rolls-buns
+canned beer
+rolls-buns;soda
+fish;dessert;yogurt;cling flim
+meat;other vegetables;rolls-buns;fruitvegetable juice;cling flim
+sausage;rolls-buns
+other vegetables;oil;margarine;dishes
+tropical fruit;other vegetables;waffles;napkins
+baby cosmetics
+citrus fruit;coffee
+tropical fruit;root vegetables;whole milk;yogurt;whipped sour cream;domestic eggs;rolls-buns;margarine;bottled water
+spices
+sausage;hamburger meat;citrus fruit;root vegetables;whole milk;yogurt;rolls-buns
+sausage;condensed milk;rolls-buns;coffee
+beef;other vegetables;margarine;candles
+canned beer;salty snack;shopping bags
+canned beer
+rolls-buns;soda;waffles;shopping bags
+whole milk;beverages;bottled water;newspapers
+root vegetables;brown bread;pot plants
+yogurt
+onions;shopping bags
+hamburger meat;citrus fruit;tropical fruit;rolls-buns;rice;coffee
+napkins;dishes
+other vegetables;butter milk;UHT-milk;brown bread;bottled water
+chicken;other vegetables;whole milk;curd;UHT-milk;rolls-buns;newspapers
+meat;whole milk;frozen potato products;margarine;soda;detergent
+rolls-buns
+butter;yogurt;rolls-buns;jam;soda
+sausage;fish;other vegetables;brown bread;shopping bags
+rolls-buns
+other vegetables;rolls-buns
+frankfurter;whole milk
+newspapers
+turkey;citrus fruit;tropical fruit;grapes;root vegetables;onions;other vegetables;rolls-buns;brown bread;pastry;pickled vegetables;jam;cat food;fruitvegetable juice;napkins
+onions;butter;roll products;oil;napkins;newspapers
+whole milk;curd;ice cream;Instant food products;canned fish;newspapers
+yogurt;frozen vegetables;sweet spreads;bottled water;skin care;newspapers

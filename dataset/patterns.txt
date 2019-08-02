@@ -5,7 +5,7 @@ pip fruit;yogurt;cream cheese;meat spreads
 other vegetables;whole milk;condensed milk;long life bakery product
 whole milk;butter;yogurt;rice;abrasive cleaner
 rolls-buns
-other vegetables;UHT-milk;rolls-buns;bottled beer;liquor (appetizer)
+other vegetables;UHT-milk;rolls-buns;bottled beer;liquor_appetizer
 pot plants
 whole milk;cereals
 tropical fruit;other vegetables;white bread;bottled water;chocolate
@@ -105,7 +105,7 @@ sausage;whole milk;yogurt;coffee;fruitvegetable juice;bottled beer;softener;napk
 soda
 rolls-buns;fruitvegetable juice
 beef;citrus fruit;berries;root vegetables;brown bread;detergent
-whole milk;whipped sour cream;rolls-buns;soda;waffles;candy;cling flim
+whole milk;whipped sour cream;rolls-buns;soda;waffles;candy;cling film
 processed cheese
 tropical fruit;pip fruit
 frankfurter;sausage;root vegetables;other vegetables;rolls-buns;oil;pickled vegetables;bottled beer;chewing gum;dishes
@@ -132,7 +132,7 @@ frankfurter;dessert
 whole milk;yogurt;beverages;brown bread;shopping bags
 newspapers
 berries;soda
-curd;flour;liquor (appetizer)
+curd;flour;liquor_appetizer
 tropical fruit;other vegetables;coffee
 soda
 rolls-buns;Instant food products
@@ -157,16 +157,16 @@ coffee;shopping bags
 popcorn
 whole milk;rolls-buns;sugar;bottled water;soda
 tropical fruit;other vegetables;packaged fruit;whole milk;snack products
-beef;herbs;flour;cling flim;flower soil-fertilizer
+beef;herbs;flour;cling film;flower soil-fertilizer
 whole milk;butter;dessert;rolls-buns
 frankfurter;soda;chewing gum
 tropical fruit;specialty cheese;bottled water
 canned beer
-finished products;other vegetables;frozen vegetables;bottled beer
+ other vegetables;frozen vegetables;bottled beer
 beverages;soda
 hamburger meat;root vegetables;whole milk
 whole milk;pastry;long life bakery product
-finished products;white wine;shopping bags
+ white wine;shopping bags
 other vegetables
 ham;tropical fruit;other vegetables;whole milk;white bread;brown bread;fruitvegetable juice;bottled beer
 other vegetables
@@ -190,14 +190,14 @@ frankfurter;tropical fruit;whole milk;spread cheese;margarine;shopping bags
 other vegetables
 dog food
 specialty bar
-curd;salt;liquor (appetizer);detergent;shopping bags
+curd;salt;liquor_appetizer;detergent;shopping bags
 frankfurter;rolls-buns
 soda
 beef;berries;root vegetables;whole milk;dessert;spread cheese;brown bread
 canned beer
 pork;beef;pip fruit;herbs;spices
 frankfurter;citrus fruit;UHT-milk;margarine;sugar
-sausage;bottled beer;liquor (appetizer)
+sausage;bottled beer;liquor_appetizer
 canned beer
 specialty chocolate
 curd;rolls-buns
@@ -225,7 +225,7 @@ misc. beverages;newspapers
 white wine
 sausage;sliced cheese;rolls-buns;soda;canned beer;shopping bags
 meat;curd;bottled beer;cake bar
-frankfurter;meat;tropical fruit;onions;oil;baking powder;tea;cling flim
+frankfurter;meat;tropical fruit;onions;oil;baking powder;tea;cling film
 ice cream;rolls-buns;canned beer
 canned beer
 tropical fruit;berries;root vegetables;other vegetables;bottled water;shopping bags
@@ -286,7 +286,7 @@ sausage;whole milk;yogurt;rolls-buns;brown bread;pot plants
 whole milk;frozen meals;pastry;fruitvegetable juice;waffles
 canned beer
 citrus fruit;sugar;sauces
-liquor (appetizer)
+liquor_appetizer
 citrus fruit;other vegetables;rolls-buns;salty snack;shopping bags
 sausage
 chicken;other vegetables;whole milk;vinegar;oil;bottled water;canned beer;napkins;newspapers
@@ -381,7 +381,7 @@ butter milk;yogurt
 newspapers
 coffee
 bottled beer;liquor
-onions;butter;whipped sour cream;hard cheese;frozen vegetables;pasta;specialty fat;syrup;candy;napkins;cling flim
+onions;butter;whipped sour cream;hard cheese;frozen vegetables;pasta;specialty fat;syrup;candy;napkins;cling film
 hamburger meat;hard cheese;frozen meals;pasta;dog food;salty snack;shopping bags
 sausage;liver loaf;other vegetables;cream cheese;pastry;soap;shopping bags
 hard cheese;pastry;napkins
@@ -445,14 +445,14 @@ soda
 coffee;hygiene articles
 rolls-buns;brown bread;bottled water
 pork;beef;hamburger meat;other vegetables;whole milk;frozen vegetables;rolls-buns;margarine;shopping bags
-soda;canned beer;liquor (appetizer);hygiene articles;napkins;newspapers
+soda;canned beer;liquor_appetizer;hygiene articles;napkins;newspapers
 sausage;ham;other vegetables;ice cream;white bread
 beef;root vegetables;other vegetables;rolls-buns;sugar
 whole milk;butter;bottled water;bottled beer
 pork;ice cream;hygiene articles;house keeping products
 berries;packaged fruit;whole milk;ice cream;fruitvegetable juice;salty snack;specialty bar
 sausage;other vegetables;curd;yogurt;whipped sour cream;frozen vegetables;rolls-buns;roll products 
-bottled water;misc. beverages;cling flim
+bottled water;misc. beverages;cling film
 tropical fruit;other vegetables;packaged fruit;whole milk;hard cheese;frozen dessert;rice;bottled water
 herbs;bottled water
 yogurt;rolls-buns
@@ -567,7 +567,7 @@ soda
 fruitvegetable juice;long life bakery product
 rolls-buns;coffee;long life bakery product;detergent;shopping bags
 pip fruit;whole milk;bottled water;candy
-frozen vegetables;bottled beer;liquor (appetizer);chewing gum;napkins;newspapers
+frozen vegetables;bottled beer;liquor_appetizer;chewing gum;napkins;newspapers
 beverages
 hamburger meat;root vegetables;other vegetables;domestic eggs;roll products;oil;margarine;hygiene articles
 root vegetables;other vegetables;whole milk;yogurt;fruitvegetable juice;white wine
@@ -582,7 +582,7 @@ canned beer
 grapes;root vegetables;frozen vegetables;domestic eggs;white wine
 root vegetables;packaged fruit;butter;whipped sour cream;rolls-buns
 citrus fruit;frozen vegetables;rolls-buns;canned beer;salty snack
-cling flim;pot plants
+cling film;pot plants
 frankfurter;whole milk;rolls-buns;margarine;baking powder;bottled beer
 whole milk;red-blush wine
 pork;tropical fruit;whole milk;curd;yogurt;hard cheese;frozen meals;frozen dessert;domestic eggs;cereals;baking powder;fruitvegetable juice;soap
@@ -631,7 +631,7 @@ hamburger meat;whole milk;oil;ketchup;soups;Instant food products;canned fish;co
 beef;citrus fruit;other vegetables;butter milk;sliced cheese;processed cheese;rolls-buns;margarine;bottled water;fruitvegetable juice
 beef;citrus fruit;whole milk;domestic eggs;rolls-buns;pastry;roll products;tea;fruitvegetable juice
 root vegetables;whole milk;detergent
-citrus fruit;tropical fruit;grapes;other vegetables;frozen vegetables;pickled vegetables;fruitvegetable juice;liquor;rum;liquor (appetizer);candy;cling flim
+citrus fruit;tropical fruit;grapes;other vegetables;frozen vegetables;pickled vegetables;fruitvegetable juice;liquor;rum;liquor_appetizer;candy;cling film
 yogurt;bottled water
 tropical fruit;root vegetables;other vegetables;whipped sour cream;brown bread;canned fish;long life bakery product
 frankfurter;root vegetables;newspapers
@@ -647,7 +647,7 @@ bottled beer
 tropical fruit;domestic eggs;rolls-buns;pastry
 soda
 frankfurter;root vegetables;onions;other vegetables;white bread;canned beer
-chicken;hamburger meat;herbs;whipped sour cream;soups;soda;canned beer;dish cleaner;napkins;cling flim
+chicken;hamburger meat;herbs;whipped sour cream;soups;soda;canned beer;dish cleaner;napkins;cling film
 coffee;soda
 whole milk
 margarine
@@ -730,11 +730,11 @@ tropical fruit;spread cheese;rolls-buns;soda
 packaged fruit;canned beer;candles
 whole milk;yogurt;bottled beer;white wine;salty snack;napkins
 meat;beef;other vegetables;whole milk;butter;domestic eggs;rolls-buns
-onions;whole milk;bottled beer;liquor (appetizer);detergent;dishes
+onions;whole milk;bottled beer;liquor_appetizer;detergent;dishes
 frankfurter;grapes;other vegetables;butter milk;UHT-milk;brown bread;margarine;organic products;bottled water;soda
 beef;rolls-buns;bottled beer
 beef
-sausage;bottled beer;liquor (appetizer)
+sausage;bottled beer;liquor_appetizer
 chicken;onions;herbs;hygiene articles
 canned beer
 sausage;root vegetables;other vegetables;whole milk;bottled beer;seasonal products
@@ -770,7 +770,7 @@ pork;root vegetables;whole milk;whipped sour cream
 rolls-buns;newspapers
 grapes;other vegetables;zwieback;Instant food products;dishes
 frankfurter;citrus fruit;whipped sour cream;cream cheese;rolls-buns;baking powder;seasonal products;napkins
-finished products;root vegetables;packaged fruit;yogurt;specialty cheese;frozen vegetables;ice cream;soda;bottled beer
+ root vegetables;packaged fruit;yogurt;specialty cheese;frozen vegetables;ice cream;soda;bottled beer
 onions;other vegetables;flour
 tropical fruit;whole milk;rolls-buns
 other vegetables;cream cheese;tea;chocolate;chocolate marshmallow
@@ -778,8 +778,8 @@ ham;turkey;beef;other vegetables;whole milk;pot plants
 other vegetables;whole milk;margarine;bottled beer
 curd
 sausage;beef;other vegetables
-canned beer;liquor (appetizer);chewing gum
-ham;chicken;citrus fruit;berries;onions;whole milk;curd;yogurt;frozen vegetables;rolls-buns;margarine;soda;liquor (appetizer);cake bar;candy;seasonal products;skin care
+canned beer;liquor_appetizer;chewing gum
+ham;chicken;citrus fruit;berries;onions;whole milk;curd;yogurt;frozen vegetables;rolls-buns;margarine;soda;liquor_appetizer;cake bar;candy;seasonal products;skin care
 packaged fruit;whole milk;dessert;yogurt;UHT-milk;margarine;bottled water;long life bakery product
 meat;rolls-buns;soda;specialty bar
 whole milk;dessert
@@ -913,7 +913,7 @@ soda;canned beer;shopping bags
 curd;roll products;margarine;bottled water;canned beer;white wine;dish cleaner
 bottled water;soda;fruitvegetable juice;bottled beer;napkins
 packaged fruit;pot plants
-tropical fruit;root vegetables;frozen vegetables;ice cream;bottled water;cling flim
+tropical fruit;root vegetables;frozen vegetables;ice cream;bottled water;cling film
 ham;beef;grapes;yogurt;whipped sour cream;domestic eggs;white bread;pastry;bottled water;fruitvegetable juice;white wine;salty snack;chocolate;newspapers;shopping bags
 pork;citrus fruit;UHT-milk;brown bread;soda;bottled beer;canned beer;long life bakery product
 beverages;rolls-buns;soda;misc. beverages;liqueur;cake bar
@@ -957,7 +957,7 @@ ice cream;newspapers
 curd;whipped sour cream;domestic eggs;flour;misc. beverages;newspapers
 whole milk;frozen meals;newspapers
 onions;whole milk;dessert;domestic eggs;rolls-buns;white bread;coffee;bottled water
-finished products;organic sausage;sliced cheese;white bread;fruitvegetable juice
+ organic sausage;sliced cheese;white bread;fruitvegetable juice
 salt;dog food;long life bakery product
 tropical fruit;root vegetables;other vegetables;domestic eggs;white bread;brown bread;canned vegetables;soda;fruitvegetable juice;rum
 other vegetables;whole milk;yogurt
@@ -994,7 +994,7 @@ cream cheese;margarine;tea
 sausage;curd;frozen meals;domestic eggs;cake bar;seasonal products;detergent;cleaner;house keeping products;pot plants;shopping bags
 citrus fruit;onions
 other vegetables;whipped sour cream;roll products 
-chicken;tropical fruit;pip fruit;root vegetables;other vegetables;whole milk;butter;yogurt;whipped sour cream;hard cheese;frozen vegetables;frozen fish;domestic eggs;white bread;rice;specialty fat;dog food;bottled water;fruitvegetable juice;long life bakery product;softener;napkins;cling flim
+chicken;tropical fruit;pip fruit;root vegetables;other vegetables;whole milk;butter;yogurt;whipped sour cream;hard cheese;frozen vegetables;frozen fish;domestic eggs;white bread;rice;specialty fat;dog food;bottled water;fruitvegetable juice;long life bakery product;softener;napkins;cling film
 ice cream
 pork;beef;ice cream;rolls-buns;newspapers
 pork;tropical fruit;other vegetables;yogurt;semi-finished bread;flour;margarine;artif. sweetener;organic products;chocolate marshmallow
@@ -1085,18 +1085,18 @@ chicken;citrus fruit;root vegetables;other vegetables;whole milk;yogurt;hard che
 chicken;tropical fruit;whole milk;condensed milk;soft cheese;processed cheese;domestic eggs;white bread;pastry;semi-finished bread;soda;long life bakery product;waffles;specialty chocolate;napkins;dishes;kitchen towels;shopping bags
 butter;rolls-buns;pastry;bottled water;canned beer;waffles
 citrus fruit;root vegetables;dessert;yogurt;UHT-milk;brown bread
-whipped sour cream;beverages;liquor (appetizer)
+whipped sour cream;beverages;liquor_appetizer
 frankfurter;turkey;citrus fruit
 beef;citrus fruit;other vegetables;whole milk;domestic eggs;rolls-buns;brown bread;coffee;soda;salty snack;shopping bags
 chicken;other vegetables;white wine;specialty chocolate
-sausage;finished products;tropical fruit;pip fruit;other vegetables;butter;curd;dessert;butter milk;yogurt;whipped sour cream;soft cheese;frozen vegetables;rolls-buns;white bread;brown bread;pastry;pasta;soups;baby food;fruitvegetable juice;salty snack;waffles;cake bar;chocolate;shopping bags
+sausage; tropical fruit;pip fruit;other vegetables;butter;curd;dessert;butter milk;yogurt;whipped sour cream;soft cheese;frozen vegetables;rolls-buns;white bread;brown bread;pastry;pasta;soups;baby food;fruitvegetable juice;salty snack;waffles;cake bar;chocolate;shopping bags
 citrus fruit;whole milk;butter;dessert;UHT-milk;flower seeds;shopping bags
 ice cream;coffee;waffles
 specialty chocolate
 frankfurter;herbs;yogurt;UHT-milk;mayonnaise;frozen vegetables;margarine;bottled water;soda;salty snack;seasonal products;detergent;pot plants
 pork
 UHT-milk;vinegar;waffles;chocolate
-UHT-milk;domestic eggs;brown bread;coffee;soda;canned beer;liquor (appetizer);newspapers
+UHT-milk;domestic eggs;brown bread;coffee;soda;canned beer;liquor_appetizer;newspapers
 cookware
 citrus fruit;butter;UHT-milk;margarine;bottled beer
 sausage;hamburger meat;tropical fruit;onions;other vegetables;butter;yogurt;white bread;brown bread;margarine;cat food
@@ -1132,7 +1132,7 @@ ham;tropical fruit;cream cheese;processed cheese;white bread;candy
 root vegetables;skin care
 ice cream;misc. beverages;canned beer;napkins;shopping bags
 tropical fruit;other vegetables;bottled water;bottled beer;napkins
-finished products;other vegetables;soda;fruitvegetable juice
+ other vegetables;soda;fruitvegetable juice
 dessert
 sparkling wine
 other vegetables;yogurt;oil;dental care
@@ -1167,7 +1167,7 @@ pork;other vegetables
 turkey;whole milk;UHT-milk;fruitvegetable juice
 tropical fruit;other vegetables;soda;candy;shopping bags
 sausage;other vegetables;pasta;oil;margarine;coffee;syrup;canned beer;napkins;light bulbs;shopping bags
-sausage;meat;other vegetables;brown bread;canned fish;bottled water;canned beer;liquor (appetizer);shopping bags
+sausage;meat;other vegetables;brown bread;canned fish;bottled water;canned beer;liquor_appetizer;shopping bags
 pork;tropical fruit;other vegetables;dessert;yogurt;roll products;flour;rice;coffee;bottled water;soda;fruitvegetable juice;canned beer;salty snack
 sausage;citrus fruit;pip fruit;mayonnaise;brown bread;shopping bags
 grapes;chocolate;light bulbs
@@ -1225,13 +1225,13 @@ chicken;bottled beer;red-blush wine;newspapers
 sausage;meat;butter;domestic eggs;cat food
 bottled beer;pot plants
 chicken;pork;grapes;other vegetables;domestic eggs;rolls-buns;pastry;soda;specialty bar
-finished products;other vegetables;whole milk;whipped sour cream;margarine;cereals;soda;salty snack
+ other vegetables;whole milk;whipped sour cream;margarine;cereals;soda;salty snack
 pork;beef;citrus fruit;berries;root vegetables;other vegetables;whole milk;yogurt;cream cheese;vinegar;oil;cat food;specialty chocolate;detergent;dish cleaner;abrasive cleaner;cleaner;hygiene articles;shopping bags
 root vegetables;whole milk;yogurt;frozen potato products
 domestic eggs;seasonal products;shopping bags
 domestic eggs;specialty bar;seasonal products;shopping bags
 bottled water;soda
-cling flim
+cling film
 other vegetables;rolls-buns;bottled water;fruitvegetable juice;canned beer;whisky;shopping bags
 whole milk
 sausage;meat;pork;whole milk;butter;whipped sour cream;frozen vegetables;frozen dessert;white bread;brown bread;pastry;coffee
@@ -1362,7 +1362,7 @@ chicken;other vegetables;whole milk;domestic eggs;pastry;canned beer
 butter;yogurt;dog food
 ham;dessert;frozen meals;frozen dessert;white bread;sweet spreads;soda;long life bakery product;specialty bar;hygiene articles;newspapers;shopping bags
 whole milk;butter milk;soda;chewing gum;shopping bags
-citrus fruit;misc. beverages;liquor;cling flim
+citrus fruit;misc. beverages;liquor;cling film
 ham;herbs;other vegetables;curd;yogurt;cream cheese;light bulbs
 canned beer
 frankfurter;packaged fruit;brown bread;margarine;waffles
@@ -1399,7 +1399,7 @@ herbs
 dog food;soda;fruitvegetable juice;bottled beer
 packaged fruit;whole milk;pastry;bottled water;soda;misc. beverages;chewing gum;specialty bar;hygiene articles;pot plants;shopping bags
 frankfurter;pork;specialty fat;specialty bar
-finished products;beef;tropical fruit;spread cheese;rolls-buns;waffles;chocolate;specialty chocolate;hair spray;shopping bags
+ beef;tropical fruit;spread cheese;rolls-buns;waffles;chocolate;specialty chocolate;hair spray;shopping bags
 oil
 curd
 herbs;pot plants
@@ -1435,7 +1435,7 @@ ham;whole milk;curd;dessert
 ice cream;soda;bottled beer;chocolate marshmallow
 sausage;whole milk;brown bread;soda
 detergent
-oil;female sanitary products;cling flim
+oil;female sanitary products;cling film
 tropical fruit;pip fruit;grapes;ice cream;frozen potato products;rolls-buns;pastry;soda;misc. beverages;salty snack;long life bakery product;chewing gum;specialty bar;napkins;photo-film
 photo-film
 UHT-milk;coffee
@@ -1475,7 +1475,7 @@ other vegetables;whole milk;soups;bottled water;bottled beer
 canned beer
 soda;fruitvegetable juice
 tropical fruit;whole milk
-coffee;soda;bottled beer;liquor (appetizer);bathroom cleaner
+coffee;soda;bottled beer;liquor_appetizer;bathroom cleaner
 ham;other vegetables;whole milk;frozen vegetables
 whipped sour cream
 citrus fruit;tropical fruit;whole milk;rolls-buns;bottled water;long life bakery product;decalcifier;newspapers
@@ -1483,8 +1483,8 @@ dessert;fruitvegetable juice;newspapers
 whole milk;rolls-buns
 canned beer
 rolls-buns;soda
-fish;dessert;yogurt;cling flim
-meat;other vegetables;rolls-buns;fruitvegetable juice;cling flim
+fish;dessert;yogurt;cling film
+meat;other vegetables;rolls-buns;fruitvegetable juice;cling film
 sausage;rolls-buns
 other vegetables;oil;margarine;dishes
 tropical fruit;other vegetables;waffles;napkins
@@ -1670,7 +1670,7 @@ domestic eggs;rolls-buns;soda
 soda;waffles
 whole milk;yogurt;beverages;mustard;bottled water;newspapers
 ham;pip fruit;whole milk;rolls-buns;honey;newspapers
-curd;yogurt;mayonnaise;brown bread;margarine;sugar;ketchup;dish cleaner;cling flim
+curd;yogurt;mayonnaise;brown bread;margarine;sugar;ketchup;dish cleaner;cling film
 bottled water
 butter milk;coffee
 pork;other vegetables
@@ -1772,7 +1772,7 @@ citrus fruit;UHT-milk;napkins
 pip fruit;curd;soda;bottled beer;softener;hygiene articles
 tropical fruit;root vegetables;whole milk;curd;yogurt;frozen vegetables;domestic eggs
 frankfurter;other vegetables;whole milk;yogurt;condensed milk;cream cheese;rolls-buns;pastry
-pip fruit;other vegetables;butter milk;frozen vegetables;brown bread;soups;sauces;fruitvegetable juice;long life bakery product;cling flim
+pip fruit;other vegetables;butter milk;frozen vegetables;brown bread;soups;sauces;fruitvegetable juice;long life bakery product;cling film
 canned beer
 pork;citrus fruit;soda;canned beer;chocolate;hygiene articles
 rolls-buns;newspapers
@@ -1798,7 +1798,7 @@ pip fruit;whole milk
 turkey;citrus fruit;tropical fruit;pip fruit;berries;root vegetables;herbs;whole milk;butter;frozen vegetables;sauces;pickled vegetables;bottled water;rubbing alcohol;hygiene articles;napkins;flower seeds
 yogurt;specialty chocolate;seasonal products
 whipped sour cream;baking powder
-finished products;tropical fruit;bottled water;popcorn;shopping bags
+ tropical fruit;bottled water;popcorn;shopping bags
 sausage;mayonnaise;misc. beverages;candy
 other vegetables;cream cheese;rolls-buns
 newspapers
@@ -1914,9 +1914,9 @@ liver loaf;pork;citrus fruit;tropical fruit;root vegetables;other vegetables;who
 citrus fruit;tropical fruit;root vegetables;herbs;other vegetables;whole milk;yogurt;bottled water;bottled beer
 chicken;citrus fruit;yogurt;whipped sour cream;spread cheese;margarine;softener
 citrus fruit;whole milk;sliced cheese;rolls-buns;pastry;roll products;coffee;bottled water;soda;bottled beer;canned beer;rum;waffles;chocolate
-bottled water;liquor (appetizer);specialty bar
+bottled water;liquor_appetizer;specialty bar
 pip fruit;berries;root vegetables;other vegetables;whole milk;whipped sour cream
-whole milk;curd;yogurt;frozen vegetables;margarine;ketchup;cereals;canned fish;soda;cling flim
+whole milk;curd;yogurt;frozen vegetables;margarine;ketchup;cereals;canned fish;soda;cling film
 hamburger meat;whole milk;curd;dessert
 turkey;hamburger meat;root vegetables;other vegetables;whole milk;yogurt;hard cheese;cereals;long life bakery product;specialty chocolate;candy;hygiene articles
 ham;beef;tropical fruit;pip fruit;other vegetables;whole milk;dessert;yogurt;whipped sour cream;soft cheese;frozen potato products;rolls-buns;soda;long life bakery product;chocolate
@@ -1926,7 +1926,7 @@ yogurt
 butter
 chicken;hamburger meat;whole milk;rolls-buns;flour;margarine;coffee;canned beer;hygiene articles;shopping bags
 beverages;rolls-buns;long life bakery product;shopping bags
-onions;bottled water;soda;canned beer;chewing gum;male cosmetics;napkins;cling flim
+onions;bottled water;soda;canned beer;chewing gum;male cosmetics;napkins;cling film
 bottled beer
 butter;pastry;semi-finished bread;white wine;detergent
 root vegetables;butter;pot plants
@@ -2002,13 +2002,13 @@ rolls-buns;vinegar;bottled beer
 other vegetables;domestic eggs;soda
 other vegetables;pastry
 root vegetables;canned vegetables;soda;shopping bags
-other vegetables;whole milk;butter;yogurt;cream cheese;vinegar;pet care;fruitvegetable juice;cling flim
+other vegetables;whole milk;butter;yogurt;cream cheese;vinegar;pet care;fruitvegetable juice;cling film
 pastry;salty snack
 other vegetables;brown bread;soda
 other vegetables;frozen vegetables;pastry;specialty bar
 citrus fruit;tropical fruit;whole milk;domestic eggs;pastry;bottled water;salty snack
 white bread
-citrus fruit;berries;onions;other vegetables;condensed milk;soft cheese;oil;pickled vegetables;specialty vegetables;coffee;bottled water;soda;bottled beer;dish cleaner;male cosmetics;cling flim
+citrus fruit;berries;onions;other vegetables;condensed milk;soft cheese;oil;pickled vegetables;specialty vegetables;coffee;bottled water;soda;bottled beer;dish cleaner;male cosmetics;cling film
 whole milk
 chocolate;pot plants
 citrus fruit;other vegetables;frozen meals;rice;canned beer;salty snack
@@ -2058,7 +2058,7 @@ domestic eggs;cat food;bottled water
 sausage;pip fruit;onions;spices;cat food;bottled beer;newspapers
 root vegetables;yogurt;fruitvegetable juice
 other vegetables;yogurt
-citrus fruit;whole milk;specialty bar;dish cleaner;cling flim
+citrus fruit;whole milk;specialty bar;dish cleaner;cling film
 pork;frozen potato products;soda
 onions;dessert;yogurt;domestic eggs;rolls-buns;brown bread;pastry;cat food;bottled water;soda;fruitvegetable juice;long life bakery product;chocolate;female sanitary products;napkins
 other vegetables;whole milk;yogurt;spices
@@ -2071,7 +2071,7 @@ pork;onions;pastry;potato products;bottled water
 whole milk;specialty fat;soda
 pork;tropical fruit;berries;whole milk;yogurt;white bread;oil
 cat food;chocolate
-finished products;citrus fruit;yogurt;pastry;soda;waffles;shopping bags
+ citrus fruit;yogurt;pastry;soda;waffles;shopping bags
 brown bread;margarine;long life bakery product;flower seeds
 berries;dessert;whipped sour cream;bottled water;soda;fruitvegetable juice;white wine
 ham;whole milk;domestic eggs;pastry;oil;baking powder;chewing gum;chocolate marshmallow
@@ -2137,7 +2137,7 @@ other vegetables;whole milk;rolls-buns;vinegar;margarine;soda;waffles
 sweet spreads;cat food
 frankfurter;sausage;other vegetables;domestic eggs;ketchup;canned fish;soda;long life bakery product;shopping bags
 pork;beef;other vegetables;hard cheese;cream cheese;rolls-buns;brown bread;napkins
-sausage;ham;finished products;frozen meals;salty snack;long life bakery product;waffles;shopping bags
+sausage;ham; frozen meals;salty snack;long life bakery product;waffles;shopping bags
 pip fruit;soda
 bottled beer;canned beer
 beverages
@@ -2154,7 +2154,7 @@ cream cheese
 bottled water;fruitvegetable juice
 chocolate
 cream cheese;white bread;sweet spreads;cat food;coffee;syrup;specialty bar
-whole milk;soda;canned beer;liquor (appetizer);newspapers
+whole milk;soda;canned beer;liquor_appetizer;newspapers
 whole milk;domestic eggs;rolls-buns;brown bread;specialty chocolate;shopping bags
 fruitvegetable juice
 onions;spread cheese
@@ -2167,7 +2167,7 @@ tropical fruit;other vegetables;whole milk;curd;frozen dessert;rolls-buns;margar
 butter
 rolls-buns;misc. beverages
 sausage;beef;other vegetables;frozen fish;domestic eggs;roll products;margarine;sugar;baking powder;coffee;kitchen towels;shopping bags
-citrus fruit;tropical fruit;pip fruit;grapes;onions;other vegetables;sliced cheese;cream cheese;mayonnaise;ice cream;frozen dessert;margarine;mustard;soups;pickled vegetables;coffee;long life bakery product;chocolate;seasonal products;female sanitary products;hygiene articles;cling flim
+citrus fruit;tropical fruit;pip fruit;grapes;onions;other vegetables;sliced cheese;cream cheese;mayonnaise;ice cream;frozen dessert;margarine;mustard;soups;pickled vegetables;coffee;long life bakery product;chocolate;seasonal products;female sanitary products;hygiene articles;cling film
 tropical fruit;other vegetables
 pork;beef;root vegetables;whole milk;pasta;margarine;jam;bottled water
 whole milk
@@ -2299,7 +2299,7 @@ frankfurter;tropical fruit;dessert;rolls-buns;brown bread;seasonal products;flow
 detergent
 sausage;citrus fruit;pip fruit;whole milk;curd;domestic eggs;margarine;newspapers
 chicken;other vegetables;whole milk;cream cheese;hygiene articles
-yogurt;bottled beer;liquor (appetizer);chewing gum
+yogurt;bottled beer;liquor_appetizer;chewing gum
 whole milk;yogurt;oil;bottled water;bottled beer;salty snack;specialty chocolate
 yogurt;bottled water
 whipped sour cream
@@ -2309,7 +2309,7 @@ whole milk
 citrus fruit;flour;pasta;margarine;sugar;baking powder;soda
 pork;other vegetables;whole milk;canned fish;coffee;specialty bar;candy
 beverages
-UHT-milk;hygiene articles;cling flim;newspapers
+UHT-milk;hygiene articles;cling film;newspapers
 beef;whole milk;frozen vegetables;sweet spreads;candy;dish cleaner;dental care;photo-film
 other vegetables
 whole milk;yogurt;rolls-buns;bottled water
@@ -2450,12 +2450,12 @@ tropical fruit;cat food;bottled water;soda;bottled beer;white wine;hygiene artic
 whole milk;frozen vegetables
 yogurt;pastry;canned beer;red-blush wine
 herbs;misc. beverages;shopping bags
-whole milk;tea;bottled beer;napkins;cling flim
+whole milk;tea;bottled beer;napkins;cling film
 meat;curd;white bread
 frankfurter;pip fruit;other vegetables;whole milk;butter;yogurt;fruitvegetable juice;shopping bags
 citrus fruit;whole milk;yogurt;softener;hygiene articles
 canned beer;candy
-chicken;soda;canned beer;liquor (appetizer);newspapers
+chicken;soda;canned beer;liquor_appetizer;newspapers
 yogurt;waffles
 beef;yogurt;spread cheese;margarine;salty snack
 whipped sour cream;candy
@@ -2470,9 +2470,9 @@ sausage;whipped sour cream;white bread;baking powder
 liver loaf;ham;pip fruit;root vegetables;other vegetables;whole milk;curd;dessert;butter milk;yogurt;mayonnaise;white bread;pastry;rice;sugar;pet care;coffee;soda;fruitvegetable juice;salty snack;long life bakery product;napkins
 soda
 root vegetables;liquor;shopping bags
-other vegetables;cream cheese;white bread;jam;coffee;bottled water;soda;fruitvegetable juice;canned beer;red-blush wine;cling flim
+other vegetables;cream cheese;white bread;jam;coffee;bottled water;soda;fruitvegetable juice;canned beer;red-blush wine;cling film
 tropical fruit;whole milk;spread cheese;cat food;coffee;bottled water;soda;misc. beverages;fruitvegetable juice;shopping bags
-butter;oil;cling flim
+butter;oil;cling film
 sausage;pip fruit;hard cheese;rolls-buns;soda
 butter
 whole milk;brown bread;chocolate;house keeping products;newspapers
@@ -2545,21 +2545,21 @@ chicken;beef;tropical fruit;root vegetables;onions;other vegetables;pickled vege
 whole milk;newspapers
 citrus fruit;other vegetables;yogurt;spread cheese;rolls-buns;soda;chocolate;newspapers
 canned beer
-pip fruit;nuts-prunes;root vegetables;condensed milk;rolls-buns;pickled vegetables;coffee;canned beer;liquor (appetizer)
+pip fruit;nuts-prunes;root vegetables;condensed milk;rolls-buns;pickled vegetables;coffee;canned beer;liquor_appetizer
 photo-film
 root vegetables;other vegetables;frozen vegetables
 frankfurter;tropical fruit;root vegetables;whole milk;butter;curd;yogurt
 yogurt;white wine;red-blush wine
-UHT-milk;ice cream;domestic eggs;oil;soda;cling flim
+UHT-milk;ice cream;domestic eggs;oil;soda;cling film
 organic sausage;chicken;citrus fruit;grapes;other vegetables;butter;yogurt;whipped sour cream;rolls-buns;seasonal products;hygiene articles
 whole milk;whipped sour cream
 meat;root vegetables;whole milk;newspapers
 pork
 coffee
-soft cheese;hard cheese;bottled water;soda;liquor (appetizer);waffles;chocolate;candles
+soft cheese;hard cheese;bottled water;soda;liquor_appetizer;waffles;chocolate;candles
 sausage;other vegetables;yogurt;mayonnaise;rolls-buns;bottled water;soda;canned beer;shopping bags
 sausage;citrus fruit;pip fruit;whole milk;cream cheese;tidbits;domestic eggs;pastry;sugar;fruitvegetable juice;chocolate;chocolate marshmallow
-finished products;misc. beverages
+ misc. beverages
 whole milk;frozen meals;rolls-buns;margarine
 curd;yogurt
 coffee;fruitvegetable juice
@@ -2572,7 +2572,7 @@ hamburger meat;tropical fruit
 yogurt;rolls-buns;meat spreads;soda
 pork;citrus fruit
 frankfurter;pip fruit;root vegetables;other vegetables;whole milk;soft cheese;cream cheese;frozen vegetables;salt;specialty fat;sugar;jam;canned fish;coffee;fruitvegetable juice;long life bakery product;waffles;chocolate;shopping bags
-sausage;soda;liquor (appetizer);shopping bags
+sausage;soda;liquor_appetizer;shopping bags
 canned beer
 frankfurter;root vegetables;whole milk;frozen vegetables;coffee;soda;long life bakery product;napkins;house keeping products;newspapers;shopping bags
 beef;citrus fruit;whole milk
@@ -2582,9 +2582,9 @@ other vegetables;butter;yogurt;rolls-buns;pastry;margarine
 pastry
 sausage;citrus fruit;whole milk;yogurt;beverages;pasta;waffles;specialty chocolate
 canned beer
-sausage;citrus fruit;other vegetables;hard cheese;cream cheese;frozen dessert;artif. sweetener;coffee;cling flim;newspapers
+sausage;citrus fruit;other vegetables;hard cheese;cream cheese;frozen dessert;artif. sweetener;coffee;cling film;newspapers
 canned beer
-finished products;soda;specialty chocolate
+ soda;specialty chocolate
 other vegetables;whole milk;yogurt;specialty cheese;bottled water;misc. beverages;fruitvegetable juice
 pork;other vegetables;rolls-buns
 beef;root vegetables;other vegetables;whole milk;domestic eggs;hygiene articles
@@ -2654,7 +2654,7 @@ beverages
 napkins
 canned beer
 soda;chewing gum;newspapers;photo-film
-bottled beer;liquor (appetizer);dishes
+bottled beer;liquor_appetizer;dishes
 sausage;pork;beef;hamburger meat;grapes;root vegetables;other vegetables;dessert;rolls-buns;dog food;napkins
 sausage;bottled beer;dish cleaner
 rolls-buns;canned beer
@@ -2682,7 +2682,7 @@ cream cheese
 pork;root vegetables;onions;other vegetables;margarine;sugar;spices
 pastry;soda
 citrus fruit;pip fruit;root vegetables;onions;herbs;other vegetables;whole milk;butter;processed cheese;frozen vegetables;bottled water;red-blush wine;long life bakery product;chocolate;rubbing alcohol;hygiene articles;napkins
-meat;finished products;white bread;long life bakery product;shopping bags
+meat; white bread;long life bakery product;shopping bags
 soda;fruitvegetable juice;specialty bar
 yogurt;cream cheese;rolls-buns;chocolate
 whipped sour cream;domestic eggs;margarine
@@ -2707,7 +2707,7 @@ pip fruit;bottled beer
 canned beer
 pork;other vegetables;soda
 canned beer
-beef;root vegetables;other vegetables;whole milk;dessert;yogurt;rolls-buns;margarine;jam;soda;liquor (appetizer);waffles;chocolate marshmallow;candy;bathroom cleaner;light bulbs
+beef;root vegetables;other vegetables;whole milk;dessert;yogurt;rolls-buns;margarine;jam;soda;liquor_appetizer;waffles;chocolate marshmallow;candy;bathroom cleaner;light bulbs
 rolls-buns;pastry
 dental care;male cosmetics
 sausage;turkey;beef;citrus fruit;herbs;flour;margarine;Instant food products;bottled water
@@ -2715,7 +2715,7 @@ rolls-buns;soda
 whole milk;pastry;soda
 beef;tropical fruit;root vegetables;whole milk
 ham;whole milk;domestic eggs;tea;bottled water;bottled beer
-finished products;chicken;pork;beef;hamburger meat;berries;butter;domestic eggs;rolls-buns;brown bread;pastry;flour;Instant food products;soda;salty snack;chocolate;specialty chocolate;hygiene articles;flower seeds
+ chicken;pork;beef;hamburger meat;berries;butter;domestic eggs;rolls-buns;brown bread;pastry;flour;Instant food products;soda;salty snack;chocolate;specialty chocolate;hygiene articles;flower seeds
 dessert;beverages;ice cream;soda
 rolls-buns;bottled water;bottled beer
 sausage;liver loaf;misc. beverages;fruitvegetable juice;canned beer;salty snack;shopping bags
@@ -2793,7 +2793,7 @@ canned beer
 root vegetables
 sausage;onions
 canned beer;male cosmetics
-tropical fruit;onions;spread cheese;coffee;canned beer;liquor (appetizer);red-blush wine;dental care;light bulbs;newspapers
+tropical fruit;onions;spread cheese;coffee;canned beer;liquor_appetizer;red-blush wine;dental care;light bulbs;newspapers
 pastry;soda
 sausage;ham;dessert
 canned beer
@@ -2829,7 +2829,7 @@ misc. beverages
 sugar
 sausage;rolls-buns;soda;chocolate
 whole milk;canned fish;newspapers
-sausage;finished products;beverages;domestic eggs;pastry;salty snack
+sausage; beverages;domestic eggs;pastry;salty snack
 canned beer
 citrus fruit;tropical fruit;frozen meals;frozen dessert;rolls-buns;misc. beverages
 sausage;bottled beer;liquor;red-blush wine
@@ -2840,7 +2840,7 @@ citrus fruit;whole milk
 misc. beverages
 frankfurter;beef;brown bread;margarine;soda;candy
 chocolate;napkins
-ham;tropical fruit;pip fruit;grapes;berries;other vegetables;curd;dessert;yogurt;rolls-buns;margarine;honey;specialty chocolate;detergent;napkins;cling flim
+ham;tropical fruit;pip fruit;grapes;berries;other vegetables;curd;dessert;yogurt;rolls-buns;margarine;honey;specialty chocolate;detergent;napkins;cling film
 frankfurter;brown bread;bottled beer
 brown bread
 rolls-buns;white bread;waffles
@@ -2902,7 +2902,7 @@ pork
 berries;salt;organic products;cat food;soda;bottled beer;female sanitary products
 frankfurter;root vegetables;bottled beer;shopping bags
 root vegetables;whole milk;hard cheese;candy
-finished products;pip fruit;frozen potato products;soda
+ pip fruit;frozen potato products;soda
 bottled water;misc. beverages;bottled beer
 margarine;coffee;instant coffee;soda;canned beer
 soda;shopping bags
@@ -2971,7 +2971,7 @@ frozen vegetables;bottled beer
 root vegetables;other vegetables;whole milk;butter;dessert;frozen meals;frozen fish;rice;bottled water;fruitvegetable juice;long life bakery product;chocolate
 sausage;other vegetables;whole milk;butter;cat food;salty snack;long life bakery product;waffles;chocolate
 whole milk;rolls-buns;salty snack;chocolate;newspapers
-beef;hamburger meat;tropical fruit;root vegetables;onions;other vegetables;whole milk;butter;yogurt;whipped sour cream;sliced cheese;mayonnaise;frozen vegetables;frozen potato products;rolls-buns;white bread;rice;oil;specialty fat;specialty vegetables;canned fish;coffee;instant coffee;bottled beer;liquor (appetizer);long life bakery product;chocolate;napkins;house keeping products
+beef;hamburger meat;tropical fruit;root vegetables;onions;other vegetables;whole milk;butter;yogurt;whipped sour cream;sliced cheese;mayonnaise;frozen vegetables;frozen potato products;rolls-buns;white bread;rice;oil;specialty fat;specialty vegetables;canned fish;coffee;instant coffee;bottled beer;liquor_appetizer;long life bakery product;chocolate;napkins;house keeping products
 sausage;meat;whole milk;rolls-buns;bottled beer
 pork;beef;packaged fruit;pastry
 bottled beer
@@ -3024,7 +3024,7 @@ tropical fruit;pip fruit;other vegetables;frozen vegetables;ice cream;brown brea
 butter;curd;dessert;cream cheese;canned beer;candy;shopping bags
 flower soil-fertilizer
 pasta;soda;snack products;cake bar
-other vegetables;dessert;candy;abrasive cleaner;dishes;cling flim;candles
+other vegetables;dessert;candy;abrasive cleaner;dishes;cling film;candles
 other vegetables;curd;yogurt;UHT-milk;brown bread;bottled water;newspapers;shopping bags
 beef
 root vegetables
@@ -3046,7 +3046,7 @@ chicken;pork;frozen vegetables;soda
 citrus fruit;tropical fruit;other vegetables;whole milk;butter;yogurt;whipped sour cream;soft cheese;sliced cheese;hard cheese;roll products;margarine;soda;misc. beverages;fruitvegetable juice;chocolate;newspapers
 flour;sugar;cat food;misc. beverages;waffles
 baking powder
-finished products;tropical fruit;pip fruit;other vegetables;whole milk;frozen fish;pastry;canned fish;seasonal products;dental care;hygiene articles;pot plants
+ tropical fruit;pip fruit;other vegetables;whole milk;frozen fish;pastry;canned fish;seasonal products;dental care;hygiene articles;pot plants
 frankfurter;rolls-buns;margarine;soda
 chicken;curd;UHT-milk;cream cheese;margarine;coffee;salty snack;waffles;dishes
 chicken;other vegetables;whole milk;domestic eggs;oil;margarine;sugar;coffee;bottled beer;specialty bar;candy
@@ -3067,7 +3067,7 @@ berries;whole milk;frozen meals;frozen dessert;rolls-buns;soda;shopping bags
 chicken;pork;other vegetables;whole milk;butter;curd;margarine;pickled vegetables;waffles;specialty chocolate;hygiene articles
 onions;yogurt;ice cream
 beef;root vegetables;herbs;packaged fruit;whipped sour cream;cream cheese;vinegar;oil;margarine;soups;pickled vegetables;meat spreads;canned fish;fruitvegetable juice;candles
-root vegetables;whole milk;semi-finished bread;cat food;fruitvegetable juice;canned beer;liquor (appetizer);waffles;hygiene articles;newspapers;shopping bags
+root vegetables;whole milk;semi-finished bread;cat food;fruitvegetable juice;canned beer;liquor_appetizer;waffles;hygiene articles;newspapers;shopping bags
 soda
 whole milk;soft cheese;rum
 citrus fruit;butter;dessert;processed cheese;white bread;pickled vegetables;seasonal products;dental care
@@ -3130,13 +3130,13 @@ beef;chocolate
 hamburger meat;ketchup
 mayonnaise;white bread;soda
 fruitvegetable juice;chewing gum
-finished products;pip fruit;other vegetables;domestic eggs;margarine;bottled beer;newspapers
+ pip fruit;other vegetables;domestic eggs;margarine;bottled beer;newspapers
 chicken;other vegetables;bottled beer;canned beer;sparkling wine;chocolate;newspapers;pot plants
 whole milk;dessert;soda;bottled beer
 ham;root vegetables;other vegetables;dessert;brown bread;pasta;margarine;bottled water;fruitvegetable juice;red-blush wine
 liquor
 canned beer
-dog food;cling flim
+dog food;cling film
 citrus fruit;tropical fruit;yogurt;UHT-milk;domestic eggs;mustard;canned fish
 tropical fruit;dessert;yogurt;domestic eggs;oil;fruitvegetable juice
 beef;citrus fruit;root vegetables;bottled water;soda;fruitvegetable juice;pot plants
@@ -3153,7 +3153,7 @@ sausage;brown bread;roll products;coffee;dish cleaner
 ham;other vegetables;yogurt;domestic eggs;semi-finished bread;newspapers
 pork;other vegetables;rolls-buns;canned fish;chocolate
 canned beer;specialty bar
-chicken;bottled water;liquor (appetizer)
+chicken;bottled water;liquor_appetizer
 beef;hamburger meat;tropical fruit;pip fruit;other vegetables;whole milk;butter milk;yogurt;ice cream;rolls-buns;pastry;fruitvegetable juice
 yogurt;condensed milk;pet care;house keeping products;shopping bags
 tropical fruit;whole milk;margarine;sugar
@@ -3171,7 +3171,7 @@ other vegetables;bottled water;bottled beer;waffles
 ham;tropical fruit;beverages;hard cheese;waffles;chocolate;specialty chocolate;specialty bar
 yogurt;frozen vegetables;napkins;newspapers;pot plants
 other vegetables;frozen fish;vinegar
-whole milk;domestic eggs;cling flim
+whole milk;domestic eggs;cling film
 root vegetables;UHT-milk;rolls-buns;brown bread;pastry;bottled water
 frankfurter;liver loaf;pip fruit;whole milk;yogurt;beverages;cream cheese;frozen vegetables;frozen meals;brown bread;pastry;cereals;bottled water;soda;fruitvegetable juice;kitchen towels
 bottled beer
@@ -3319,7 +3319,7 @@ organic sausage;pip fruit;root vegetables;other vegetables;pastry;salty snack;di
 tropical fruit;pip fruit;other vegetables;whole milk;ice cream;pastry;red-blush wine
 chocolate marshmallow
 frankfurter;root vegetables;packaged fruit;soda;hygiene articles
-cling flim
+cling film
 bottled beer
 citrus fruit;tropical fruit;pip fruit;yogurt;pastry;margarine;cat food;pet care;bottled water;chocolate;specialty bar;dental care;napkins
 liquor;specialty bar
@@ -3332,13 +3332,13 @@ tropical fruit;other vegetables;rolls-buns;white bread;bottled beer;pot plants
 whole milk;pickled vegetables;bottled water;fruitvegetable juice;candy
 citrus fruit;specialty bar
 bottled beer
-sausage;finished products;beef;citrus fruit;onions;other vegetables;whole milk;dessert;frozen dessert;brown bread;canned vegetables;canned fruit;soda
+sausage; beef;citrus fruit;onions;other vegetables;whole milk;dessert;frozen dessert;brown bread;canned vegetables;canned fruit;soda
 sausage;other vegetables;semi-finished bread;soda
 pip fruit;rolls-buns;bottled water;soda;specialty chocolate
 other vegetables;misc. beverages;fruitvegetable juice;long life bakery product;shopping bags
 sausage;other vegetables;spread cheese;rolls-buns;soda;salty snack;long life bakery product
 tropical fruit;whole milk;ice cream
-pastry;sugar;coffee;liquor (appetizer)
+pastry;sugar;coffee;liquor_appetizer
 coffee;napkins
 ham;meat;whole milk;dessert;butter milk;whipped sour cream;sliced cheese;rolls-buns;soda;fruitvegetable juice
 liquor
@@ -3364,7 +3364,7 @@ spread cheese;soda
 pork;tropical fruit;herbs;whole milk;ice cream;chocolate marshmallow;candy;toilet cleaner;dental care
 canned beer;white wine
 pork;bottled water;rum;white wine;flower seeds
-beverages;frozen vegetables;coffee;soda;fruitvegetable juice;cling flim
+beverages;frozen vegetables;coffee;soda;fruitvegetable juice;cling film
 sausage;beef;tropical fruit;onions;frozen vegetables;domestic eggs;white bread;semi-finished bread;sugar;baking powder;canned fish;coffee;seasonal products
 tropical fruit;yogurt;whipped sour cream
 UHT-milk
@@ -3432,7 +3432,7 @@ soda;canned beer
 meat;rolls-buns;soda
 pip fruit
 rolls-buns
-frankfurter;whole milk;frozen vegetables;frozen fish;cling flim;house keeping products;flower seeds;shopping bags
+frankfurter;whole milk;frozen vegetables;frozen fish;cling film;house keeping products;flower seeds;shopping bags
 soda;specialty chocolate
 pip fruit;whole milk;butter;cream cheese;domestic eggs;shopping bags
 rolls-buns;brown bread
@@ -3471,7 +3471,7 @@ sausage;tropical fruit;whole milk;rolls-buns;soda
 pastry
 root vegetables
 soda
-UHT-milk;brandy;liquor (appetizer);specialty bar;hygiene articles
+UHT-milk;brandy;liquor_appetizer;specialty bar;hygiene articles
 citrus fruit;tropical fruit;herbs;other vegetables;whole milk;whipped sour cream;bottled water
 sausage;whole milk;condensed milk;canned fish;soda;dishes
 condensed milk;soda
@@ -3562,7 +3562,7 @@ frankfurter;rolls-buns
 other vegetables;whole milk;frozen potato products
 chocolate;candy
 sausage;yogurt
-finished products;seasonal products
+ seasonal products
 whole milk;pastry
 shopping bags
 whole milk;zwieback;salty snack
@@ -3573,7 +3573,7 @@ pip fruit;ice cream;bottled beer
 UHT-milk;artif. sweetener;bottled water
 canned beer
 tropical fruit;ice cream;frozen dessert;candy
-pork;tropical fruit;onions;herbs;whole milk;butter;frozen vegetables;rolls-buns;jam;bottled water;liquor (appetizer)
+pork;tropical fruit;onions;herbs;whole milk;butter;frozen vegetables;rolls-buns;jam;bottled water;liquor_appetizer
 other vegetables;UHT-milk;sauces;fruitvegetable juice;shopping bags
 berries
 bottled water;canned beer;hygiene articles
@@ -3749,7 +3749,7 @@ citrus fruit;frozen dessert;domestic eggs;rolls-buns;pastry
 pet care;bottled water
 whipped sour cream;rolls-buns;pastry;soda;salty snack;chewing gum;cleaner;female sanitary products;shopping bags
 chicken;hamburger meat;citrus fruit;whole milk;butter;yogurt;whipped sour cream;curd cheese;pickled vegetables
-sausage;other vegetables;yogurt;whipped sour cream;cream cheese;soda;hygiene articles;cling flim
+sausage;other vegetables;yogurt;whipped sour cream;cream cheese;soda;hygiene articles;cling film
 rolls-buns;white bread
 soda
 other vegetables;whole milk;frozen fish;white bread;pickled vegetables;long life bakery product
@@ -3800,7 +3800,6 @@ berries
 sausage;root vegetables;whole milk;fruitvegetable juice;popcorn;candy
 citrus fruit;other vegetables;frozen vegetables;sugar
 UHT-milk;brown bread
-finished products
 cat food;canned beer
 canned beer
 canned beer
@@ -3836,7 +3835,7 @@ rolls-buns;coffee
 rolls-buns;coffee;bottled water
 UHT-milk;baking powder
 frankfurter;whole milk;rolls-buns;coffee;salty snack;kitchen towels
-whole milk;domestic eggs;soda;canned beer;liquor (appetizer);shopping bags
+whole milk;domestic eggs;soda;canned beer;liquor_appetizer;shopping bags
 whole milk;butter milk;specialty bar
 citrus fruit;root vegetables;onions;other vegetables
 other vegetables
@@ -3883,7 +3882,7 @@ root vegetables;other vegetables;whole milk
 beverages
 sausage;hamburger meat;tropical fruit;pip fruit;whole milk;beverages;frozen vegetables;frozen meals;white bread;pasta;pickled vegetables;sweet spreads;bottled water;fruitvegetable juice;long life bakery product;specialty bar;detergent;newspapers
 frankfurter;tropical fruit;other vegetables;whole milk;rolls-buns;pet care;soda;fruitvegetable juice;make up remover
-UHT-milk;bottled beer;liquor (appetizer);dishes
+UHT-milk;bottled beer;liquor_appetizer;dishes
 whole milk;curd;yogurt;margarine
 whole milk;domestic eggs;newspapers
 sausage;yogurt;rolls-buns;bottled water;soda
@@ -3900,7 +3899,7 @@ root vegetables;onions;whole milk;bottled water
 canned beer
 canned beer
 tropical fruit;cream cheese;mayonnaise;rolls-buns;white bread;ready soups;baking powder;canned fish;long life bakery product
-tropical fruit;other vegetables;whole milk;curd;yogurt;frozen vegetables;frozen dessert;rolls-buns;soda;liquor (appetizer);waffles;candy;seasonal products;candles
+tropical fruit;other vegetables;whole milk;curd;yogurt;frozen vegetables;frozen dessert;rolls-buns;soda;liquor_appetizer;waffles;candy;seasonal products;candles
 citrus fruit;tropical fruit;pip fruit;whole milk;butter milk
 chicken;hamburger meat;citrus fruit;other vegetables;coffee
 dessert;yogurt;UHT-milk;cream cheese;frozen vegetables;rolls-buns;bottled water;napkins
@@ -3927,7 +3926,7 @@ yogurt;rolls-buns
 berries;root vegetables;yogurt;whipped sour cream;specialty fat;white wine;kitchen towels
 hamburger meat;tropical fruit;yogurt;frozen vegetables;domestic eggs;rolls-buns;meat spreads;cat food;soda;misc. beverages
 canned beer
-turkey;tropical fruit;root vegetables;other vegetables;curd;whipped sour cream;liquor (appetizer)
+turkey;tropical fruit;root vegetables;other vegetables;curd;whipped sour cream;liquor_appetizer
 beverages;soda
 bottled beer
 pastry;soda
@@ -3969,13 +3968,13 @@ sausage;curd;yogurt;cream cheese;brown bread;pastry;coffee;seasonal products;nap
 coffee
 chicken;pork;citrus fruit;root vegetables;herbs;other vegetables;whole milk;butter;frozen dessert;domestic eggs;rolls-buns;bottled water;bottled beer
 tropical fruit;other vegetables;yogurt;domestic eggs;rolls-buns;pastry;semi-finished bread;zwieback;oil;margarine;organic products;coffee;bottled water;soda;snack products;waffles;chocolate marshmallow;candy;seasonal products
-finished products;other vegetables;whole milk;yogurt;curd cheese;brown bread;pastry;potato products;baking powder;soda;specialty chocolate;candy;seasonal products
+ other vegetables;whole milk;yogurt;curd cheese;brown bread;pastry;potato products;baking powder;soda;specialty chocolate;candy;seasonal products
 whole milk;bottled water
-beef;root vegetables;other vegetables;frozen dessert;pastry;vinegar;margarine;sugar;cat food;coffee;bottled beer;cling flim;candles;pot plants
+beef;root vegetables;other vegetables;frozen dessert;pastry;vinegar;margarine;sugar;cat food;coffee;bottled beer;cling film;candles;pot plants
 abrasive cleaner;napkins
 bottled water
 other vegetables;spices;coffee
-beef;citrus fruit;tropical fruit;other vegetables;condensed milk;processed cheese;bottled water;soda;cling flim
+beef;citrus fruit;tropical fruit;other vegetables;condensed milk;processed cheese;bottled water;soda;cling film
 whole milk
 tropical fruit;root vegetables;sliced cheese;processed cheese;margarine;bottled water;soda;misc. beverages
 candy
@@ -4014,7 +4013,7 @@ bottled beer
 whole milk;frozen meals;soda;napkins;kitchen towels
 other vegetables;chewing gum
 whole milk;curd cheese
-finished products;beef;citrus fruit;pip fruit;root vegetables;whole milk;semi-finished bread;potato products;rice;soda;fruitvegetable juice;candy;pot plants;shopping bags
+ beef;citrus fruit;pip fruit;root vegetables;whole milk;semi-finished bread;potato products;rice;soda;fruitvegetable juice;candy;pot plants;shopping bags
 bottled beer
 beverages;frozen vegetables;soda;fruitvegetable juice;popcorn;newspapers
 other vegetables
@@ -4048,7 +4047,7 @@ beef;pip fruit;whole milk;butter;curd;margarine;cat food;coffee;waffles
 pip fruit;whole milk;butter;whipped sour cream;beverages;newspapers;flower seeds
 chicken;citrus fruit;root vegetables;other vegetables;brown bread;pastry;salty snack;napkins
 whole milk;butter;newspapers
-chicken;liquor (appetizer)
+chicken;liquor_appetizer
 sausage;citrus fruit;tropical fruit;other vegetables;whole milk;butter;whipped sour cream;hard cheese;domestic eggs;dishes
 other vegetables;whole milk;bottled beer;newspapers
 tropical fruit;yogurt;UHT-milk;cream cheese;processed cheese;rolls-buns;pastry;margarine;waffles;hygiene articles
@@ -4098,7 +4097,7 @@ citrus fruit;tropical fruit;whole milk;butter;curd;yogurt;whipped sour cream;rol
 root vegetables
 whole milk
 coffee;soda;waffles
-whole milk;beverages;frozen vegetables;margarine;liquor (appetizer);newspapers
+whole milk;beverages;frozen vegetables;margarine;liquor_appetizer;newspapers
 whole milk;white bread;long life bakery product
 sausage;tropical fruit;whole milk
 whole milk;semi-finished bread
@@ -4120,9 +4119,9 @@ tropical fruit;pip fruit;root vegetables;curd;yogurt;flour;margarine;sugar;bottl
 tropical fruit;pip fruit;whole milk;yogurt;ice cream;frozen dessert;domestic eggs;pastry;flour;margarine;coffee;cake bar;napkins;shopping bags
 sausage;pip fruit;rolls-buns;pastry;soda;fruitvegetable juice;canned beer;salty snack;candy;hygiene articles
 whole milk;curd;rolls-buns
-finished products;bottled water;specialty bar;newspapers
+ bottled water;specialty bar;newspapers
 pork;whole milk;butter;yogurt;soft cheese;cream cheese;coffee;pot plants
-beef;dessert;frozen vegetables;rice;long life bakery product;cling flim;shopping bags
+beef;dessert;frozen vegetables;rice;long life bakery product;cling film;shopping bags
 sausage;ham;other vegetables;beverages;mayonnaise;rolls-buns;soda;bottled beer;chocolate;chocolate marshmallow;candy
 citrus fruit;tropical fruit;root vegetables;other vegetables;whole milk;yogurt;oil;cat food;soda;misc. beverages;fruitvegetable juice;newspapers
 pip fruit;whole milk;margarine;cocoa drinks;bottled water
@@ -4135,7 +4134,7 @@ ham;domestic eggs;pastry;long life bakery product;waffles;specialty chocolate;di
 tropical fruit;other vegetables
 canned beer
 ham;onions;other vegetables;whole milk;whipped sour cream;soft cheese;sliced cheese;brown bread;canned vegetables;sweet spreads;salty snack;specialty chocolate;dishes
-chicken;pork;frozen vegetables;soda;canned beer;liquor (appetizer);hygiene articles;newspapers
+chicken;pork;frozen vegetables;soda;canned beer;liquor_appetizer;hygiene articles;newspapers
 grapes;butter;soft cheese;canned beer
 whole milk;pickled vegetables;bottled water;bottled beer;chocolate
 frankfurter;sausage;ham;tropical fruit;rolls-buns;pastry;chocolate;napkins
@@ -4203,7 +4202,7 @@ tropical fruit;rolls-buns
 soda
 beef;salty snack
 tropical fruit;other vegetables;whole milk;sliced cheese;frozen dessert;brown bread;pastry;semi-finished bread;canned fish;cat food;soda;napkins;newspapers;shopping bags
-finished products;chicken;citrus fruit;root vegetables;other vegetables;dessert;domestic eggs;spices;pickled vegetables;bottled water;soda;popcorn;chocolate marshmallow;detergent
+ chicken;citrus fruit;root vegetables;other vegetables;dessert;domestic eggs;spices;pickled vegetables;bottled water;soda;popcorn;chocolate marshmallow;detergent
 chewing gum
 curd;yogurt;whipped sour cream;ice cream
 chicken;berries;other vegetables;pastry;roll products;oil;sugar
@@ -4228,7 +4227,7 @@ onions;whole milk
 domestic eggs;white bread;specialty fat;mustard;specialty vegetables
 other vegetables
 hamburger meat;citrus fruit;other vegetables;whole milk;butter;rolls-buns;baking powder;cooking chocolate;specialty chocolate;male cosmetics
-sausage;finished products;hamburger meat;citrus fruit;tropical fruit;pip fruit;other vegetables;butter;UHT-milk;specialty cheese;pastry;roll products;pasta;organic products;baking powder;canned vegetables;cat food;chewing gum;chocolate;pot plants;flower seeds
+sausage; hamburger meat;citrus fruit;tropical fruit;pip fruit;other vegetables;butter;UHT-milk;specialty cheese;pastry;roll products;pasta;organic products;baking powder;canned vegetables;cat food;chewing gum;chocolate;pot plants;flower seeds
 citrus fruit;other vegetables;whole milk;butter;pastry;oil;bottled water;bottled beer;detergent
 pork;citrus fruit;other vegetables;dessert;white bread;kitchen towels;candles;newspapers
 pork;whole milk;yogurt;UHT-milk;sliced cheese;ice cream;soda;fruitvegetable juice;napkins
@@ -4249,7 +4248,7 @@ frankfurter;sausage;pork;root vegetables;whole milk;yogurt;frozen meals;bottled 
 yogurt;bottled water;soda;bottled beer;chocolate;female sanitary products
 other vegetables;canned fish;soda;shopping bags
 yogurt;bottled water
-whole milk;dessert;pastry;bottled water;soda;long life bakery product;chocolate;napkins;cling flim
+whole milk;dessert;pastry;bottled water;soda;long life bakery product;chocolate;napkins;cling film
 pork;rolls-buns;liquor;salty snack;popcorn
 berries
 berries
@@ -4273,7 +4272,7 @@ other vegetables;yogurt;whipped sour cream;jam;fruitvegetable juice;chocolate;di
 bottled water;canned beer;white wine
 whole milk;whipped sour cream;rolls-buns;shopping bags
 whole milk;dessert;brown bread;specialty bar
-finished products;frozen meals;chocolate;shopping bags
+ frozen meals;chocolate;shopping bags
 whole milk;rolls-buns
 pork;beef
 chocolate marshmallow
@@ -4290,7 +4289,7 @@ tropical fruit;other vegetables;butter;whipped sour cream;semi-finished bread;vi
 whole milk;whipped sour cream
 whole milk;curd;pastry;fruitvegetable juice;newspapers
 misc. beverages
-finished products;fruitvegetable juice;white wine;chocolate;pot plants
+ fruitvegetable juice;white wine;chocolate;pot plants
 berries;whole milk;butter;domestic eggs;cake bar
 other vegetables;bottled beer;canned beer;white wine;detergent;softener;newspapers
 berries;whipped sour cream;cake bar
@@ -4381,7 +4380,7 @@ cat food;newspapers;shopping bags
 pork;citrus fruit;other vegetables;whole milk;butter;whipped sour cream;ice cream;margarine;sugar;baking powder;coffee;newspapers
 citrus fruit;whole milk;yogurt;whipped sour cream;rolls-buns
 sausage;whole milk;sliced cheese;rolls-buns;brown bread;bottled beer
-soda;cling flim;house keeping products
+soda;cling film;house keeping products
 citrus fruit;butter;condensed milk;frozen meals;margarine;male cosmetics;newspapers
 other vegetables;salt;sweet spreads
 ham;tropical fruit;white bread;pastry;waffles;specialty bar
@@ -4437,7 +4436,7 @@ chicken;tropical fruit;rolls-buns;pastry;bottled water;red-blush wine;chocolate;
 bottled beer;shopping bags
 ketchup
 canned beer
-tropical fruit;whole milk;domestic eggs;pastry;margarine;coffee;dental care;hygiene articles;cling flim
+tropical fruit;whole milk;domestic eggs;pastry;margarine;coffee;dental care;hygiene articles;cling film
 beef;citrus fruit;root vegetables;specialty chocolate
 whole milk;rolls-buns
 bottled water;soda
@@ -4478,7 +4477,7 @@ soft cheese;rolls-buns;brown bread;syrup;newspapers;shopping bags
 pip fruit;coffee
 tropical fruit;pip fruit;grapes;whole milk
 hamburger meat;grapes;root vegetables;other vegetables;softener;kitchen towels;pot plants
-finished products;cat food;shopping bags
+ cat food;shopping bags
 pot plants
 whole milk
 tropical fruit;root vegetables;rolls-buns;newspapers
@@ -4508,7 +4507,7 @@ soda
 yogurt;canned vegetables;pot plants
 white bread;bottled water;soda;bottled beer
 syrup
-whole milk;sugar;cling flim
+whole milk;sugar;cling film
 salt;candy
 whole milk;frozen vegetables;frozen meals;cereals;bottled beer
 other vegetables;yogurt;whipped sour cream;newspapers
@@ -4519,7 +4518,7 @@ pip fruit;beverages;frozen vegetables;frozen meals;bottled water;soda;salty snac
 citrus fruit;tropical fruit;pip fruit;root vegetables;onions;other vegetables;whole milk;yogurt;rolls-buns;brown bread;soda;fruitvegetable juice
 dishes
 meat;curd;yogurt;ice cream;oil;canned fish;soda;fruitvegetable juice;seasonal products
-pork;onions;other vegetables;whole milk;curd;butter milk;whipped sour cream;rolls-buns;liquor (appetizer);salty snack;waffles;newspapers
+pork;onions;other vegetables;whole milk;curd;butter milk;whipped sour cream;rolls-buns;liquor_appetizer;salty snack;waffles;newspapers
 sausage;pip fruit;root vegetables;whole milk;yogurt;frozen potato products;pasta;bottled water;fruitvegetable juice
 pip fruit;root vegetables;UHT-milk;condensed milk;margarine;sugar;pudding powder;cocoa drinks;fruitvegetable juice;chocolate
 bottled water
@@ -4537,7 +4536,7 @@ roll products;dog food;soda;fruitvegetable juice;bottled beer;napkins
 sausage;whole milk;condensed milk;semi-finished bread;cat food
 yogurt;margarine;newspapers
 chicken;root vegetables;whole milk;butter;yogurt;sparkling wine;chocolate;softener;female sanitary products;napkins;kitchen towels;house keeping products;newspapers
-meat;pork;pip fruit;root vegetables;other vegetables;whole milk;hard cheese;white bread;pasta;margarine;ketchup;cocoa drinks;chocolate;cling flim
+meat;pork;pip fruit;root vegetables;other vegetables;whole milk;hard cheese;white bread;pasta;margarine;ketchup;cocoa drinks;chocolate;cling film
 citrus fruit;berries;butter;butter milk;yogurt;sliced cheese;frozen vegetables;frozen chicken;soda
 butter milk;cream cheese;rolls-buns;misc. beverages;newspapers
 nuts-prunes;other vegetables;whole milk;ice cream;soda;newspapers
@@ -4586,11 +4585,11 @@ soda;canned beer
 whole milk;dessert;pastry;Instant food products;canned fish;soda;bottled beer;red-blush wine;napkins;candles
 tropical fruit;packaged fruit
 ham;hamburger meat;whole milk;processed cheese;white bread;potato products;artif. sweetener;instant coffee;bottled water;soda;fruitvegetable juice;salty snack;specialty bar;detergent;shopping bags
-brandy;liquor (appetizer)
+brandy;liquor_appetizer
 hard cheese
 bottled beer;shopping bags
 other vegetables;UHT-milk;cream
-finished products;citrus fruit;tropical fruit;grapes;berries;root vegetables;other vegetables;whole milk;spread cheese;brown bread;pastry;potato products;fruitvegetable juice;chocolate;pot plants;shopping bags
+ citrus fruit;tropical fruit;grapes;berries;root vegetables;other vegetables;whole milk;spread cheese;brown bread;pastry;potato products;fruitvegetable juice;chocolate;pot plants;shopping bags
 misc. beverages
 canned beer
 yogurt;cream cheese;rolls-buns;chocolate
@@ -4598,7 +4597,7 @@ bottled water
 tropical fruit;butter milk;baking powder
 frankfurter;curd;frozen potato products;soda;dish cleaner
 yogurt;pastry
-bottled beer;liquor (appetizer);dishes
+bottled beer;liquor_appetizer;dishes
 tropical fruit;yogurt;cream cheese
 UHT-milk;brown bread;newspapers
 citrus fruit;pip fruit;pickled vegetables;bottled water;newspapers
@@ -4652,14 +4651,14 @@ newspapers
 tropical fruit;pip fruit;whole milk;curd;yogurt;brown bread;pastry;cereals
 rolls-buns;bottled water;soda
 sausage;rolls-buns;mustard;soda
-sausage;liquor (appetizer)
+sausage;liquor_appetizer
 whole milk;yogurt
 pip fruit;beverages;pastry;hygiene articles
 yogurt;bottled water
 yogurt;cream cheese;rolls-buns
 sausage;citrus fruit;butter;domestic eggs;rolls-buns;margarine;soda
 citrus fruit;yogurt;hygiene articles
-UHT-milk;condensed milk;coffee;cling flim
+UHT-milk;condensed milk;coffee;cling film
 sausage;long life bakery product
 whole milk;brown bread;pastry;pasta;margarine;sugar;soda;canned beer
 citrus fruit;other vegetables;whole milk;mayonnaise;rolls-buns;waffles
@@ -4678,7 +4677,7 @@ other vegetables;cake bar
 whole milk;shopping bags
 bottled water;soda
 sausage;citrus fruit;other vegetables;whipped sour cream;frozen vegetables;margarine;bottled beer;hygiene articles
-beef;whole milk;curd;yogurt;hard cheese;domestic eggs;rolls-buns;white bread;oil;misc. beverages;cling flim;house keeping products
+beef;whole milk;curd;yogurt;hard cheese;domestic eggs;rolls-buns;white bread;oil;misc. beverages;cling film;house keeping products
 organic sausage;turkey;tropical fruit;pip fruit;root vegetables;other vegetables;whole milk;dessert;butter milk;yogurt;cream cheese;processed cheese;white bread;sauces;bottled beer;waffles;candy
 frozen meals;canned fruit
 mustard
@@ -4748,7 +4747,7 @@ beverages;chocolate
 red-blush wine
 soda
 sausage;yogurt;pastry;cat food
-finished products;candy
+ candy
 pastry;oil;bottled beer;chocolate;specialty chocolate
 specialty chocolate;photo-film
 tropical fruit;pip fruit;root vegetables;liquor;detergent;dishes;newspapers
@@ -4766,7 +4765,7 @@ soda
 soda;bottled beer;liquor;red-blush wine;napkins
 whole milk;butter;cat food
 frankfurter;rolls-buns
-tropical fruit;pip fruit;sugar;napkins;cling flim;shopping bags
+tropical fruit;pip fruit;sugar;napkins;cling film;shopping bags
 liver loaf;root vegetables;onions;UHT-milk;cream cheese;soda;flower seeds
 yogurt;fruitvegetable juice
 soda;long life bakery product
@@ -4813,7 +4812,7 @@ whipped sour cream;frozen vegetables;frozen meals
 rolls-buns;brown bread
 soda;bottled beer;liquor;red-blush wine
 spread cheese;white bread;newspapers
-whole milk;curd;dessert;misc. beverages;chocolate marshmallow;cling flim;house keeping products;newspapers
+whole milk;curd;dessert;misc. beverages;chocolate marshmallow;cling film;house keeping products;newspapers
 root vegetables;soft cheese
 frankfurter;butter;brown bread
 bottled beer;liquor
@@ -4836,7 +4835,7 @@ beverages
 pork;root vegetables;brown bread;pastry
 sausage;pork;whole milk;pastry
 yogurt;canned beer;dishes
-meat;finished products;other vegetables;rolls-buns;brown bread;soda;white wine
+meat; other vegetables;rolls-buns;brown bread;soda;white wine
 tropical fruit;brown bread;specialty bar
 hamburger meat;other vegetables;whole milk;cream;oil;sugar;baking powder;canned beer;baby cosmetics
 root vegetables;other vegetables;yogurt;rolls-buns;bottled water;chocolate;napkins
@@ -4951,7 +4950,7 @@ whole milk
 whole milk;soft cheese;sliced cheese
 brown bread;soda;canned beer;napkins;shopping bags
 oil;soda;misc. beverages;canned beer;brandy;salty snack;candy;hygiene articles;shopping bags
-liquor (appetizer)
+liquor_appetizer
 rolls-buns;meat spreads
 bottled water
 citrus fruit;pip fruit;root vegetables;whole milk;coffee;popcorn;chewing gum;detergent;newspapers;shopping bags
@@ -4999,7 +4998,7 @@ white wine
 packaged fruit;pastry
 specialty bar
 cat food;misc. beverages;female sanitary products
-finished products;turkey;grapes;onions;other vegetables;whole milk;butter milk;yogurt;whipped sour cream;hard cheese;frozen vegetables;fruitvegetable juice;napkins
+ turkey;grapes;onions;other vegetables;whole milk;butter milk;yogurt;whipped sour cream;hard cheese;frozen vegetables;fruitvegetable juice;napkins
 pork;beef;pip fruit;root vegetables;whole milk;rice;newspapers
 pork;tropical fruit;yogurt;frozen vegetables;rolls-buns;margarine;spices
 root vegetables;herbs;other vegetables
@@ -5049,7 +5048,7 @@ whole milk;sugar;bottled water;bottled beer
 citrus fruit;tropical fruit;root vegetables;other vegetables;whole milk;butter;yogurt;soft cheese;cream cheese;domestic eggs;white bread;margarine;coffee;waffles;specialty bar;chocolate marshmallow
 liver loaf;tropical fruit;other vegetables
 sausage;whole milk
-finished products;beef;pip fruit;root vegetables;bottled water;shopping bags
+ beef;pip fruit;root vegetables;bottled water;shopping bags
 canned beer
 ham;processed cheese;rolls-buns;white bread;fruitvegetable juice;canned beer;long life bakery product;waffles;chocolate;specialty bar
 soda
@@ -5132,7 +5131,7 @@ tropical fruit;whole milk;domestic eggs;rolls-buns;pet care;bottled water;hygien
 frozen vegetables;frozen dessert;semi-finished bread;margarine;long life bakery product;candy;detergent
 other vegetables;canned beer
 root vegetables;herbs;other vegetables;whole milk;yogurt;whipped sour cream;frozen vegetables;frozen fruits;baking powder;pickled vegetables;fruitvegetable juice;sparkling wine;long life bakery product;shopping bags
-fish;frozen meals;domestic eggs;bottled beer;liquor (appetizer);dishes;newspapers
+fish;frozen meals;domestic eggs;bottled beer;liquor_appetizer;dishes;newspapers
 UHT-milk;canned fish
 berries;oil;bottled water;cake bar;house keeping products;shopping bags
 condensed milk
@@ -5146,7 +5145,7 @@ berries;brown bread
 liquor;napkins
 yogurt;beverages;soda;shopping bags
 yogurt
-citrus fruit;tropical fruit;pip fruit;condensed milk;frozen meals;meat spreads;canned fish;coffee;canned beer;salty snack;cling flim;kitchen towels;shopping bags
+citrus fruit;tropical fruit;pip fruit;condensed milk;frozen meals;meat spreads;canned fish;coffee;canned beer;salty snack;cling film;kitchen towels;shopping bags
 brown bread;seasonal products
 ham;onions;whipped sour cream;hard cheese;bottled beer;hygiene articles;shopping bags
 domestic eggs;waffles;napkins
@@ -5184,7 +5183,7 @@ tropical fruit;dessert;yogurt;soda;candy
 detergent
 tropical fruit;pip fruit;processed cheese;rolls-buns;misc. beverages;fruitvegetable juice;candy
 sausage;yogurt;cat food
-soda;liquor (appetizer)
+soda;liquor_appetizer
 semi-finished bread
 frankfurter;other vegetables;rolls-buns;white bread;soda;white wine;chocolate;detergent
 sausage;frozen meals;shopping bags
@@ -5270,7 +5269,7 @@ pip fruit;root vegetables;whole milk;butter;curd;yogurt;UHT-milk;specialty chees
 meat;other vegetables;whole milk;hard cheese;fruitvegetable juice;long life bakery product
 whole milk;hard cheese;rolls-buns;bottled water
 zwieback
-liquor (appetizer)
+liquor_appetizer
 pip fruit;whole milk
 canned beer
 Instant food products;soda
@@ -5349,7 +5348,7 @@ other vegetables;whole milk;specialty cheese
 fruitvegetable juice
 chocolate;specialty bar;candy;napkins;flower seeds
 margarine;misc. beverages
-cling flim
+cling film
 chicken;butter;frozen vegetables;soda;misc. beverages;chocolate;specialty chocolate
 salt;salty snack
 newspapers
@@ -5372,7 +5371,7 @@ canned beer
 canned beer
 UHT-milk;soda;detergent
 citrus fruit;pip fruit;other vegetables;whole milk;curd;frozen fish;domestic eggs;jam;dishes
-whole milk;bottled beer;liquor (appetizer);hygiene articles
+whole milk;bottled beer;liquor_appetizer;hygiene articles
 citrus fruit
 canned beer
 dessert
@@ -5467,7 +5466,7 @@ bottled water;canned beer
 whole milk;yogurt
 whole milk;rolls-buns;bottled water
 frankfurter;pork;brown bread;potato products
-beef;hamburger meat;pip fruit;berries;other vegetables;rolls-buns;semi-finished bread;baking powder;white wine;napkins;cling flim
+beef;hamburger meat;pip fruit;berries;other vegetables;rolls-buns;semi-finished bread;baking powder;white wine;napkins;cling film
 sausage;berries;rolls-buns;chewing gum;shopping bags
 sausage;ham;tropical fruit;whole milk;butter;processed cheese;rolls-buns;potato products;rice;margarine;cereals;cat food;fruitvegetable juice;bottled beer;chocolate;napkins
 candy
@@ -5499,7 +5498,7 @@ canned beer
 beef;pip fruit;root vegetables;whole milk;soft cheese;bottled beer;detergent
 hamburger meat;root vegetables;whole milk;yogurt;brown bread;pastry;bottled beer;specialty chocolate;flower seeds
 other vegetables;ice cream;brown bread;soda;house keeping products;newspapers
-liquor (appetizer)
+liquor_appetizer
 pip fruit;root vegetables;frozen vegetables;rolls-buns;semi-finished bread;soda;white wine;newspapers
 newspapers
 turkey;tropical fruit;root vegetables;other vegetables;butter;whipped sour cream;hard cheese;ketchup;fruitvegetable juice;candy;napkins
@@ -5574,7 +5573,7 @@ whole milk
 citrus fruit;domestic eggs;jam
 pork
 condensed milk;margarine;fruitvegetable juice;canned beer
-sausage;finished products;pork;tropical fruit;other vegetables;whole milk;yogurt;whipped sour cream;cream cheese;white bread;baking powder;long life bakery product;house keeping products;pot plants
+sausage; pork;tropical fruit;other vegetables;whole milk;yogurt;whipped sour cream;cream cheese;white bread;baking powder;long life bakery product;house keeping products;pot plants
 brown bread;canned beer
 whole milk;butter;coffee;bottled water;seasonal products;candles
 frankfurter;sausage;rolls-buns;brown bread;soda;shopping bags
@@ -5585,7 +5584,7 @@ pork;semi-finished bread;soda
 other vegetables;whole milk;curd;whipped sour cream;frozen vegetables;roll products;semi-finished bread;salty snack;seasonal products
 frankfurter;citrus fruit;rolls-buns;soda
 beef;root vegetables;frozen vegetables;brown bread;misc. beverages
-pork;salad dressing;oil;sauces;coffee;soda;canned beer;liquor (appetizer);candy;newspapers
+pork;salad dressing;oil;sauces;coffee;soda;canned beer;liquor_appetizer;candy;newspapers
 white bread;misc. beverages;long life bakery product
 dessert
 pip fruit;root vegetables;UHT-milk;condensed milk;frozen fish;candy
@@ -5601,7 +5600,7 @@ beverages;newspapers
 butter;brown bread;seasonal products
 sausage;tropical fruit;pip fruit;whole milk;soft cheese;processed cheese;white bread;pastry;semi-finished bread;oil;mustard;ketchup;soda;misc. beverages;long life bakery product;waffles;chocolate;specialty chocolate;detergent;napkins;house keeping products
 canned beer;shopping bags
-salt;cling flim
+salt;cling film
 beef;root vegetables;whole milk;margarine
 shopping bags
 curd;semi-finished bread;baking powder
@@ -5680,7 +5679,7 @@ whole milk;bottled beer
 soda
 canned beer
 beef;berries;root vegetables;onions;flour;mustard;soda;bottled beer;salty snack;popcorn
-frankfurter;finished products;chicken;other vegetables;whole milk;curd;flour;pasta;salty snack
+frankfurter; chicken;other vegetables;whole milk;curd;flour;pasta;salty snack
 other vegetables
 other vegetables;whole milk;curd;yogurt;cream cheese;pastry;salty snack
 root vegetables;whole milk;domestic eggs;female sanitary products;newspapers
@@ -5773,7 +5772,7 @@ citrus fruit;berries;curd;yogurt;soda
 sausage;pot plants
 citrus fruit;other vegetables;frozen meals;domestic eggs;fruitvegetable juice;pot plants
 other vegetables;curd cheese
-Instant food products;long life bakery product;specialty chocolate;cling flim;house keeping products
+Instant food products;long life bakery product;specialty chocolate;cling film;house keeping products
 sausage;root vegetables;ice cream;white bread;salt
 frankfurter;pip fruit;hard cheese;bottled water;chocolate
 chicken;flower seeds
@@ -5799,17 +5798,17 @@ whole milk;whipped sour cream;domestic eggs;bottled water;soda;specialty chocola
 hamburger meat;berries;other vegetables
 soda;candy
 whipped sour cream;long life bakery product;napkins;pot plants
-organic sausage;other vegetables;liquor (appetizer);red-blush wine
+organic sausage;other vegetables;liquor_appetizer;red-blush wine
 onions;other vegetables
 sausage;chicken;pork;other vegetables;whole milk;butter;yogurt;margarine;fruitvegetable juice;bottled beer
-sausage;beef;citrus fruit;tropical fruit;berries;root vegetables;whole milk;white bread;brown bread;fruitvegetable juice;bottled beer;cling flim
-root vegetables;other vegetables;whole milk;pastry;cling flim;shopping bags
+sausage;beef;citrus fruit;tropical fruit;berries;root vegetables;whole milk;white bread;brown bread;fruitvegetable juice;bottled beer;cling film
+root vegetables;other vegetables;whole milk;pastry;cling film;shopping bags
 root vegetables;other vegetables;butter;rolls-buns;flour;bottled water;liquor;candy
 pork;onions;other vegetables;butter;dessert;beverages;UHT-milk;specialty cheese;frozen vegetables;rolls-buns;coffee;shopping bags
 whole milk;curd;soda;light bulbs;pot plants;shopping bags
 ham;organic sausage;tropical fruit;pip fruit;onions;other vegetables;whole milk;butter;curd;yogurt;sliced cheese;salt;margarine;jam;bottled beer;chewing gum;abrasive cleaner
 frankfurter;meat;beef;other vegetables;frozen vegetables;white bread;pastry;soups;pickled vegetables;specialty vegetables;cat food;soda
-UHT-milk;bottled water;chewing gum;cling flim;shopping bags
+UHT-milk;bottled water;chewing gum;cling film;shopping bags
 frozen vegetables;soda
 pip fruit;frozen meals;ice cream;fruitvegetable juice
 tropical fruit;root vegetables;domestic eggs
@@ -5871,7 +5870,7 @@ frankfurter;other vegetables
 domestic eggs;pastry;hygiene articles
 curd cheese;bottled beer
 butter;hard cheese;white bread;chocolate;candy
-whole milk;cream cheese;roll products;napkins;dishes;cling flim
+whole milk;cream cheese;roll products;napkins;dishes;cling film
 pastry
 tropical fruit;oil
 misc. beverages;canned beer
@@ -5907,7 +5906,7 @@ canned beer
 beef
 hamburger meat;whole milk;coffee
 whole milk;dessert;beverages;detergent;flower seeds
-finished products;beef;citrus fruit;yogurt;frozen potato products;pastry;soups;coffee;candy
+ beef;citrus fruit;yogurt;frozen potato products;pastry;soups;coffee;candy
 other vegetables;yogurt;white bread
 citrus fruit;other vegetables;UHT-milk;rolls-buns;flour
 sausage;other vegetables;rolls-buns;fruitvegetable juice
@@ -5927,7 +5926,7 @@ UHT-milk;brown bread;mustard;coffee;soda;dish cleaner
 whole milk;butter
 misc. beverages;napkins
 liver loaf;dessert;domestic eggs;soda;cleaner;shopping bags
-pet care;bottled water;soda;liquor (appetizer)
+pet care;bottled water;soda;liquor_appetizer
 whole milk;whipped sour cream;cream cheese;soda
 chicken;other vegetables
 dessert;long life bakery product
@@ -5966,7 +5965,7 @@ UHT-milk;brown bread;coffee;shopping bags
 frankfurter;organic sausage;whole milk;chewing gum
 meat;chicken;root vegetables;other vegetables;whole milk;whipped sour cream;rolls-buns;abrasive cleaner;cleaner;napkins;house keeping products
 whole milk
-sausage;hamburger meat;packaged fruit;whole milk;processed cheese;frozen vegetables;rolls-buns;white bread;tea;long life bakery product;cling flim;photo-film
+sausage;hamburger meat;packaged fruit;whole milk;processed cheese;frozen vegetables;rolls-buns;white bread;tea;long life bakery product;cling film;photo-film
 herbs;other vegetables;sliced cheese;cream cheese;salt;oil;margarine;fruitvegetable juice;bottled beer;chewing gum;hygiene articles
 whole milk;butter milk
 other vegetables
@@ -6042,7 +6041,7 @@ dessert;fruitvegetable juice;long life bakery product;waffles
 ham
 semi-finished bread;long life bakery product;waffles;detergent;newspapers;shopping bags
 whole milk;whipped sour cream
-root vegetables;yogurt;cat food;coffee;cling flim
+root vegetables;yogurt;cat food;coffee;cling film
 beef;rolls-buns;canned beer;napkins
 citrus fruit;pip fruit;white bread;brown bread;pastry;waffles
 citrus fruit
@@ -6051,7 +6050,7 @@ pork;other vegetables;whole milk;yogurt;frozen fish;rolls-buns;roll products;flo
 frankfurter;whole milk;mustard;chewing gum
 berries;root vegetables;whole milk
 bottled beer;liquor
-ham;yogurt;cling flim
+ham;yogurt;cling film
 whole milk;margarine
 coffee
 chicken;beef;tropical fruit;berries;frozen vegetables;zwieback;dishes
@@ -6094,7 +6093,7 @@ other vegetables;whole milk;hard cheese;long life bakery product;cooking chocola
 frozen meals;soda
 root vegetables;whole milk;curd
 soda
-chicken;root vegetables;herbs;other vegetables;canned beer;liquor (appetizer);shopping bags
+chicken;root vegetables;herbs;other vegetables;canned beer;liquor_appetizer;shopping bags
 dessert;frozen meals;soda;seasonal products
 sausage;specialty bar
 other vegetables;whole milk;yogurt;beverages;hard cheese;fruitvegetable juice
@@ -6191,7 +6190,7 @@ meat;beef;root vegetables;other vegetables;butter;yogurt;frozen vegetables;froze
 frankfurter;tropical fruit;whole milk;cream cheese;rolls-buns;pet care;bottled water;napkins;dishes;shopping bags
 frankfurter;onions;pickled vegetables
 packaged fruit
-root vegetables;yogurt;whipped sour cream;beverages;hard cheese;cream cheese;organic products;soda;misc. beverages;fruitvegetable juice;liquor (appetizer);specialty chocolate;shopping bags
+root vegetables;yogurt;whipped sour cream;beverages;hard cheese;cream cheese;organic products;soda;misc. beverages;fruitvegetable juice;liquor_appetizer;specialty chocolate;shopping bags
 pastry
 frankfurter;packaged fruit;soft cheese;soda
 whole milk;butter;brown bread;pastry;sweet spreads;soda;newspapers
@@ -6225,10 +6224,10 @@ beef;citrus fruit;pip fruit;yogurt;condensed milk;cream cheese;white bread;dish 
 root vegetables;other vegetables;white bread;sparkling wine
 dessert;bottled beer;candy
 dessert;pastry;canned beer
-other vegetables;whole milk;yogurt;bottled water;liquor (appetizer)
+other vegetables;whole milk;yogurt;bottled water;liquor_appetizer
 beverages;cat food;dish cleaner;napkins;shopping bags
 frankfurter;citrus fruit;grapes;rolls-buns;pastry;fruitvegetable juice;chocolate;candy;shopping bags
-citrus fruit;grapes;whipped sour cream;flour;margarine;sugar;soups;baking powder;long life bakery product;waffles;chocolate;specialty bar;dish cleaner;female sanitary products;cling flim
+citrus fruit;grapes;whipped sour cream;flour;margarine;sugar;soups;baking powder;long life bakery product;waffles;chocolate;specialty bar;dish cleaner;female sanitary products;cling film
 pastry;cake bar
 yogurt;bottled water;syrup;specialty bar
 whole milk;brown bread;soda
@@ -6237,7 +6236,6 @@ pip fruit;other vegetables;frozen meals
 sausage;white bread
 bottled water
 meat;root vegetables;whole milk;butter;processed cheese;domestic eggs;bottled water;soda;hygiene articles
-finished products
 other vegetables
 domestic eggs
 soda
@@ -6265,7 +6263,7 @@ chicken;bottled water
 citrus fruit;berries;other vegetables;whole milk;dessert;whipped sour cream;cream cheese;bottled water
 tropical fruit;other vegetables;yogurt
 rolls-buns
-UHT-milk;hygiene articles;napkins;cling flim
+UHT-milk;hygiene articles;napkins;cling film
 candy
 pip fruit;bottled water;white wine;newspapers
 whole milk;yogurt;mustard;bottled water;newspapers
@@ -6460,7 +6458,7 @@ fruitvegetable juice
 sausage;soda;bottled beer;liquor;red-blush wine
 tropical fruit;soda
 soda
-finished products;cream cheese;bottled water;specialty bar;shopping bags
+ cream cheese;bottled water;specialty bar;shopping bags
 salt
 berries;yogurt;beverages;UHT-milk;domestic eggs;rolls-buns;mustard
 potato products
@@ -6489,7 +6487,7 @@ specialty chocolate
 pip fruit;whole milk;frozen vegetables;napkins;candles
 other vegetables;whole milk;pastry;margarine;coffee;shopping bags
 pork;curd cheese;rolls-buns
-pork;herbs;whole milk;yogurt;whipped sour cream;frozen vegetables;oil;liquor (appetizer)
+pork;herbs;whole milk;yogurt;whipped sour cream;frozen vegetables;oil;liquor_appetizer
 cereals;pet care;salty snack;shopping bags
 tropical fruit
 sparkling wine
@@ -6579,7 +6577,7 @@ sausage;onions;yogurt;detergent
 pork;beef;citrus fruit;root vegetables;herbs;other vegetables;roll products;bottled water;bottled beer;specialty chocolate
 citrus fruit;whole milk;yogurt;white bread;sugar;soda;napkins;shopping bags
 citrus fruit
-sausage;pork;yogurt;spread cheese;cereals;canned vegetables;salty snack;cling flim;shopping bags
+sausage;pork;yogurt;spread cheese;cereals;canned vegetables;salty snack;cling film;shopping bags
 berries;newspapers
 brown bread;meat spreads;bottled water;fruitvegetable juice
 curd;whipped sour cream;cream cheese;margarine;long life bakery product
@@ -6587,7 +6585,7 @@ whipped sour cream
 pip fruit;whole milk;butter;dessert;domestic eggs;rice;sugar;salty snack
 sausage;curd;soda
 shopping bags
-citrus fruit;hygiene articles;cling flim
+citrus fruit;hygiene articles;cling film
 frankfurter;chicken;root vegetables;other vegetables;whole milk;dessert;butter milk;yogurt;whipped sour cream;sliced cheese;hard cheese;pastry;semi-finished bread;flour;pasta;canned vegetables;specialty chocolate;male cosmetics;newspapers;shopping bags
 oil;bottled beer
 beverages
@@ -6599,10 +6597,10 @@ brown bread
 whole milk;frozen vegetables
 rolls-buns
 whole milk;spices
-ham;finished products;whipped sour cream;hard cheese;pasta
+ham; whipped sour cream;hard cheese;pasta
 frankfurter;citrus fruit;onions;other vegetables;canned beer;chocolate
 specialty cheese;soda
-pork;tropical fruit;soda;canned beer;liquor (appetizer);newspapers
+pork;tropical fruit;soda;canned beer;liquor_appetizer;newspapers
 citrus fruit;mustard;soda;canned beer;salty snack;chocolate;candy;shopping bags
 canned vegetables;bottled water
 sausage;pip fruit;other vegetables;hard cheese;brown bread;oil;hygiene articles
@@ -6646,7 +6644,7 @@ pet care
 ham;yogurt;UHT-milk;sliced cheese;frozen vegetables;frozen dessert;semi-finished bread;sweet spreads;fruitvegetable juice;newspapers;shopping bags
 pip fruit;dessert;butter milk;yogurt;whipped sour cream;frozen vegetables;rolls-buns
 bottled water;male cosmetics
-tropical fruit;brown bread;margarine;cat food;detergent;cling flim;newspapers
+tropical fruit;brown bread;margarine;cat food;detergent;cling film;newspapers
 citrus fruit;coffee;canned beer;chewing gum;shopping bags
 pork;root vegetables;pastry;bottled beer
 citrus fruit;whole milk;pastry;soda;red-blush wine
@@ -6679,8 +6677,8 @@ whole milk;beverages;bottled beer
 chicken;pip fruit;root vegetables;herbs;whole milk;frozen vegetables;domestic eggs
 citrus fruit;root vegetables;packaged fruit;whole milk;yogurt;cat food;bottled water;chocolate;napkins
 hamburger meat;tropical fruit;root vegetables;other vegetables;yogurt;whipped sour cream;cream cheese;rolls-buns;baking powder
-root vegetables;whole milk;bottled water;abrasive cleaner;cling flim
-finished products;pet care;soda
+root vegetables;whole milk;bottled water;abrasive cleaner;cling film
+ pet care;soda
 canned beer
 whole milk;pasta;mustard;ketchup;dog food;soda;newspapers
 bottled water;fruitvegetable juice;white wine
@@ -6703,7 +6701,7 @@ soda
 pork;root vegetables;whole milk;pickled vegetables;coffee
 frankfurter;pork;tropical fruit;pip fruit;other vegetables;whipped sour cream;beverages;white bread
 ham;whole milk;sliced cheese;bottled water;napkins
-citrus fruit;berries;whole milk;butter milk;whipped sour cream;frozen vegetables;mustard;baking powder;soda;fruitvegetable juice;liquor (appetizer);nut snack;cooking chocolate
+citrus fruit;berries;whole milk;butter milk;whipped sour cream;frozen vegetables;mustard;baking powder;soda;fruitvegetable juice;liquor_appetizer;nut snack;cooking chocolate
 chicken;whole milk;soft cheese;coffee;salty snack;specialty chocolate
 whole milk
 tropical fruit;berries;other vegetables;whole milk;butter;yogurt;cream cheese;brown bread
@@ -6716,10 +6714,10 @@ red-blush wine;specialty bar
 other vegetables;whole milk;white bread
 ham;other vegetables;processed cheese;rolls-buns;white bread;brown bread;margarine
 beef;citrus fruit;root vegetables;whole milk;domestic eggs;rubbing alcohol
-pip fruit;bottled water;liquor;napkins;cling flim
+pip fruit;bottled water;liquor;napkins;cling film
 beef
 whole milk;roll products;semi-finished bread;margarine;pet care;instant coffee;soda;bottled beer;salty snack;popcorn;long life bakery product
-pork;root vegetables;whole milk;whipped sour cream;ice cream;brown bread;flour;pasta;margarine;sugar;pudding powder;bottled water;specialty chocolate;detergent;dish cleaner;hygiene articles;cling flim;house keeping products;candles
+pork;root vegetables;whole milk;whipped sour cream;ice cream;brown bread;flour;pasta;margarine;sugar;pudding powder;bottled water;specialty chocolate;detergent;dish cleaner;hygiene articles;cling film;house keeping products;candles
 frankfurter;whole milk;bottled water
 red-blush wine
 bottled water;soda;pot plants
@@ -6759,7 +6757,7 @@ frankfurter;root vegetables;whole milk;margarine
 pork;beef;root vegetables
 sausage;whole milk;margarine
 packaged fruit;whole milk;beverages;rolls-buns;napkins
-coffee;bottled water;cling flim
+coffee;bottled water;cling film
 other vegetables;whole milk;curd;domestic eggs;hygiene articles
 sausage;citrus fruit;onions;other vegetables;whole milk;sliced cheese;cream cheese;salt;newspapers
 ham;tropical fruit;beverages;white bread;pastry;waffles;specialty chocolate;specialty bar
@@ -6767,7 +6765,7 @@ bottled water;white wine
 bottled water;soda
 ham;root vegetables;onions;whole milk;domestic eggs;rolls-buns;brown bread;pastry;newspapers
 tropical fruit;root vegetables;whole milk;curd;domestic eggs;brown bread;fruitvegetable juice
-tropical fruit;pip fruit;other vegetables;soda;bottled beer;liquor (appetizer)
+tropical fruit;pip fruit;other vegetables;soda;bottled beer;liquor_appetizer
 berries
 whole milk;rolls-buns;brown bread;margarine
 canned vegetables;newspapers
@@ -6839,11 +6837,11 @@ berries;yogurt;domestic eggs;newspapers
 ice cream;cereals;chewing gum
 whipped sour cream;ice cream;pot plants
 chicken;hamburger meat;herbs;other vegetables;whole milk;yogurt;domestic eggs;rolls-buns;light bulbs
-bottled beer;liquor;liquor (appetizer);long life bakery product
+bottled beer;liquor;liquor_appetizer;long life bakery product
 napkins
 sausage;citrus fruit;yogurt;pastry;instant coffee;soda;napkins;newspapers
 tropical fruit;other vegetables;yogurt;frozen vegetables;margarine;pickled vegetables;cat food;detergent;pot plants
-grapes;berries;butter;frozen vegetables;bottled water;soda;cling flim
+grapes;berries;butter;frozen vegetables;bottled water;soda;cling film
 beef;soda;detergent;flower seeds
 whipped sour cream
 oil
@@ -6853,7 +6851,7 @@ frankfurter;ham;beef;berries;other vegetables;whole milk;yogurt;domestic eggs;pa
 hard cheese
 canned beer
 other vegetables
-whole milk;curd;dessert;roll products;tea;cocoa drinks;bottled beer;canned beer;cooking chocolate;cling flim
+whole milk;curd;dessert;roll products;tea;cocoa drinks;bottled beer;canned beer;cooking chocolate;cling film
 sausage;rolls-buns;pastry;soda;seasonal products;shopping bags
 root vegetables;domestic eggs
 other vegetables;bottled beer;red-blush wine;prosecco;specialty chocolate
@@ -6865,7 +6863,7 @@ sausage;turkey;tropical fruit;grapes;other vegetables;whole milk;curd;yogurt;sem
 citrus fruit;pip fruit;other vegetables
 frankfurter;meat;white bread;newspapers
 bottled water;flower seeds
-finished products;dessert;pastry;shopping bags
+ dessert;pastry;shopping bags
 abrasive cleaner
 dessert;misc. beverages;fruitvegetable juice
 other vegetables;whole milk;butter;yogurt;beverages;sliced cheese;cereals;pot plants
@@ -6922,7 +6920,7 @@ frankfurter;beef;other vegetables;chocolate;shopping bags
 whipped sour cream;UHT-milk;domestic eggs
 whole milk;soda;specialty bar;newspapers
 pastry;canned beer;chocolate;newspapers
-whole milk;curd;soda;bottled beer;cling flim
+whole milk;curd;soda;bottled beer;cling film
 whole milk;misc. beverages;salty snack;long life bakery product;shopping bags
 citrus fruit;oil;baking powder;candy;dishes
 whole milk;canned fish;bottled beer;abrasive cleaner;cleaner
@@ -6987,7 +6985,7 @@ butter milk;white bread;pet care;newspapers
 frankfurter;dessert;rolls-buns;artif. sweetener;mustard;canned beer;dish cleaner;male cosmetics
 frozen dessert;softener
 citrus fruit;tropical fruit;pip fruit;yogurt;ice cream;soda
-tropical fruit;other vegetables;whole milk;curd;frozen fish;domestic eggs;baking powder;cling flim
+tropical fruit;other vegetables;whole milk;curd;frozen fish;domestic eggs;baking powder;cling film
 hard cheese;pastry;popcorn;pot plants
 whipped sour cream
 pork;bottled water;white wine
@@ -7036,7 +7034,7 @@ packaged fruit;fruitvegetable juice;salty snack
 other vegetables;whole milk
 citrus fruit;condensed milk;flour
 whipped sour cream
-hamburger meat;citrus fruit;root vegetables;other vegetables;ice cream;domestic eggs;rolls-buns;white bread;canned beer;long life bakery product;cling flim
+hamburger meat;citrus fruit;root vegetables;other vegetables;ice cream;domestic eggs;rolls-buns;white bread;canned beer;long life bakery product;cling film
 bottled water;soda
 frozen meals;frozen fish;frozen dessert;pastry;canned beer;long life bakery product;waffles;napkins;shopping bags
 white bread;flour;fruitvegetable juice;hygiene articles
@@ -7086,8 +7084,8 @@ other vegetables;whole milk;yogurt;domestic eggs;roll products;newspapers;shoppi
 citrus fruit;root vegetables;whole milk;butter milk;yogurt;baking powder;bottled water
 beef;white wine
 meat
-UHT-milk;condensed milk;sugar;coffee;cling flim
-frankfurter;sausage;finished products;organic sausage;pastry;waffles
+UHT-milk;condensed milk;sugar;coffee;cling film
+frankfurter;sausage; organic sausage;pastry;waffles
 sausage;sliced cheese;rolls-buns;soda
 bottled beer;liquor;shopping bags
 soda
@@ -7097,10 +7095,10 @@ hamburger meat;rolls-buns;candles
 fish;root vegetables;rolls-buns;roll products;napkins
 frankfurter;sausage;chicken;citrus fruit;root vegetables;onions;other vegetables;butter;processed cheese;spread cheese;salad dressing;frozen vegetables;frozen fish;rolls-buns;flour;artif. sweetener;soda;candy;cleaner
 yogurt;cream cheese;spread cheese;rolls-buns;bottled water;soda;fruitvegetable juice;bottled beer;chocolate;newspapers
-tropical fruit;yogurt;coffee;cling flim;newspapers
+tropical fruit;yogurt;coffee;cling film;newspapers
 meat;root vegetables;pastry
 bottled water;soda;salty snack
-hamburger meat;whole milk;yogurt;salt;canned vegetables;soda;cling flim
+hamburger meat;whole milk;yogurt;salt;canned vegetables;soda;cling film
 meat;root vegetables;hard cheese;brown bread
 frankfurter
 chicken;citrus fruit;butter;margarine;bottled water;soda;fruitvegetable juice;newspapers
@@ -7113,7 +7111,7 @@ citrus fruit;onions;soups
 chicken;herbs;curd;oil;soda;canned beer;napkins
 citrus fruit;other vegetables;curd;brown bread;hygiene articles
 bottled water;white wine;salty snack
-sausage;other vegetables;whole milk;UHT-milk;frozen vegetables;frozen fish;cling flim;house keeping products;shopping bags
+sausage;other vegetables;whole milk;UHT-milk;frozen vegetables;frozen fish;cling film;house keeping products;shopping bags
 pip fruit;grapes;whole milk;rolls-buns
 frankfurter;beef;whole milk;chocolate marshmallow
 ham;hamburger meat;whole milk;processed cheese;rolls-buns;pastry;Instant food products;fruitvegetable juice;salty snack;chocolate marshmallow
@@ -7174,7 +7172,6 @@ rolls-buns;canned fish;canned beer;waffles;newspapers
 tropical fruit
 butter;beverages;sliced cheese;pastry;shopping bags
 frankfurter;white wine;dish cleaner
-finished products
 liver loaf;pip fruit;grapes;other vegetables
 frankfurter;beef;berries;processed cheese;frozen meals;frozen potato products;rolls-buns;ready soups;bottled water;soda;fruitvegetable juice;red-blush wine;long life bakery product;specialty bar
 butter milk;instant coffee
@@ -7297,7 +7294,7 @@ curd cheese;rolls-buns;bottled beer
 other vegetables;whole milk;processed cheese;soda
 male cosmetics
 other vegetables;yogurt;specialty cheese;bottled water
-finished products;rolls-buns
+ rolls-buns
 other vegetables;frozen meals;rolls-buns;bottled water;bottled beer;red-blush wine
 fruitvegetable juice
 berries;other vegetables;yogurt
@@ -7318,10 +7315,10 @@ citrus fruit;yogurt
 citrus fruit;tropical fruit;other vegetables;rolls-buns;shopping bags
 meat;other vegetables;yogurt;ice cream;fruitvegetable juice;salty snack;newspapers
 salty snack;specialty chocolate
-finished products;beef;frozen meals;rolls-buns;soda
+ beef;frozen meals;rolls-buns;soda
 bottled beer;liquor
 citrus fruit;tropical fruit;pastry;seasonal products
-ice cream;soda;misc. beverages;liquor (appetizer)
+ice cream;soda;misc. beverages;liquor_appetizer
 tropical fruit;root vegetables;yogurt;cream cheese;processed cheese;brown bread;ketchup;salty snack;waffles;candy
 margarine
 soda
@@ -7398,7 +7395,7 @@ tropical fruit;whole milk;cream cheese;brown bread
 tropical fruit;rolls-buns;white bread;salty snack;candy
 specialty bar
 meat;brown bread;seasonal products;shopping bags
-soda;canned beer;liquor (appetizer);salty snack;shopping bags
+soda;canned beer;liquor_appetizer;salty snack;shopping bags
 yogurt;specialty bar
 frankfurter;onions;packaged fruit;cream cheese;brown bread;canned fish;shopping bags
 ham;pip fruit;domestic eggs;pastry;semi-finished bread;cat food;newspapers
@@ -7418,7 +7415,7 @@ fruitvegetable juice
 root vegetables;other vegetables;whole milk;yogurt;long life bakery product;newspapers
 frankfurter;whole milk;frozen vegetables
 grapes;brown bread
-grapes;sugar;cling flim
+grapes;sugar;cling film
 bottled beer
 rolls-buns;napkins;shopping bags
 rolls-buns;bottled water
@@ -7445,7 +7442,7 @@ pastry
 turkey;pip fruit;root vegetables;yogurt;cream cheese;flour;sugar;napkins;newspapers
 tropical fruit;butter milk;brown bread;flour
 sugar;specialty bar
-finished products;whole milk;softener
+ whole milk;softener
 meat;pip fruit;whole milk;soda;newspapers
 hamburger meat;pip fruit;curd;dessert;cream cheese;rolls-buns;brown bread
 pork
@@ -7477,10 +7474,10 @@ rolls-buns
 root vegetables;margarine;pet care
 citrus fruit;butter;yogurt;cream cheese;rolls-buns;bottled water;soda;newspapers
 tropical fruit;rolls-buns;newspapers
-frankfurter;sausage;rolls-buns;soda;liquor (appetizer);specialty bar;shopping bags
+frankfurter;sausage;rolls-buns;soda;liquor_appetizer;specialty bar;shopping bags
 sausage;soda
 tropical fruit;onions;whole milk;cream cheese;specialty cheese;bottled water;soda
-frankfurter;berries;whole milk;rice;coffee;cling flim
+frankfurter;berries;whole milk;rice;coffee;cling film
 sausage;citrus fruit;berries;other vegetables;whole milk;butter;whipped sour cream;brown bread;soups;coffee;bottled water;bottled beer;waffles
 tropical fruit;hard cheese;frozen vegetables;domestic eggs;semi-finished bread
 whipped sour cream
@@ -7507,11 +7504,11 @@ bottled water;misc. beverages;fruitvegetable juice;bottled beer
 beef;citrus fruit;domestic eggs;salty snack;long life bakery product;napkins
 herbs;whole milk;butter;soups;bottled water;bottled beer
 frankfurter;meat;whole milk;butter;yogurt;cream cheese;rolls-buns;pastry
-sausage;finished products;pork;berries;root vegetables;packaged fruit;whole milk;curd;frozen vegetables;brown bread;sugar;soda;fruitvegetable juice;chocolate;specialty chocolate;specialty bar;hygiene articles;napkins
+sausage; pork;berries;root vegetables;packaged fruit;whole milk;curd;frozen vegetables;brown bread;sugar;soda;fruitvegetable juice;chocolate;specialty chocolate;specialty bar;hygiene articles;napkins
 sausage;rolls-buns
 newspapers
 ham;hard cheese;pastry;fruitvegetable juice
-finished products;other vegetables;long life bakery product
+ other vegetables;long life bakery product
 citrus fruit;berries;pastry;male cosmetics;hygiene articles
 berries;other vegetables;yogurt;frozen fish;oil;margarine;salty snack
 other vegetables
@@ -7520,13 +7517,13 @@ sausage;whole milk;yogurt;UHT-milk;rolls-buns
 liver loaf;beef;whole milk;yogurt;soft cheese;frozen vegetables;white bread;roll products;vinegar;baking powder;fruitvegetable juice
 soda
 beverages
-hamburger meat;cream cheese;sweet spreads;coffee;canned beer;cling flim;shopping bags
+hamburger meat;cream cheese;sweet spreads;coffee;canned beer;cling film;shopping bags
 chicken;tropical fruit;root vegetables;other vegetables;beverages;coffee;bottled beer;liquor
 tropical fruit;butter;bottled water;male cosmetics;newspapers
 nuts-prunes;root vegetables;yogurt;condensed milk;ice cream;semi-finished bread;bottled beer;brandy;salty snack
 pork;root vegetables;whole milk;sliced cheese;frozen fish;domestic eggs;cake bar;chocolate marshmallow;candy
 grapes;hard cheese;margarine;specialty fat;newspapers
-sausage;finished products;semi-finished bread;soda
+sausage; semi-finished bread;soda
 soda
 beef;soda;newspapers
 whole milk;butter;curd;rubbing alcohol
@@ -7549,7 +7546,7 @@ hamburger meat;pip fruit;other vegetables;whole milk;curd;roll products
 shopping bags
 citrus fruit;tropical fruit;grapes;root vegetables;herbs;other vegetables;whole milk;frozen vegetables;rice;dog food;bottled water;misc. beverages;fruitvegetable juice;napkins
 root vegetables;domestic eggs;white bread
-berries;whole milk;yogurt;sugar;cling flim;house keeping products
+berries;whole milk;yogurt;sugar;cling film;house keeping products
 whole milk;butter;curd;whipped sour cream;newspapers
 frankfurter;pork;beef;tropical fruit;other vegetables;whole milk;yogurt;rolls-buns;semi-finished bread;pickled vegetables;soda;newspapers
 other vegetables;whole milk;pastry;margarine;bottled water
@@ -7572,12 +7569,12 @@ citrus fruit;other vegetables;whole milk;soda
 whole milk;cream cheese;chewing gum
 curd;fruitvegetable juice;specialty chocolate
 other vegetables
-sausage;chicken;berries;root vegetables;other vegetables;butter milk;rolls-buns;salt;mustard;canned fish;coffee;bottled water;fruitvegetable juice;cling flim;newspapers
+sausage;chicken;berries;root vegetables;other vegetables;butter milk;rolls-buns;salt;mustard;canned fish;coffee;bottled water;fruitvegetable juice;cling film;newspapers
 beef;whole milk;sliced cheese
 yogurt;rolls-buns
-finished products;butter;curd;soda
+ butter;curd;soda
 grapes;fruitvegetable juice;red-blush wine;long life bakery product;waffles;specialty chocolate;shopping bags
-frozen vegetables;flour;bottled beer;liquor (appetizer);salty snack;dishes
+frozen vegetables;flour;bottled beer;liquor_appetizer;salty snack;dishes
 sausage;tropical fruit;pip fruit;spices;pet care;canned beer
 pork;citrus fruit;other vegetables;whole milk;whipped sour cream;specialty cheese;domestic eggs;canned vegetables;fruitvegetable juice;canned beer;specialty bar
 UHT-milk
@@ -7623,7 +7620,7 @@ hamburger meat;pickled vegetables;hygiene articles
 chicken;root vegetables
 beef;instant coffee
 soda
-ham;berries;onions;whole milk;butter milk;yogurt;whipped sour cream;cream cheese;mayonnaise;pastry;semi-finished bread;chocolate;specialty chocolate;hygiene articles;cling flim
+ham;berries;onions;whole milk;butter milk;yogurt;whipped sour cream;cream cheese;mayonnaise;pastry;semi-finished bread;chocolate;specialty chocolate;hygiene articles;cling film
 citrus fruit;root vegetables;rolls-buns
 hygiene articles
 citrus fruit;tropical fruit;dessert;fruitvegetable juice
@@ -7711,11 +7708,11 @@ sausage;pip fruit;berries;whole milk;curd;dessert;butter milk;yogurt;whipped sou
 grapes;hard cheese
 pork;beef;whole milk;frozen vegetables;sugar;canned beer;detergent;skin care;napkins;flower seeds
 citrus fruit
-yogurt;liquor (appetizer);nut snack;long life bakery product;hygiene articles;shopping bags
-brandy;liquor;liquor (appetizer);long life bakery product;dish cleaner;napkins;dishes;shopping bags
+yogurt;liquor_appetizer;nut snack;long life bakery product;hygiene articles;shopping bags
+brandy;liquor;liquor_appetizer;long life bakery product;dish cleaner;napkins;dishes;shopping bags
 turkey;frozen potato products;soda
 whole milk;cake bar
-finished products;grapes;other vegetables;curd;beverages;rolls-buns;pastry;waffles;specialty bar
+ grapes;other vegetables;curd;beverages;rolls-buns;pastry;waffles;specialty bar
 onions;other vegetables;soft cheese;hard cheese;salad dressing;specialty chocolate
 yogurt;specialty chocolate
 curd;seasonal products;female sanitary products
@@ -7770,7 +7767,7 @@ frozen meals;soda;napkins
 sausage;citrus fruit;whole milk;sliced cheese;frozen meals;white bread;chewing gum;photo-film
 whole milk;brown bread;flower seeds
 ham;whole milk;sliced cheese;spread cheese;brown bread;pickled vegetables;bottled beer;shopping bags
-cling flim
+cling film
 chicken
 red-blush wine
 chicken;grapes;whole milk;yogurt;sliced cheese;bottled water;fruitvegetable juice
@@ -7778,7 +7775,7 @@ hamburger meat;root vegetables;other vegetables;dessert;rolls-buns
 bottled water;soda
 curd;whipped sour cream
 frankfurter;rolls-buns;ketchup;soda
-turkey;whole milk;liquor (appetizer);shopping bags
+turkey;whole milk;liquor_appetizer;shopping bags
 tropical fruit;whole milk;rolls-buns;prosecco;salty snack;specialty bar
 other vegetables;yogurt;whipped sour cream;brown bread;margarine;shopping bags
 pip fruit;bottled water;candy
@@ -7796,7 +7793,7 @@ rolls-buns;liquor
 rolls-buns;canned beer
 onions;whole milk;yogurt;rolls-buns;brown bread;fruitvegetable juice
 whole milk;yogurt;domestic eggs;baking powder;newspapers
-yogurt;condensed milk;sliced cheese;rolls-buns;margarine;bottled water;soda;cling flim
+yogurt;condensed milk;sliced cheese;rolls-buns;margarine;bottled water;soda;cling film
 rolls-buns
 whole milk
 rolls-buns
@@ -7804,7 +7801,7 @@ rolls-buns;bottled beer
 pip fruit;berries;other vegetables;butter;yogurt;soda;chocolate;house keeping products
 frankfurter;whipped sour cream;sugar;fruitvegetable juice;napkins;newspapers
 turkey;grapes;other vegetables;hard cheese;frozen vegetables;rolls-buns;misc. beverages;newspapers
-onions;other vegetables;roll products;bottled beer;liquor (appetizer);newspapers
+onions;other vegetables;roll products;bottled beer;liquor_appetizer;newspapers
 beef;pip fruit;other vegetables;whole milk;frozen vegetables;rolls-buns
 sausage;citrus fruit;berries;whipped sour cream;rolls-buns;canned beer;specialty bar;napkins
 other vegetables;soft cheese;soda;bottled beer
@@ -7945,7 +7942,7 @@ root vegetables;whole milk;yogurt;domestic eggs;rolls-buns;long life bakery prod
 root vegetables;spices;kitchen towels
 beef;root vegetables;other vegetables;white bread;canned fruit;soda;chocolate;newspapers
 bathroom cleaner
-yogurt;UHT-milk;cream cheese;rolls-buns;brown bread;pastry;pickled vegetables;canned fish;cling flim
+yogurt;UHT-milk;cream cheese;rolls-buns;brown bread;pastry;pickled vegetables;canned fish;cling film
 frankfurter;whole milk;yogurt;frozen fish;domestic eggs
 curd cheese;frozen meals
 whole milk;cream cheese;domestic eggs;margarine;canned beer;long life bakery product;shopping bags
@@ -8082,7 +8079,7 @@ sausage;tropical fruit;cream cheese;pastry;bottled water
 soft cheese;frozen meals;domestic eggs;rolls-buns;cat food
 canned fruit
 frankfurter;ham;meat;pip fruit;berries;UHT-milk;soft cheese;sliced cheese;cream cheese;frozen vegetables;frozen fish;white bread;brown bread;sugar;sauces;sweet spreads;canned fish;pet care;fruitvegetable juice;specialty bar;kitchen towels
-frankfurter;whole milk;rolls-buns;cling flim;shopping bags
+frankfurter;whole milk;rolls-buns;cling film;shopping bags
 berries;yogurt;specialty cheese
 ice cream
 sausage;meat
@@ -8107,7 +8104,7 @@ white wine
 pork;citrus fruit;tropical fruit;grapes;root vegetables;cream cheese;pet care;bottled water;fruitvegetable juice;bottled beer
 whole milk
 candy;hygiene articles
-chicken;soda;liquor (appetizer);newspapers;shopping bags
+chicken;soda;liquor_appetizer;newspapers;shopping bags
 citrus fruit;butter milk;white bread;canned fish;bottled water;sparkling wine;male cosmetics
 grapes;rolls-buns;long life bakery product;candy
 rolls-buns
@@ -8144,7 +8141,7 @@ sausage;curd
 sausage;chicken;other vegetables;soft cheese;frozen vegetables;spices;soda;shopping bags
 whole milk
 artif. sweetener;coffee
-finished products;other vegetables;pet care;misc. beverages;chocolate;newspapers
+ other vegetables;pet care;misc. beverages;chocolate;newspapers
 dog food
 ham;tropical fruit;pip fruit;other vegetables;UHT-milk;sliced cheese;domestic eggs;white bread;fruitvegetable juice
 bottled beer;liquor;red-blush wine;waffles;candy;napkins;shopping bags
@@ -8167,7 +8164,7 @@ specialty chocolate
 UHT-milk;specialty bar
 beverages;cream cheese
 soda
-root vegetables;whole milk;long life bakery product;cling flim
+root vegetables;whole milk;long life bakery product;cling film
 sausage;rolls-buns;coffee
 rolls-buns
 tropical fruit;yogurt;bottled water;specialty chocolate
@@ -8230,7 +8227,7 @@ pork;bottled water
 pork;whole milk;yogurt;cream cheese;rolls-buns;pudding powder
 sausage;beef;hamburger meat;pip fruit;root vegetables;herbs;other vegetables;yogurt;mayonnaise;rolls-buns;dishes
 chicken;root vegetables;whole milk
-frankfurter;beef;other vegetables;pasta;margarine;canned fish;dishes;cling flim
+frankfurter;beef;other vegetables;pasta;margarine;canned fish;dishes;cling film
 other vegetables;whole milk;dessert;cream cheese;sugar;dishes
 pip fruit;herbs;other vegetables;whipped sour cream;oil;bottled water
 whole milk;yogurt;bottled water
@@ -8275,12 +8272,12 @@ canned beer;shopping bags
 soda
 berries;dessert;rolls-buns;soda;white wine
 pip fruit
-pork;root vegetables;other vegetables;whole milk;butter milk;yogurt;whipped sour cream;rolls-buns;flour;cat food;instant coffee;waffles;cling flim;newspapers
+pork;root vegetables;other vegetables;whole milk;butter milk;yogurt;whipped sour cream;rolls-buns;flour;cat food;instant coffee;waffles;cling film;newspapers
 rolls-buns;bottled water
 sausage;bottled water;white wine
 sausage;tropical fruit;onions;other vegetables;butter milk;curd cheese;rolls-buns;bottled water;abrasive cleaner
 pip fruit;rolls-buns;soda;skin care
-frankfurter;onions;liquor (appetizer);napkins
+frankfurter;onions;liquor_appetizer;napkins
 butter
 organic sausage;tropical fruit;packaged fruit;whole milk;curd;yogurt;soft cheese;curd cheese;frozen vegetables;domestic eggs;rolls-buns;pastry;margarine;bottled water;cooking chocolate;hygiene articles;shopping bags
 sausage;hamburger meat;whole milk;butter;curd;processed cheese;pastry;Instant food products;shopping bags
@@ -8314,7 +8311,7 @@ fruitvegetable juice
 chicken;root vegetables;other vegetables;rolls-buns;canned beer;red-blush wine
 grapes;pastry;coffee;hair spray
 bottled water;canned beer
-frankfurter;rolls-buns;brown bread;coffee;bottled water;soda;canned beer;chocolate;cling flim;shopping bags
+frankfurter;rolls-buns;brown bread;coffee;bottled water;soda;canned beer;chocolate;cling film;shopping bags
 frankfurter;hamburger meat;root vegetables;whole milk;yogurt;brown bread;chocolate
 shopping bags
 whole milk;yogurt;frozen fish;domestic eggs;white bread;margarine;fruitvegetable juice;waffles;skin care;hygiene articles
@@ -8365,7 +8362,7 @@ sausage;rolls-buns;mustard
 yogurt;dog food;newspapers
 pork;fish;citrus fruit;whole milk;long life bakery product
 tropical fruit;berries;whipped sour cream
-sausage;tropical fruit;pip fruit;root vegetables;whole milk;yogurt;rolls-buns;pastry;oil;coffee;specialty bar;dish cleaner;cling flim;shopping bags
+sausage;tropical fruit;pip fruit;root vegetables;whole milk;yogurt;rolls-buns;pastry;oil;coffee;specialty bar;dish cleaner;cling film;shopping bags
 canned beer
 grapes;cream cheese
 tropical fruit;whole milk;yogurt;whipped sour cream;frozen meals;rolls-buns;waffles;newspapers;photo-film
@@ -8428,13 +8425,13 @@ citrus fruit;pip fruit;butter;spices;bottled beer;long life bakery product;speci
 soda;specialty chocolate
 hamburger meat;grapes;whole milk;pastry;pasta;soda
 chocolate
-grapes;liquor (appetizer);waffles
+grapes;liquor_appetizer;waffles
 tropical fruit;root vegetables;other vegetables;napkins
 yogurt
 hamburger meat;root vegetables;yogurt;whipped sour cream;sliced cheese;pasta;soda;nut snack;waffles
 nuts-prunes;brandy
 pastry;soda;salty snack;popcorn;skin care
-sausage;other vegetables;yogurt;cat food;chewing gum;female sanitary products;cling flim
+sausage;other vegetables;yogurt;cat food;chewing gum;female sanitary products;cling film
 sausage;ham;bottled water
 berries
 canned beer
@@ -8449,7 +8446,7 @@ soda
 beef;root vegetables;curd;dessert;waffles;dish cleaner
 waffles
 whole milk;salty snack
-finished products
+
 whole milk;soda;cleaner
 ham;berries;root vegetables;whole milk;whipped sour cream;brown bread;pastry;bottled beer;napkins
 processed cheese;brown bread
@@ -8459,7 +8456,7 @@ bottled beer
 dessert;frozen dessert;oil;soda;salty snack;chocolate;dental care
 chicken;other vegetables
 bottled beer
-finished products;pip fruit;yogurt;chocolate
+ pip fruit;yogurt;chocolate
 rolls-buns;soda;cleaner
 soda;rum
 fruitvegetable juice;pot plants;shopping bags
@@ -8488,7 +8485,7 @@ beef;root vegetables;white wine;shopping bags
 frankfurter;sausage;Instant food products
 bottled beer
 pip fruit;berries;root vegetables;whole milk;curd;whipped sour cream;soft cheese;frozen vegetables;pastry
-chicken;berries;frozen vegetables;coffee;cling flim
+chicken;berries;frozen vegetables;coffee;cling film
 frankfurter;sausage;pastry
 yogurt;frozen fish;rolls-buns
 ice cream;white bread;candles
@@ -8516,7 +8513,7 @@ sausage;citrus fruit;tropical fruit;other vegetables;curd;pastry;soda;chocolate;
 long life bakery product;detergent
 sausage;rolls-buns;soda
 white wine
-frankfurter;whole milk;processed cheese;ice cream;canned fish;hygiene articles;cling flim
+frankfurter;whole milk;processed cheese;ice cream;canned fish;hygiene articles;cling film
 pastry;margarine;candy
 chewing gum
 organic sausage;soda
@@ -8663,14 +8660,14 @@ frankfurter;grapes;yogurt;cream cheese;frozen potato products;rolls-buns;meat sp
 whole milk;rolls-buns;margarine;bottled beer
 pip fruit;semi-finished bread;soups
 whole milk;rolls-buns;canned beer
-beef;citrus fruit;root vegetables;other vegetables;dessert;whipped sour cream;oil;fruitvegetable juice;napkins;cling flim;newspapers;shopping bags
+beef;citrus fruit;root vegetables;other vegetables;dessert;whipped sour cream;oil;fruitvegetable juice;napkins;cling film;newspapers;shopping bags
 sausage;frozen vegetables;seasonal products
 pork;berries;whole milk;frozen meals;white bread;brown bread;margarine;long life bakery product;napkins
 sausage;root vegetables;other vegetables;sliced cheese;hard cheese;semi-finished bread;oil;baking powder;canned vegetables;pet care;chocolate;napkins;newspapers
 napkins
 hamburger meat
 yogurt;pet care
-meat;tropical fruit;vinegar;spices;cling flim
+meat;tropical fruit;vinegar;spices;cling film
 sausage;onions;rolls-buns;soda;brandy;white wine;chewing gum;napkins;shopping bags
 pastry
 liver loaf;pork;other vegetables;whole milk;rolls-buns;coffee;soda;napkins;dishes
@@ -8684,7 +8681,7 @@ berries;yogurt;cream cheese;rolls-buns;soda;brandy
 frozen meals;frozen fish
 tropical fruit;other vegetables;whole milk;yogurt;cream cheese;curd cheese;domestic eggs;sugar;fruitvegetable juice;napkins
 newspapers
-chicken;root vegetables;other vegetables;coffee;chewing gum;hygiene articles;napkins;cling flim;kitchen towels;light bulbs
+chicken;root vegetables;other vegetables;coffee;chewing gum;hygiene articles;napkins;cling film;kitchen towels;light bulbs
 whole milk;UHT-milk;chocolate;newspapers;shopping bags
 butter;UHT-milk;domestic eggs;waffles
 pip fruit;brown bread
@@ -8734,12 +8731,12 @@ sausage;frozen vegetables;domestic eggs;soda;fruitvegetable juice;napkins;pot pl
 frankfurter;sausage;liver loaf;citrus fruit;pip fruit;onions;yogurt;domestic eggs;brown bread;oil;fruitvegetable juice
 chocolate;candy
 UHT-milk;candy;napkins
-sausage;tropical fruit;rolls-buns;soda;cling flim;shopping bags
+sausage;tropical fruit;rolls-buns;soda;cling film;shopping bags
 cream cheese
 bottled beer;shopping bags
 rolls-buns;fruitvegetable juice;specialty chocolate;newspapers
 rolls-buns
-finished products;whole milk;rolls-buns;salty snack;cake bar;chocolate;candy;newspapers
+ whole milk;rolls-buns;salty snack;cake bar;chocolate;candy;newspapers
 sausage;beef;pip fruit;grapes;root vegetables;other vegetables;whole milk;curd;butter milk;yogurt;sliced cheese;cream cheese;specialty cheese;frozen meals;white bread;pastry;candy
 tropical fruit;whipped sour cream;frozen vegetables;rolls-buns;salty snack;dish cleaner
 beef;grapes;whole milk;butter;curd;ice cream;cat food;bottled water;dish cleaner
@@ -8761,7 +8758,7 @@ beverages;pastry;soda;misc. beverages;chocolate marshmallow
 mayonnaise;tidbits;rolls-buns;bottled water;soda;cake bar
 rolls-buns
 chicken;pork;beef;whole milk;curd;soft cheese;processed cheese;frozen potato products;rolls-buns;popcorn
-canned beer;liquor (appetizer)
+canned beer;liquor_appetizer
 chicken;hamburger meat;other vegetables;butter;yogurt;rolls-buns;white bread;rice;fruitvegetable juice;cake bar;chocolate;candy;shopping bags
 whole milk
 ham;pork;white bread;candy
@@ -8813,7 +8810,7 @@ frozen meals;canned beer;salty snack
 newspapers
 sausage;pork;hamburger meat;tropical fruit;pip fruit;whole milk;yogurt;sliced cheese;frozen vegetables;white bread;dog food;coffee;bottled water;fruitvegetable juice;long life bakery product;specialty chocolate;specialty bar;chocolate marshmallow;hygiene articles;pot plants
 frozen meals;cat food;hair spray
-finished products;pork;grapes;other vegetables;hard cheese;bottled water;salty snack;popcorn;waffles;cleaner
+ pork;grapes;other vegetables;hard cheese;bottled water;salty snack;popcorn;waffles;cleaner
 tropical fruit
 whole milk;bottled water;soda;canned beer
 ice cream;bottled water;soda
@@ -8862,7 +8859,7 @@ sausage;tropical fruit;berries;other vegetables;dessert;frozen fish;frozen potat
 other vegetables
 sausage;other vegetables;packaged fruit;whole milk;yogurt
 other vegetables;cream cheese
-frankfurter;sausage;finished products;fish;whole milk;white bread;pastry;oil;margarine;sugar;fruitvegetable juice;cake bar;chocolate
+frankfurter;sausage; fish;whole milk;white bread;pastry;oil;margarine;sugar;fruitvegetable juice;cake bar;chocolate
 frankfurter;ham;chicken;pork;root vegetables;other vegetables;dessert;cream cheese;rolls-buns;cat food;bottled water;shopping bags
 curd;yogurt
 grapes;butter;rum
@@ -8892,7 +8889,7 @@ frankfurter;meat;pork;root vegetables;onions;whole milk;beverages;mayonnaise;sod
 sausage;hamburger meat;other vegetables;yogurt;sliced cheese;brown bread;sugar;fruitvegetable juice;canned beer;cleaner;bathroom cleaner;napkins;newspapers
 pork;tropical fruit;pip fruit;root vegetables;frozen dessert;rolls-buns;margarine;seasonal products;napkins;dishes
 yogurt;bottled water;white wine
-ham;meat;tropical fruit;pip fruit;other vegetables;yogurt;UHT-milk;processed cheese;white bread;semi-finished bread;oil;margarine;pickled vegetables;coffee;soda;liquor (appetizer);napkins;light bulbs
+ham;meat;tropical fruit;pip fruit;other vegetables;yogurt;UHT-milk;processed cheese;white bread;semi-finished bread;oil;margarine;pickled vegetables;coffee;soda;liquor_appetizer;napkins;light bulbs
 other vegetables;butter;rolls-buns;flower seeds
 sausage;soda;chocolate marshmallow
 beef;herbs;other vegetables;whole milk;rice
@@ -8925,7 +8922,7 @@ sugar
 hamburger meat;other vegetables;canned vegetables
 whole milk
 nuts-prunes;liquor
-frankfurter;tropical fruit;grapes;other vegetables;rolls-buns;white bread;soda;syrup;canned beer;long life bakery product;candy;rubbing alcohol;cling flim
+frankfurter;tropical fruit;grapes;other vegetables;rolls-buns;white bread;soda;syrup;canned beer;long life bakery product;candy;rubbing alcohol;cling film
 red-blush wine
 berries;beverages;canned beer;shopping bags
 sausage;citrus fruit;tropical fruit;berries;root vegetables;other vegetables;condensed milk;curd cheese;roll products;pasta;oil;coffee;soda;fruitvegetable juice;bottled beer;abrasive cleaner;bathroom cleaner;napkins
@@ -8958,7 +8955,7 @@ beef;root vegetables;herbs;packaged fruit;butter;sliced cheese;domestic eggs;jam
 hamburger meat;tropical fruit;other vegetables;whole milk;butter;curd;dessert;yogurt;whipped sour cream;UHT-milk;domestic eggs;pastry;flour;margarine;cereals;canned fish;cat food;bottled water;bottled beer;hygiene articles;napkins
 chicken;frozen vegetables;bottled beer
 sausage;meat;herbs;other vegetables;soft cheese;margarine;cat food;shopping bags
-sausage;citrus fruit;soda;fruitvegetable juice;salty snack;napkins;cling flim
+sausage;citrus fruit;soda;fruitvegetable juice;salty snack;napkins;cling film
 bottled water;bottled beer
 pastry;soda
 cat food
@@ -8987,13 +8984,13 @@ ham;pork;shopping bags
 sausage;tropical fruit;pip fruit;berries;other vegetables;whole milk;butter;curd;whipped sour cream;cat food;salty snack;popcorn;pot plants;shopping bags
 shopping bags
 cereals;salty snack
-frozen fish;liquor (appetizer)
+frozen fish;liquor_appetizer
 whole milk;white bread;margarine;cat food;soda
 soda;canned beer
 pastry;soda;misc. beverages;canned beer;salty snack;chocolate;shopping bags
 frankfurter;tropical fruit;pip fruit;other vegetables;yogurt;whipped sour cream;rolls-buns;bottled water;soda;misc. beverages;chocolate;specialty chocolate;candy;shopping bags
 yogurt;UHT-milk;domestic eggs;rolls-buns;long life bakery product
-domestic eggs;canned beer;liquor (appetizer);chocolate marshmallow;shopping bags
+domestic eggs;canned beer;liquor_appetizer;chocolate marshmallow;shopping bags
 sausage;other vegetables;whole milk;butter;fruitvegetable juice
 ham;whole milk;white bread
 other vegetables;whole milk;pastry;salty snack;candy
@@ -9069,10 +9066,10 @@ newspapers
 berries;root vegetables;whipped sour cream;soda
 beef;whole milk;rolls-buns;white bread;margarine;newspapers
 whole milk;whipped sour cream;rolls-buns;pickled vegetables;bottled water;long life bakery product
-citrus fruit;whole milk;whipped sour cream;rolls-buns;margarine;cling flim
+citrus fruit;whole milk;whipped sour cream;rolls-buns;margarine;cling film
 other vegetables;whole milk;condensed milk;white bread;sugar;coffee;soda;fruitvegetable juice;bottled beer;shopping bags
 root vegetables;whole milk;flour;sugar;soda;misc. beverages
-frankfurter;hamburger meat;other vegetables;pastry;dish cleaner;cling flim;kitchen towels
+frankfurter;hamburger meat;other vegetables;pastry;dish cleaner;cling film;kitchen towels
 other vegetables
 sausage;tropical fruit;curd;yogurt;dog food;bottled water;long life bakery product;hygiene articles;shopping bags
 yogurt;abrasive cleaner
@@ -9085,7 +9082,7 @@ tropical fruit
 sausage;chicken;pork;citrus fruit;berries;root vegetables;packaged fruit;curd;yogurt;whipped sour cream;frozen vegetables
 hamburger meat;other vegetables;whole milk;butter;specialty cheese;pastry;cereals
 pip fruit;root vegetables;other vegetables;cream cheese;domestic eggs;pickled vegetables;fruitvegetable juice
-beef;curd;yogurt;whipped sour cream;frozen meals;brown bread;canned fish;coffee;candy;cling flim
+beef;curd;yogurt;whipped sour cream;frozen meals;brown bread;canned fish;coffee;candy;cling film
 other vegetables;yogurt;rolls-buns;salt;sparkling wine;napkins
 sausage
 other vegetables;whole milk;canned beer
@@ -9138,7 +9135,7 @@ herbs;other vegetables;whipped sour cream;UHT-milk;domestic eggs;sweet spreads;s
 citrus fruit;pickled vegetables;dog food;soda;salty snack;waffles;candy;dish cleaner;newspapers
 citrus fruit;tropical fruit;other vegetables;butter milk;yogurt;pastry;waffles;candy;dental care
 beef;root vegetables;yogurt;whipped sour cream
-sausage;other vegetables;rolls-buns;baking powder;soda;cling flim;house keeping products
+sausage;other vegetables;rolls-buns;baking powder;soda;cling film;house keeping products
 soda;bottled beer
 liquor;house keeping products;shopping bags
 pork;rolls-buns;pastry;napkins;newspapers
@@ -9203,7 +9200,7 @@ whole milk;dessert;yogurt;margarine;newspapers
 soda;specialty chocolate
 canned beer
 roll products;newspapers
-tropical fruit;other vegetables;whole milk;butter;yogurt;soft cheese;domestic eggs;cling flim
+tropical fruit;other vegetables;whole milk;butter;yogurt;soft cheese;domestic eggs;cling film
 other vegetables;whole milk;yogurt;sliced cheese;cereals;bottled water
 other vegetables;zwieback;soda;chewing gum
 sugar;bottled water;soda;fruitvegetable juice;salty snack;popcorn
@@ -9417,7 +9414,7 @@ cream cheese;white bread;Instant food products;fruitvegetable juice
 dessert;yogurt;frozen vegetables;soda;misc. beverages;white wine;prosecco;long life bakery product;waffles;cleaner;toilet cleaner;dental care;napkins;newspapers
 whole milk
 frankfurter;whipped sour cream;condensed milk;frozen vegetables;salty snack;candy
-liquor (appetizer)
+liquor_appetizer
 curd;specialty chocolate
 curd;yogurt
 other vegetables;butter milk;yogurt;fruitvegetable juice
@@ -9474,7 +9471,7 @@ whole milk;pastry;oil;popcorn;snack products;detergent;shopping bags
 sausage;other vegetables;brown bread;salt;canned fish;shopping bags
 dessert;yogurt;soft cheese;soda
 citrus fruit;tropical fruit;pip fruit;root vegetables;other vegetables;chocolate;candy;shopping bags
-pip fruit;beverages;bottled water;soda;fruitvegetable juice;cling flim;shopping bags
+pip fruit;beverages;bottled water;soda;fruitvegetable juice;cling film;shopping bags
 yogurt;artif. sweetener;fruitvegetable juice;shopping bags
 butter;soda;fruitvegetable juice;bottled beer
 tropical fruit;curd;bottled water;napkins
@@ -9571,7 +9568,7 @@ bottled beer
 rolls-buns;brown bread
 other vegetables
 frankfurter;beef;tropical fruit;grapes;onions;other vegetables;whole milk;whipped sour cream;cream cheese;semi-finished bread;vinegar
-finished products;chicken;root vegetables;whole milk;butter milk;brown bread;fruitvegetable juice
+ chicken;root vegetables;whole milk;butter milk;brown bread;fruitvegetable juice
 sausage;pip fruit;root vegetables;cream cheese;specialty cheese;white bread;brown bread;salt;margarine;canned fish;bottled water;soda;waffles;shopping bags
 sausage;hamburger meat;other vegetables;rolls-buns;pasta;Instant food products;shopping bags
 rolls-buns
@@ -9601,10 +9598,10 @@ pastry
 whole milk
 ham;sliced cheese;white bread;canned vegetables;misc. beverages;shopping bags
 rolls-buns
-finished products
+
 pork;pip fruit;other vegetables;butter milk;white bread;pastry;soda;fruitvegetable juice
 oil;soda;newspapers
-finished products;onions;salty snack
+ onions;salty snack
 frankfurter;pork;citrus fruit;whole milk;whipped sour cream;rolls-buns;oil;sugar;soups;bottled water;bottled beer
 chicken;citrus fruit;onions;other vegetables;yogurt;pet care;pot plants
 frozen meals;canned beer;candy
@@ -9622,7 +9619,7 @@ chocolate
 soda
 ham;chicken;pork;root vegetables;whole milk;whipped sour cream;rolls-buns;sugar;soda;waffles;chocolate;specialty chocolate;chocolate marshmallow;napkins
 chewing gum;chocolate
-finished products;other vegetables;butter;cream cheese;processed cheese;domestic eggs;rolls-buns;pastry;long life bakery product;candy
+ other vegetables;butter;cream cheese;processed cheese;domestic eggs;rolls-buns;pastry;long life bakery product;candy
 soda
 frankfurter;yogurt;rolls-buns
 other vegetables;whole milk;curd
@@ -9633,7 +9630,7 @@ butter milk;frozen dessert;soda;shopping bags
 tropical fruit;pip fruit;yogurt
 pet care;bottled beer
 chicken;pip fruit;soda
-other vegetables;yogurt;whipped sour cream;frozen vegetables;rice;soda;chocolate;cling flim;flower seeds
+other vegetables;yogurt;whipped sour cream;frozen vegetables;rice;soda;chocolate;cling film;flower seeds
 other vegetables;packaged fruit;yogurt;whipped sour cream;beverages
 whole milk;instant coffee;misc. beverages;fruitvegetable juice;chewing gum;shopping bags
 whole milk
@@ -9725,7 +9722,7 @@ root vegetables;herbs;other vegetables;napkins;flower seeds
 chocolate
 sausage;root vegetables;other vegetables;whole milk;yogurt;beverages;brown bread;fruitvegetable juice
 tropical fruit;whole milk;butter;bottled water;hygiene articles;napkins
-finished products;yogurt;pasta
+ yogurt;pasta
 tropical fruit;long life bakery product;chocolate
 ham;chicken;other vegetables;whole milk;frozen vegetables;specialty chocolate
 root vegetables;rolls-buns;white bread;pastry;oil;Instant food products;napkins
@@ -9733,12 +9730,12 @@ newspapers
 pork;hamburger meat;tropical fruit;whole milk;margarine;canned vegetables;shopping bags
 coffee;photo-film
 citrus fruit;pip fruit;root vegetables;whole milk;butter;whipped sour cream;salt;tea;bottled water;chocolate
-bottled beer;liquor (appetizer);dental care;newspapers
+bottled beer;liquor_appetizer;dental care;newspapers
 frankfurter;rolls-buns;fruitvegetable juice
 rolls-buns
 frankfurter;soda
 chicken
-pip fruit;whole milk;yogurt;soft cheese;sliced cheese;cream cheese;margarine;bottled water;fruitvegetable juice;rum;cling flim
+pip fruit;whole milk;yogurt;soft cheese;sliced cheese;cream cheese;margarine;bottled water;fruitvegetable juice;rum;cling film
 citrus fruit;tropical fruit;oil
 root vegetables;other vegetables;pastry;pickled vegetables
 other vegetables;rolls-buns;soda;chocolate
@@ -9770,7 +9767,7 @@ tropical fruit;pip fruit;root vegetables;yogurt;whipped sour cream;cream cheese;
 soda
 yogurt;pastry
 UHT-milk;cream cheese;soda;waffles
-pastry;coffee;liquor (appetizer);red-blush wine;shopping bags
+pastry;coffee;liquor_appetizer;red-blush wine;shopping bags
 citrus fruit;pip fruit;other vegetables;UHT-milk;salty snack
 white bread
 oil;detergent
@@ -9830,6 +9827,6 @@ sausage;butter;rolls-buns;pickled vegetables;soda;fruitvegetable juice;waffles
 tropical fruit;other vegetables;domestic eggs;zwieback;ketchup;soda;dishes
 sausage;chicken;beef;hamburger meat;citrus fruit;grapes;root vegetables;whole milk;butter;whipped sour cream;flour;coffee;red-blush wine;salty snack;chocolate;hygiene articles;napkins
 cooking chocolate
-chicken;citrus fruit;other vegetables;butter;yogurt;frozen dessert;domestic eggs;rolls-buns;rum;cling flim
+chicken;citrus fruit;other vegetables;butter;yogurt;frozen dessert;domestic eggs;rolls-buns;rum;cling film
 semi-finished bread;bottled water;soda;bottled beer
 chicken;tropical fruit;other vegetables;vinegar;shopping bags

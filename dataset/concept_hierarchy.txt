@@ -320,7 +320,7 @@ PATH=Home/Groceries/Fresh Food/Meat, Fish & Poultry/Chicken & Turkey/turkey
 PATH=Home/Groceries/Food Cupboard/Condiments & Table Sauces/vinegar
 161.waffles
 PATH=Home/Groceries/Bakery/Cakes & Pies/waffles
-162.whipped/sour cream
+162.whipped sour cream
 PATH=Home/Groceries/Fresh Food/Dairy , Eggs & Cheese/whipped sour cream
 163.whisky
 PATH=Home/Groceries/Drinks/Spirits, Liqueurs & Fortified Wines/whisky

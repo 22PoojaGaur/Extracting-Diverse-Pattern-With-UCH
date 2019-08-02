@@ -7,8 +7,8 @@ Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese Milks UHT-milk
 abrasive_cleaner
 Home Groceries Household Cleaning abrasive_cleaner 
 
-artificial_sweetener
-Home Groceries Food_Cupboard Sugar_&_Sweetners artificial_sweetener 
+artif._sweetener
+Home Groceries Food_Cupboard Sugar_&_Sweetners artif._sweetener 
 
 baby_cosmetics
 Home Groceries Baby baby_cosmetics 
@@ -97,7 +97,7 @@ Home Groceries Fresh_Food Fresh_Fruit citrus_fruit
 cleaner
 Home Groceries Household Cleaning cleaner 
 
-cling_film-bags
+cling_film
 Home Groceries Household Food_Storage Bags cling_film 
 
 cocoa_drinks
@@ -190,7 +190,7 @@ Home Groceries Frozen_Food Frozen_Vegs,_Chips_&_Rice Potatoes_&_Chips frozen_pot
 frozen_vegetables
 Home Groceries Frozen_Food Frozen_Vegs,_Chips_&_Rice Vegetables_&_Fruits frozen_vegetables 
 
-fruit-vegetable_juice
+fruitvegetable_juice
 Home Groceries Drinks Smoothies,_Juice_&_Yoghurt_Drinks fruitvegetable_juice 
 
 grapes
@@ -274,8 +274,8 @@ Home Groceries Fresh_Food Meat,_Fish_&_Poultry meat
 meat_spreads
 Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese meat_spreads 
 
-misc_beverages
-Home Groceries Drinks Others misc_beverages 
+misc._beverages
+Home Groceries Drinks Others misc._beverages 
 
 mustard
 Home Groceries Food_Cupboard Cooking_Ingredients Herbs,_Spices_&_Salt mustard 
@@ -289,7 +289,7 @@ Home Groceries Home_&_Ents Magazines,_Newspapers_&_Tobacconis newspapers
 nut_snack
 Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets Nuts_&_Popcorn nuts-snack 
 
-nuts/prunes
+nuts-prunes
 Home Groceries Food_Cupboard Crisps,_Biscuits_&_Sweets Nuts_&_Popcorn nuts-prunes 
 
 oil
@@ -307,7 +307,7 @@ Home Groceries Food_Cupboard Organic organic_sausage
 other_vegetables
 Home Groceries Fresh_Food Vegetables other_vegetables 
 
-packaged_fruit/vegetables
+packaged_fruit
 Home Groceries Fresh_Food Fresh_Fruit packaged_fruit 
 
 pasta
@@ -481,7 +481,7 @@ Home Groceries Food_Cupboard Condiments_&_Table_Sauces vinegar
 waffles
 Home Groceries Bakery Cakes_&_Pies waffles 
 
-whipped/sour_cream
+whipped_sour_cream
 Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese whipped_sour_cream 
 
 whisky
@@ -500,5 +500,4 @@ yogurt
 Home Groceries Fresh_Food Dairy_,_Eggs_&_Cheese yogurt 
 
 zwieback
-Home Groceries Bakery Breads zwieback 
-
+Home Groceries Bakery Breads zwieback
