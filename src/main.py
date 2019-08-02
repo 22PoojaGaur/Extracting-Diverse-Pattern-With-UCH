@@ -1,4 +1,5 @@
-# @author 1995YogeshSharma
+# @author 22PoojaGaur
+
 from __future__ import division
 import sys
 import copy
@@ -70,7 +71,7 @@ class Tree(object):
 
         if self.root is None:
             logging.debug("Tree is not built.")
-            print ("Tree is not built")
+            print("Tree is not built")
             return
 
         print(self.root.value + '\n')
@@ -143,9 +144,10 @@ class Tree(object):
         return 
 
     def convert_to_balanced(self, current):
-
+        logging.debug("converting to balanced with current " + current.value)
         # check if any children of current is leaf
         for child_num in range(0, len(current.children)):
+            logging.debug("children of current " + ' '.join([c.value for c in current.children]))
             # if leaf, extend
             if current.children[child_num].is_leaf():
                 # extend
@@ -158,8 +160,9 @@ class Tree(object):
                     self.node_count, "dummy", is_dummy=True, depth=(current.depth + 1))
                 new_current = current.children[child_num]
                 while new_current.depth < self.height - 1:
+                    logging.debug("depth of new current " + new_current.value + " is " + str(new_current.depth))
                     new_current.children.append(
-                        Node(self.node_count, "dummy", is_dummy=True, depth=(current.depth + 1)))
+                        Node(self.node_count, "dummy", is_dummy=True, depth=(new_current.depth + 1)))
                     new_current = new_current.children[0]
                 child_copy.depth = new_current.depth + 1
                 new_current.children.append(child_copy)
@@ -170,10 +173,10 @@ class Tree(object):
 
     def get_level_factor(self, depth):
         """Returns level factor for a given depth"""
-        if depth > (self.height - 1):
+        if depth > (self.height):
             return 0
 
-        return (2 * (self.height - depth)) / (self.height * (self.height - 1))
+        return (2 * (self.height - (depth-1))) / (self.height * (self.height - 1))
 
     def get_merge_factor(self, depth):
         """ MF = (Num nodes at level `depth` - 1) / (Num nodes at level `depth + 1` -1)"""
@@ -233,19 +236,19 @@ def read_input():
             is_item = 1
     
     # threshold randomly decided
-    freq_patterns = patterns.extract_frequent_patterns(fpat, 3)
+    freq_patterns = patterns.extract_frequent_patterns(fpat, 18)
     
     return (item_path_dict, freq_patterns)
 
 
 def main():
     (item_path_dict, freq_patterns) = read_input()
-    
+    fout = open('temp_result.txt', 'w')
     dranks = [0]*len(freq_patterns)
     idx = 0
     for pattern in freq_patterns:
         logging.info("processing pattern %s", ' '.join(pattern))
-        #print("processing pattern %s", ' '.join(pattern))
+        print("processing pattern %s", ' '.join(pattern))
         CH = Tree()
         for item in pattern:
             CH.insert_nodes(item_path_dict[item])
@@ -267,10 +270,14 @@ def main():
             logging.debug("level factor " + str(level_factor))
             logging.debug("merge_factor " + str(merge_factor))
             logging.debug("adjustment_factor " + str(adjustment_factor))
-
+            # with E
+            #drank += merge_factor * adjustment_factor * level_factor
+            # without E
             drank += merge_factor * level_factor
             logging.debug("drank till level " + str(level) + " is " + str(drank))
         dranks[idx] = drank
+        #fout.write('pattern - ', ' '.join(pattern))
+        #fout.write('drank - ', str(dranks[idx]))
         idx += 1
         del CH
 
